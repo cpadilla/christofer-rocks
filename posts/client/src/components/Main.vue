@@ -3,17 +3,17 @@
     <h1>{{ msg }}</h1>
     <ul>
       <li>
-        <a href="/" target="_blank" >
+        <a href="/" target="_self" >
           Art
         </a>
       </li>
       <li>
-        <a href="/" target="_blank">
+        <a href="/" target="_self">
           Games
         </a>
       </li>
       <li>
-        <a href="/Blog" target="_blank">
+        <a href="/Blog" target="_self">
           Blog
         </a>
       </li>
