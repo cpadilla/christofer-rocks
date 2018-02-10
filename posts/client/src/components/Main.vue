@@ -1,23 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <ul>
-      <li>
-        <a href="/" target="_self" >
-          Art
-        </a>
-      </li>
-      <li>
-        <a href="/" target="_self">
-          Games
-        </a>
-      </li>
-      <li>
-        <a href="/Blog" target="_self">
-          Blog
-        </a>
-      </li>
-    </ul>
+    <!-- <h1>{{ msg }}</h1> -->
   </div>
 </template>
 
