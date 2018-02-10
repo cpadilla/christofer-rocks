@@ -1,10 +1,16 @@
 <template>
-  <div id="app">
-    <div id="container" class="unselectable">
-      <span id="tweet" v-html="tweet">{{ tweet }}</span>
-    </div>
+    <div id="app">
+    <link rel="stylesheet" href="vue-animate.min.css"/>
+      <transition>
+        <div id="container" class="unselectable">
+            <span v-if="show" transition="fadeDown" id="tweet" v-html="tweet">{{ tweet }}</span>
+        </div>
+      </transition>
     <div id="logo"/>
     <!-- <img src="./assets/logo.png"> -->
+    <!-- <button @click="show = !show">
+      Toggle render
+    </button> -->
     <ul>
       <li>
         <a href="/" target="_self" >
@@ -33,10 +39,12 @@ import Autolinker from 'Autolinker'
 export default {
   name: 'App',
   // eslint-disable-next-line
+  // el: '#container', 
   data () {
     return {
       // tweet: 'Lorem ipsum dolor sit amet, nonummy ligula volutpat hac integer nonummy. Suspendisse ultricies, congue etiam tellus, erat libero, nulla eleifend, mauris pellentesque. Suspendisse integer praesent vel, integer gravida mauris, fringilla vehicula lacinia non'
-      tweet: '...'
+      tweet: '...',
+      show: true
     }
   },
 

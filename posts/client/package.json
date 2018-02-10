@@ -15,9 +15,11 @@
     "deploy": "npm run build && push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
+    "animate.css": "^3.6.1",
     "autolinker": "^1.6.1",
     "axios": "^0.17.1",
     "vue": "^2.5.2",
+    "vue-animate": "0.0.4",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
