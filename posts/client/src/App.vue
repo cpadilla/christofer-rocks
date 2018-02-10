@@ -55,7 +55,7 @@ export default {
       .then(response => {
         // Json responses are automatically parsed
         console.log(response.data)
-        this.tweet = Autolinker.link(response.data[0].text, { mention: 'twitter' })
+        this.tweet = Autolinker.link(response.data[0].text, { mention: 'twitter', hashtag: 'twitter' })
       })
       .catch(e => {
         console.error(e)
