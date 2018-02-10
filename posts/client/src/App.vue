@@ -56,7 +56,7 @@ export default {
         // Json responses are automatically parsed
         console.log(response.data)
         // this.tweet = Autolinker.link(response.data[4].text)
-        this.tweet = response.data[4].text
+        this.tweet = response.data[0].text
       })
       .catch(e => {
         console.error(e)
