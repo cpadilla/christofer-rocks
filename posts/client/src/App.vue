@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="container" class="unselectable">
-      <span id="tweet">{{ tweet }}</span>
+      <span id="tweet" v-html="tweet">{{ tweet }}</span>
     </div>
     <div id="logo"/>
     <!-- <img src="./assets/logo.png"> -->
@@ -17,7 +17,7 @@
         </a>
       </li>
       <li>
-        <a href="/Blog" target="_self">
+        <a href="/" target="_self">
           Blog
         </a>
       </li>
@@ -55,8 +55,7 @@ export default {
       .then(response => {
         // Json responses are automatically parsed
         console.log(response.data)
-        // this.tweet = Autolinker.link(response.data[4].text)
-        this.tweet = response.data[0].text
+        this.tweet = Autolinker.link(response.data[0].text, { mention: 'twitter' })
       })
       .catch(e => {
         console.error(e)
