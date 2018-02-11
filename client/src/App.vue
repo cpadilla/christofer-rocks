@@ -2,15 +2,16 @@
 
   <div id="app">
     <link rel="stylesheet" href="animate.min.css"/>
-    <transition
-      appear
+      <!-- appear
       appear-class="fadeInDown"
-      appear-active-class="fadeInDown">
-      <div id="container" class="unselectable">
-        <span id="tweet">{{ tweet }}</span>
-      </div>
-    </transition>
+      appear-active-class="fadeInDown"> -->
+    <div id="container" class="unselectable">
+      <transition name="fade" class="animated fadeInDown">
+        <span v-if="show" id="tweet">{{ tweet }}</span>
+      </transition>
+    </div>
     <div id="logo"/>
+    <button v-on:click="show = !show">{{ show }}</button>
     <!-- <img src="./assets/logo.png"> -->
     <ul>
       <li>
@@ -129,4 +130,11 @@ li {
 a {
   color: #42b983;
 }
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
+
 </style>
