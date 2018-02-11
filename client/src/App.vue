@@ -2,14 +2,19 @@
 
   <div id="app">
     <link rel="stylesheet" href="animate.min.css"/>
-    <div id="container" class="unselectable">
-      <span id="tweet">{{ tweet }}</span>
-    </div>
+    <!-- <transition
+      appear
+      appear-class="fadeInDown"
+      appear-active-class="fadeInDown"> -->
+      <div id="container" class="unselectable">
+        <span id="tweet">{{ tweet }}</span>
+      </div>
+    <!-- </transition> -->
     <div id="logo"/>
     <!-- <img src="./assets/logo.png"> -->
     <ul>
       <li>
-        <a href="/" target="_self" >
+        <a id="testing" href="/" target="_self" >
           Art
         </a>
       </li>
@@ -64,6 +69,11 @@ export default {
         console.error(e)
         this.tweet = "Hmm... for some reason I can't reach my twitter account."
       })
+  },
+  methods: {
+    fadeInDown: function (el) {
+      el.style.opacity = 0
+    }
   }
 }
 </script>
