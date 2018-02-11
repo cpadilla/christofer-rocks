@@ -1,15 +1,16 @@
 <template>
-  <div class="hello">
-    <!-- <h1>{{ msg }}</h1> -->
+  <div id="app">
+    <!-- <img src="./assets/logo.png"> -->
+    <router-view/>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Main',
+  el: '#app',
   data () {
     return {
-      msg: 'Hi! My name is Chris.'
+      msg: ''
     }
   }
 }
@@ -17,8 +18,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
-  font-weight: normal;
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
 }
 ul {
   list-style-type: none;
