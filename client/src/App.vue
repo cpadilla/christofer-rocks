@@ -2,14 +2,14 @@
 
   <div id="app">
     <link rel="stylesheet" href="animate.min.css"/>
-    <!-- <transition
+    <transition
       appear
       appear-class="fadeInDown"
-      appear-active-class="fadeInDown"> -->
+      appear-active-class="fadeInDown">
       <div id="container" class="unselectable">
         <span id="tweet">{{ tweet }}</span>
       </div>
-    <!-- </transition> -->
+    </transition>
     <div id="logo"/>
     <!-- <img src="./assets/logo.png"> -->
     <ul>
@@ -52,7 +52,7 @@ export default {
   created () {
     var config = {
       headers: {
-        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518231749",oauth_nonce="TJAXT0LdBlw",oauth_version="1.0",oauth_signature="D7uCW4yMfg95I%2FZrdGuuQJ05Cls%3D"',
+        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518327201",oauth_nonce="f5NPigwXFVL",oauth_version="1.0",oauth_signature="c%2Fi9lBFNGVCTn%2BKOVD%2Fxd6tslRs%3D"',
         'count': 1,
         'screen_name': 'rockzombie2'
       }
@@ -69,11 +69,6 @@ export default {
         console.error(e)
         this.tweet = "Hmm... for some reason I can't reach my twitter account."
       })
-  },
-  methods: {
-    fadeInDown: function (el) {
-      el.style.opacity = 0
-    }
   }
 }
 </script>
