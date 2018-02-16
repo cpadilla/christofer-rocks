@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    <link rel="stylesheet" href="animate.min.css"/>
-      <!-- appear
-      appear-class="fadeInDown"
-      appear-active-class="fadeInDown"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.1"/>
       <div id="container" class="unselectable">
-        <span id="tweet" v-html="tweet"></span>
+        <transition name="custom-classes-transition"
+          enter-active-class="animated fadeInDown">
+          <span id="tweet" v-if="show" v-html="tweet"></span>
+        </transition>
       </div>
     <div id="logo"/>
     <ul>
@@ -41,7 +41,12 @@ export default {
     return {
       // tweet: 'Lorem ipsum dolor sit amet, nonummy ligula volutpat hac integer nonummy. Suspendisse ultricies, congue etiam tellus, erat libero, nulla eleifend, mauris pellentesque. Suspendisse integer praesent vel, integer gravida mauris, fringilla vehicula lacinia non'
       tweet: '...',
-      show: true
+      show: false
+    }
+  },
+  watch: {
+    tweet: function (newValue, oldValue) {
+      this.show = true
     }
   },
   // Fetches Twitter tweets when component is created.
@@ -60,6 +65,7 @@ export default {
         // Json responses are automatically parsed
         console.log(response.data)
         this.tweet = Autolinker.link(response.data[0].text, { mention: 'twitter', hashtag: 'twitter' })
+        this.show = true
       })
       .catch(e => {
         console.error(e)
