@@ -11,9 +11,9 @@
       </div>
     </transition>
     <div id="logo"/>
-    <button @click="show = !show">
+    <!-- <button @click="show = !show">
       {{ show }}
-    </button>
+    </button> -->
     <!-- <img src="./assets/logo.png"> -->
     <ul>
       <li>
