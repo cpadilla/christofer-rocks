@@ -1,4 +1,3 @@
-
 <template>
   <div id="Blog">
     <ul>
@@ -29,7 +28,7 @@ export default {
   data () {
     return {
       i: '',
-      posts: [ { title: 'Loading...' } ]
+      posts: [ { title: 'Requesting tumblr API...' } ]
     }
   },
   created () {
