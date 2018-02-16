@@ -20,7 +20,7 @@
         </a>
       </li>
       <li>
-        <a href="https://christoferpadilla.tumblr.com/" @click="currentView='Blog'">
+        <a href="#" @click="currentView='Blog'">
           Blog
         </a>
       </li>
@@ -85,7 +85,7 @@ export default {
 // })
 </script>
 
-<style>
+<style scoped>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

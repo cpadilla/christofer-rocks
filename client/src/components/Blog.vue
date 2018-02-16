@@ -1,17 +1,23 @@
 
 <template>
   <div id="Blog">
-    <span>Blog will be shown here.</span>
-    <!-- <ul>
+    <ul>
         <div v-for="i in posts" :key="i.id">
             <div class="art-container">
-                <img class="img" :src="i.photos[0].original_size.url"/>
-                <div class="caption">{{ i.summary }}</div>
+                <div v-if="i.type === 'text'">
+                  <div class="title">{{ i.title }}</div>
+                  <div class="date">{{ i.date }}</div>
+                  <div class="body" v-html="i.body"></div>
+                </div>
+                <div v-else-if="i.type === 'photo'">
+                  <img class="img" :src="i.photos[0].original_size.url"/>
+                  <div class="date">{{ i.date }}</div>
+                  <div class="caption" v-html="i.caption"></div>
+                </div>
             </div>
         </div>
-    </ul> -->
+    </ul>
 
-    <!-- <div id="show-u"/> -->
   </div>
 </template>
 
@@ -22,24 +28,17 @@ export default {
   name: 'Blog',
   data () {
     return {
-      link: '',
       i: '',
-      art: [
-        {text: 'test1'},
-        {text: 'test2'},
-        {text: 'test3'}
-      ],
-      posts: []
+      posts: [ { title: 'Loading...' } ]
     }
   },
   created () {
     const proxyurl = 'https://cors-anywhere.herokuapp.com/'
-    const url = 'https://api.tumblr.com/v2/blog/christoferpadilla.tumblr.com/posts/photo?api_key=9p4IzseFgnKKyDh2eWO4R9QVctMV2ckEcxeTgtekoRRNOMfI6h'
+    const url = 'https://api.tumblr.com/v2/blog/christoferpadilla.tumblr.com/posts?api_key=9p4IzseFgnKKyDh2eWO4R9QVctMV2ckEcxeTgtekoRRNOMfI6h'
     axios.get(proxyurl + url)
       .then(response => {
         // Json responses are automatically parsed
         console.log(response.data)
-        this.link = response.data.response.posts[0].photos[0].original_size.url
         this.posts = response.data.response.posts
       })
       .catch(e => {
@@ -60,5 +59,45 @@ export default {
 
 .img {
     width: 100%;
+}
+
+.title  {
+  font-weight: bold;
+}
+
+.date {
+  font-size: 60%;
+}
+
+.body {
+  text-align: justify;
+}
+
+/* .body > img {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+} */
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: list-item !important;
+}
+</style>
+
+<style>
+
+.body > img {
+  text-align: center;
+}
+
+img {
+  width: 100%;
 }
 </style>
