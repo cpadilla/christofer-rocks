@@ -7,14 +7,10 @@
       appear-class="fadeInDown"
       appear-active-class="fadeInDown">
       <div id="container" class="unselectable">
-        <span id="tweet">{{ tweet }}</span>
+        <span id="tweet" v-html="tweet"></span>
       </div>
     </transition>
     <div id="logo"/>
-    <!-- <button @click="show = !show">
-      {{ show }}
-    </button> -->
-    <!-- <img src="./assets/logo.png"> -->
     <ul>
       <li>
         <a id="testing" href="/" target="_self" >
