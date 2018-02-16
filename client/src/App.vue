@@ -42,10 +42,8 @@ Vue.component('Art', require('./components/Art.vue'))
 export default {
   name: 'App',
   // eslint-disable-next-line
-  // el: '#container', 
   data () {
     return {
-      // tweet: 'Lorem ipsum dolor sit amet, nonummy ligula volutpat hac integer nonummy. Suspendisse ultricies, congue etiam tellus, erat libero, nulla eleifend, mauris pellentesque. Suspendisse integer praesent vel, integer gravida mauris, fringilla vehicula lacinia non'
       tweet: '...',
       show: false,
       currentView: 'div'
