@@ -10,28 +10,34 @@
     <div id="logo"/>
     <ul>
       <li>
-        <a id="testing" href="/" target="_self" >
+        <a href="#" @click="currentView='Art'">
           Art
         </a>
       </li>
       <li>
-        <a href="/" target="_self">
+        <a href="#" @click="currentView='Games'">
           Games
         </a>
       </li>
       <li>
-        <a href="/" target="_self">
+        <a href="#" @click="currentView='Blog'">
           Blog
         </a>
       </li>
     </ul>
-    <router-view/>
+    <component :is="currentView"></component>
   </div>
 </template>
 
 <script>
+import Vue from 'Vue'
 import axios from 'axios'
+import Art from './components/Art.vue'
+import Games from './components/Games.vue'
+import Blog from './components/Blog.vue'
 import Autolinker from 'Autolinker'
+
+Vue.component('Art', require('./components/Art.vue'))
 
 export default {
   name: 'App',
@@ -41,9 +47,11 @@ export default {
     return {
       // tweet: 'Lorem ipsum dolor sit amet, nonummy ligula volutpat hac integer nonummy. Suspendisse ultricies, congue etiam tellus, erat libero, nulla eleifend, mauris pellentesque. Suspendisse integer praesent vel, integer gravida mauris, fringilla vehicula lacinia non'
       tweet: '...',
-      show: false
+      show: false,
+      currentView: 'div'
     }
   },
+  components: {Art: Art, Games: Games, Blog: Blog},
   watch: {
     tweet: function (newValue, oldValue) {
       this.show = true
@@ -73,6 +81,10 @@ export default {
       })
   }
 }
+
+// Vue.component('Art', {
+//   template: '#Art'
+// })
 </script>
 
 <style>
