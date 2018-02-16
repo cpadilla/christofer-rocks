@@ -1,18 +1,13 @@
 <template>
-
   <div id="app">
     <link rel="stylesheet" href="animate.min.css"/>
       <!-- appear
       appear-class="fadeInDown"
       appear-active-class="fadeInDown"> -->
-    <div id="container" class="unselectable">
-      <transition name="fade" class="animated fadeInDown">
-        <span v-if="show" id="tweet">{{ tweet }}</span>
-      </transition>
-    </div>
+      <div id="container" class="unselectable">
+        <span id="tweet" v-html="tweet"></span>
+      </div>
     <div id="logo"/>
-    <button v-on:click="show = !show">{{ show }}</button>
-    <!-- <img src="./assets/logo.png"> -->
     <ul>
       <li>
         <a id="testing" href="/" target="_self" >
@@ -53,7 +48,7 @@ export default {
   created () {
     var config = {
       headers: {
-        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518327201",oauth_nonce="f5NPigwXFVL",oauth_version="1.0",oauth_signature="c%2Fi9lBFNGVCTn%2BKOVD%2Fxd6tslRs%3D"',
+        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518749707",oauth_nonce="f1Kn4lWsrJH",oauth_version="1.0",oauth_signature="R%2BRJk5KE%2B2WaJTbwRHDJwH1pyEY%3D"',
         'count': 1,
         'screen_name': 'rockzombie2'
       }
