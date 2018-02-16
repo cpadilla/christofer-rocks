@@ -18,8 +18,28 @@ new Vue({
   el: '#app',
   router,
   components: { App },
-  template: '<App/>'
+  template: '<App/>',
+  data: {
+    art: [
+      {text: 'test message 1'},
+      {text: 'test message 2'},
+      {text: 'test message 3'}
+    ]
+  }
 })
+
+// new Vue({
+//   el: '#Art',
+//   router,
+//   componenets: { Art },
+//   template: '<Art/>',
+//   data: {
+//     art: [
+//       {text: 'testmessage1'}
+//     ]
+//   }
+
+// })
 
 // router.map({
 //   '#Art': {

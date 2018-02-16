@@ -20,7 +20,7 @@
         </a>
       </li>
       <li>
-        <a href="#" @click="currentView='Blog'">
+        <a href="https://christoferpadilla.tumblr.com/" @click="currentView='Blog'">
           Blog
         </a>
       </li>
