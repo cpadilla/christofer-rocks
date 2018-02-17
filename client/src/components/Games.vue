@@ -3,9 +3,9 @@
     <ul>
         <div>Games will be shown here.</div>
         <div v-for="repo in repos" :key="repo.id">
-            <!-- <div class="game-container">
-                {{ repo.id }}
-            </div> -->
+            <div class="game-container">
+                {{ repo.name }}
+            </div>
         </div>
     </ul>
 
@@ -23,6 +23,9 @@ export default {
       repos: []
     }
   },
+  checkTag (name) {
+
+  },
   created () {
     const proxyurl = 'https://cors-anywhere.herokuapp.com/'
     const url = 'https://api.github.com/users/cpadilla/repos'
@@ -30,7 +33,18 @@ export default {
       .then(response => {
         // Json responses are automatically parsed
         console.log(response.data)
-        this.repos = response.data
+        var i
+        for (i = 0; i < response.data.length; i++) {
+          const newUrl = 'https://api.github.com/repos/cpadilla/' + response.data[i].name + '/topics'
+          axios.get(newUrl)
+            .then(response2 => {
+              console.log(response2)
+              if (response2.data.names.includes('game')) {
+                this.repos = response.data
+              }
+            })
+        }
+        // this.repos = response.data
       })
       .catch(e => {
         console.error(e)

@@ -1,35 +1,69 @@
 <template>
   <div id="app">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.1"/>
-      <div id="container" class="unselectable">
-        <transition name="custom-classes-transition"
-          enter-active-class="animated fadeInDown">
-          <span id="tweet" v-if="show" v-html="tweet"></span>
-        </transition>
-      </div>
+    <div id="container" class="unselectable">
+      <transition name="custom-classes-transition"
+        enter-active-class="animated fadeInDown">
+        <span id="tweet" v-if="show" v-html="tweet"></span>
+      </transition>
+    </div>
     <div id="logo"/>
-    <ul>
-      <li>
-        <a href="#" @click="currentView='Art'">
-          Art
-        </a>
-      </li>
-      <li>
-        <a href="#" @click="currentView='Games'">
-          Games
-        </a>
-      </li>
-      <li>
-        <a href="#" @click="currentView='Blog'">
-          Blog
-        </a>
-      </li>
-    </ul>
+    <table>
+      <tr>
+        <td id="empty">
+        </td>
+        <td>
+          <a @mouseover="hovering1 = true" @mouseleave="hovering1 = false" href="#" @click="currentView='Art'">
+            Art
+          </a>
+        </td>
+        <td>
+          <a @mouseover="hovering2 = true" @mouseleave="hovering2 = false" href="#" @click="currentView='Games'">
+            Games
+          </a>
+        </td>
+        <td>
+          <a @mouseover="hovering3 = true" @mouseleave="hovering3 = false" href="#" @click="currentView='Blog'">
+            Blog
+          </a>
+        </td>
+        <td id="empty">
+        </td>
+      </tr>
+      <tr class="underscore-row">
+        <td id="empty">
+        </td>
+        <td>
+          <transition name="custom-classes-transition"
+          enter-active-class="animated fadeInUp"
+          leave-active-class="animated fadeOutDown">
+            <div v-show="hovering1" id="underscore"/>
+          </transition>
+        </td>
+        <td>
+          <transition name="custom-classes-transition"
+          enter-active-class="animated fadeInUp"
+          leave-active-class="animated fadeOutDown">
+            <div v-show="hovering2" id="underscore"/>
+          </transition>
+        </td>
+        <td>
+          <transition name="custom-classes-transition"
+          enter-active-class="animated fadeInUp"
+          leave-active-class="animated fadeOutDown">
+            <div v-show="hovering3" id="underscore"/>
+          </transition>
+        </td>
+        <td id="empty">
+        </td>
+      </tr>
+    </table>
     <component :is="currentView"></component>
   </div>
 </template>
 
 <script>
+/* eslint-disable */
 import Vue from 'Vue'
 import axios from 'axios'
 import Art from './components/Art.vue'
@@ -44,6 +78,9 @@ export default {
   // eslint-disable-next-line
   data () {
     return {
+      hovering1: false,
+      hovering2: false,
+      hovering3: false,
       tweet: '...',
       show: false,
       currentView: 'div'
@@ -59,7 +96,7 @@ export default {
   created () {
     var config = {
       headers: {
-        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518749707",oauth_nonce="f1Kn4lWsrJH",oauth_version="1.0",oauth_signature="R%2BRJk5KE%2B2WaJTbwRHDJwH1pyEY%3D"',
+        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518842073",oauth_nonce="A2LA4BEVs1m",oauth_version="1.0",oauth_signature="bbcStIvCpr56tTBfnFcPRH8yCrw%3D"',
         'count': 1,
         'screen_name': 'rockzombie2'
       }
@@ -121,6 +158,16 @@ export default {
   width: 200px;
   height: 200px;
 }
+#underscore {
+  height: 3px;
+  width: 100px;
+  /* display: inline-block; */
+  background: url('assets/underscore.png');
+  margin-top: 10px;
+}
+#empty {
+  height: 13px;
+}
 .unselectable {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -130,16 +177,30 @@ export default {
   user-select: none;
   cursor: default;
 }
+table {
+  padding-top: 20px;
+  display: table;
+  margin: 0 auto;
+}
+td {
+  width: 100px;
+  padding: 0px 20px;
+}
 ul {
+  min-width: 300px;
+  list-style: none;
   list-style-type: none;
-  padding: 0;
+  padding: 20px 0px;
 }
 li {
-  display: inline-block;
+  display: inline;
   margin: 0 10px;
+  padding: 0px 10px;
 }
 a {
   color: #42b983;
+  text-decoration: none;
+  font-size: x-large;
 }
 .fade-enter-active, .fade-leave-active {
   transition: opacity .5s;
