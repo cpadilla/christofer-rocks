@@ -54,6 +54,7 @@ export default {
     text-align: center;
     /* width: 500px; */
     padding: 10px 100px;
+    max-width: 50vw;
 }
 
 .img {

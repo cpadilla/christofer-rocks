@@ -53,13 +53,14 @@ export default {
 
 <style scoped>
 .art-container {
-    display: inline-block;
-    text-align: center;
-    /* width: 500px; */
-    padding: 10px 100px;
+  display: inline-block;
+  text-align: center;
+  /* width: 500px; */
+  padding: 10px 100px;
+  max-width: 50vw;
 }
 
 .img {
-    width: 100%;
+  width: 100%;
 }
 </style>

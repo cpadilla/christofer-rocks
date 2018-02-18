@@ -96,7 +96,7 @@ export default {
   created () {
     var config = {
       headers: {
-        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518842073",oauth_nonce="A2LA4BEVs1m",oauth_version="1.0",oauth_signature="bbcStIvCpr56tTBfnFcPRH8yCrw%3D"',
+        'Authorization': 'OAuth oauth_consumer_key="OXkNIcCUl2D6cBJ6XDoOVN5ky",oauth_token="88245391-BenOOM9aVnVoxCJbCSUIejlqMy7TURat3EnHQTo9o",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1518936503",oauth_nonce="UVQFOEOKAaR",oauth_version="1.0",oauth_signature="dCM9%2B8e3XAS%2BA5RyV%2Bih%2BBtRZPw%3D"',
         'count': 1,
         'screen_name': 'rockzombie2'
       }
@@ -160,7 +160,7 @@ export default {
 }
 #underscore {
   height: 3px;
-  width: 100px;
+  width: 100%;
   /* display: inline-block; */
   background: url('assets/underscore.png');
   margin-top: 10px;
