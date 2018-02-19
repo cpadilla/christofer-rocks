@@ -27,11 +27,11 @@
             Blog
           </a>
         </td>
-        <td>
+        <!-- <td>
           <a @mouseover="hovering4 = true" @mouseleave="hovering4 = false" href="#" @click="currentView='About'">
             About
           </a>
-        </td>
+        </td> -->
         <td id="empty">
         </td>
       </tr>
@@ -59,13 +59,13 @@
             <div v-show="hovering3" id="underscore"/>
           </transition>
         </td>
-        <td>
+        <!-- <td>
           <transition name="custom-classes-transition"
           enter-active-class="animated fadeInUp"
           leave-active-class="animated fadeOutDown">
             <div v-show="hovering4" id="underscore"/>
           </transition>
-        </td>
+        </td> -->
         <td id="empty">
         </td>
       </tr>
