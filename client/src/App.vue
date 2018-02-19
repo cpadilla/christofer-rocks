@@ -27,6 +27,11 @@
             Blog
           </a>
         </td>
+        <td>
+          <a @mouseover="hovering4 = true" @mouseleave="hovering4 = false" href="#" @click="currentView='About'">
+            About
+          </a>
+        </td>
         <td id="empty">
         </td>
       </tr>
@@ -54,6 +59,13 @@
             <div v-show="hovering3" id="underscore"/>
           </transition>
         </td>
+        <td>
+          <transition name="custom-classes-transition"
+          enter-active-class="animated fadeInUp"
+          leave-active-class="animated fadeOutDown">
+            <div v-show="hovering4" id="underscore"/>
+          </transition>
+        </td>
         <td id="empty">
         </td>
       </tr>
@@ -69,6 +81,7 @@ import axios from 'axios'
 import Art from './components/Art.vue'
 import Games from './components/Games.vue'
 import Blog from './components/Blog.vue'
+import About from './components/About.vue'
 import Autolinker from 'Autolinker'
 
 Vue.component('Art', require('./components/Art.vue'))
@@ -81,12 +94,13 @@ export default {
       hovering1: false,
       hovering2: false,
       hovering3: false,
+      hovering4: false,
       tweet: '...',
       show: false,
       currentView: 'div'
     }
   },
-  components: {Art: Art, Games: Games, Blog: Blog},
+  components: {Art: Art, Games: Games, Blog: Blog, About: About},
   watch: {
     tweet: function (newValue, oldValue) {
       this.show = true
@@ -112,7 +126,7 @@ export default {
       })
       .catch(e => {
         console.error(e)
-        this.tweet = "Hmm... for some reason I can't reach my twitter account."
+        this.tweet = Autolinker.link("Hi! Welcome to my website! Follow me on twitter @rockzombie2 and catch me live at https://twitch.tv/rockzombie2", { mention: 'twitter', hashtag: 'twitter' })
       })
   }
 }
@@ -190,7 +204,7 @@ ul {
   min-width: 300px;
   list-style: none;
   list-style-type: none;
-  padding: 20px 0px;
+  /* padding: 20px 0px; */
 }
 li {
   display: inline;

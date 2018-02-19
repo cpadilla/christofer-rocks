@@ -4,7 +4,10 @@
         <div v-for="i in posts" :key="i.id">
             <div class="art-container">
                 <div v-if="i.type === 'text'">
-                  <div class="title">{{ i.title }}</div>
+                  <a class="title" :href="i.post_url" target="_blank">
+                    <!-- <div class="title">{{ i.title }}</div> -->
+                    {{ i.title }}
+                  </a>
                   <div class="date">{{ i.date }}</div>
                   <div class="body" v-html="i.body"></div>
                 </div>

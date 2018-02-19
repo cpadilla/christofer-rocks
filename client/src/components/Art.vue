@@ -1,18 +1,15 @@
 <template>
   <div id="Art">
-    <!-- <span>Art will be shown here.</span> -->
     <ul>
         <div v-for="i in posts" :key="i.id">
-            <!-- <img :src="link"/> -->
-            <div class="art-container">
-                <img class="img" :src="i.photos[0].original_size.url"/>
-                <div class="caption">{{ i.summary }}</div>
-            </div>
-            <!-- {{ link }} -->
+          <div class="art-container">
+              <a :href="i.post_url" target="_blank">
+              <img class="img" :src="i.photos[0].original_size.url"/>
+              </a>
+              <div class="caption">{{ i.summary }}</div>
+          </div>
         </div>
     </ul>
-
-    <!-- <div id="show-u"/> -->
   </div>
 </template>
 
@@ -35,7 +32,7 @@ export default {
   },
   created () {
     const proxyurl = 'https://cors-anywhere.herokuapp.com/'
-    const url = 'https://api.tumblr.com/v2/blog/feel-euphoria.tumblr.com/posts/photo?api_key=9p4IzseFgnKKyDh2eWO4R9QVctMV2ckEcxeTgtekoRRNOMfI6h'
+    const url = 'https://api.tumblr.com/v2/blog/christofer-art.tumblr.com/posts/photo?api_key=9p4IzseFgnKKyDh2eWO4R9QVctMV2ckEcxeTgtekoRRNOMfI6h'
     axios.get(proxyurl + url)
       .then(response => {
         // Json responses are automatically parsed
