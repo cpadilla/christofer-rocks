@@ -53,11 +53,16 @@ export default {
   display: inline-block;
   text-align: center;
   /* width: 500px; */
-  padding: 10px 100px;
+  padding: 20px 100px;
   max-width: 50vw;
 }
 
 .img {
   width: 100%;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
 }
 </style>

@@ -120,7 +120,7 @@ export default {
   width: 500px; /* display: inline-block; */
   text-align: center;
   /* width: 500px; */
-  padding: 10px 100px;
+  padding: 10px 0px;
   max-width: 60vw;
 }
 
