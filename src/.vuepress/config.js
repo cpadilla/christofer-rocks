@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Christofer\'s Blog',
-    description: 'My tech and life blog',
+    title: 'Reflections',
+    description: 'A glimpse into my personal reflections.',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
