@@ -4,6 +4,7 @@ date: Thursday, December 31, 2020
 description: A guide on how I created my own blog and how you can too.
 author: Christofer Padilla
 type: article
+tags: ["Guides"]
 ---
 
 # How to Create Your Own Blog 100% for Free
@@ -73,3 +74,6 @@ That's all there is to it! It's not that bad at all and now creating blog posts 
 Finally, if you do decide to spend money and obtain a custom domain, you can follow [these](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) steps to redirect your GitHub page to your new domain. Don't forget to uncomment out the relevant line in your deploy script!
 
 Hopefully, this guide will help you create your own blog and stake your claim in internet territory without the need of social media platforms. This is great because not only can you host all types of media, but you can also use Vue and HTML to create and share unique components as well such as panoramas, tweets and other widgets. It's truly the wild west of the web!
+
+<TagLinks />
+

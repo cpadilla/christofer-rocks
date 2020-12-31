@@ -1,9 +1,10 @@
 ---
 title: Reflections at Interfaces
 date: Wednesday, December 30, 2020
-description: An second interesting coincidence noticed in defining interface.
+description: A second interesting coincidence noticed in defining interface.
 author: Christofer Padilla
 type: article
+Tags: ["Reflections", "Inspiration", "Astronomy", "Light"]
 ---
 
 # Reflections at Interfaces
@@ -32,5 +33,5 @@ Therefore, I have two backup systems beyond my own thoughts that facilitate self
 
 Interesting. I like to think we are more like computer systems than you would suspect. If so, the ability to code and self reflect are powerful skills, indeed.
 
-
+<TagLinks />
 

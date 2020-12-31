@@ -4,6 +4,7 @@ date: Tuesday, December 29, 2020
 description: An interesting observation made in defining inspiration.
 author: Christofer Padilla
 type: article
+tags: ["Reflections", "Definitions", "Inspiration"]
 ---
 
 # A Remarkable Coincidence of Inspiration
@@ -56,7 +57,7 @@ Curiously, in being reminded of the Joe Rogan podcast, I found episode #1236 to 
 
 ![Such are the mysteries of the internet](./images/mystery.png)
 
-
+<TagLinks />
 
 
 

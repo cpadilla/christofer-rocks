@@ -4,6 +4,7 @@ date: Thursday, December 31, 2020
 description: An ode to a recent resurgence in my love of comics.
 author: Christofer Padilla
 type: article
+tags: ["Reflections", "Memories", "Comics"]
 ---
 
 # My Love of Comics
@@ -44,3 +45,6 @@ Upon reading the forward, I discovered that it had been [inspired](./A_Remarkabl
 Interesting.
 
 ![Dragon Ball Super - Chapter 57](/images/dbs57.png)
+
+<TagLinks />
+
