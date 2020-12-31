@@ -23,7 +23,7 @@ Recently, I found the same spark that kindled my love of comics as when I was on
 
 Thus, I went down a rabbit hole, exploring the DC universe. Up until this point, the only comic I had been keeping up with was [Dragon Ball Super](https://www.viz.com/shonenjump/chapters/dragon-ball-super), which had just finished a dissapointing arc, but still offered a promising future. There was also a [Death Note One-Shot Special](https://mangaplus.shueisha.co.jp/viewer/1006371), which was amazing but short-lived.
 
-Anyway, I decided to go visit my a local comic store to check out the next issue of Death Metal, which was the series that continued the Darkest Knight story line. I haven't really explored Wilmington since I've moved here in August, mostly due to the pandemic.
+Anyway, I decided to go visit a local comic store to check out the next issue of Death Metal, which was the series that continued the Darkest Knight story line. I haven't really explored Wilmington since I've moved here in August, mostly due to the pandemic.
 
 While I was there, I picked up a copy of one of my all-time favorite comic: WATCHMEN. It is a masterpiece. I started watching the HBO series recently, which I think is decent so far.
 
