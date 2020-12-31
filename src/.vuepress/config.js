@@ -2,9 +2,8 @@ module.exports = {
     title: 'Reflections',
     description: 'A glimpse into my personal reflections.',
     themeConfig: {
-        nav: [
-            { text: 'Home', link: '/' },
-            { text: 'Blog', link: '/blog/' }
-        ]
+        logo: '/images/logo.png',
+        nextLinks: true,
+        prevLinks: true
     }
 }

@@ -54,7 +54,7 @@ Something that's always stuck with me is a [Joe Rogan clip](https://www.youtube.
 
 Curiously, in being reminded of the Joe Rogan podcast, I found episode #1236 to be missing.
 
-![Such are the mysteries of the internet](/images/mystery.png)
+![Such are the mysteries of the internet](./images/mystery.png)
 
 
 
