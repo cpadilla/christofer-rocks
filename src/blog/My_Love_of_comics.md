@@ -27,7 +27,7 @@ Anyway, I decided to go visit my a local comic store to check out the next issue
 
 While I was there, I picked up a copy of one of my all-time favorite comic: WATCHMEN. It is a masterpiece. I started watching the HBO series recently, which I think is decent so far.
 
-But the original WATCHMEN comic is a graphic novel I wanted to have in my collection, just like I have certain comic-inspired records in my collection, such as MF DOOM's *MM..FOOD*, Czarface's *Every Hero Needs a Villain*, and Wu-Tang Clan's *[Protect Ya Neck](https://mangaplus.shueisha.co.jp/viewer/1006371)*.
+But the original WATCHMEN comic is a graphic novel I wanted to have in my collection, just like I have certain comic-inspired records in my collection, such as MF DOOM's *MM..FOOD*, Czarface's *Every Hero Needs a Villain*, and Wu-Tang Clan's [*Protect Ya Neck*](https://en.wikipedia.org/wiki/Protect_Ya_Neck).
 
 Upon reading the forward, I discovered that it had been [inspired](./A_Remarkable_Coincidence_of_Inspiration.md) by Bob Dylan and his song Desolation Row.
 
