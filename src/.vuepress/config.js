@@ -9,7 +9,7 @@ module.exports = {
         ],
         nextLinks: true,
         prevLinks: true,
-        lastUpdate: 'Last Updated'
+        lastUpdated: 'Last Updated'
     },
     plugins: [
         [
