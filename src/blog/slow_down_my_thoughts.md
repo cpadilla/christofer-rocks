@@ -65,6 +65,6 @@ Like lightning, sometimes I can't control them and they eventually return "back 
 
 > slow down
 >
-> is this what happens when it rains down
+> is this what happens when it rains now
 
 <TagLinks />
