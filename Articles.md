@@ -23,6 +23,14 @@
     - Embryo space colonization
     - cryogenics
 
+* What happenes when you work backwards from an idea?
+    - what happens when current is returned on itsefl?
+
+# Improvments
+
+* Google Search vue widget
+
+
 # Resources
     * https://twitter.com/i/status/1046643787034955777
     * https://twitter.com/i/status/1046251429709713408

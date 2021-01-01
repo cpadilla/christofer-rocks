@@ -4,7 +4,7 @@ date: Wednesday, December 30, 2020
 description: A second interesting coincidence noticed in defining interface.
 author: Christofer Padilla
 type: article
-Tags: ["Reflections", "Inspiration", "Astronomy", "Light"]
+tags: ["Reflections", "Inspiration", "Astronomy", "Light"]
 ---
 
 # Reflections at Interfaces
