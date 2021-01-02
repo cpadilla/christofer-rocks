@@ -3,7 +3,6 @@
     <!-- <router-link v-for="page in pages" :to="page.path"> -->
       <div v-for="page in pages" class="post-card">
         <!-- <img class="article-image" src="../public/images/blog.png" /> -->
-        <img class="article-image">
         <div class="page-detail">
           <router-link :to="page.path">
           <div class="page-title">{{ page.title }}</div>
