@@ -13,7 +13,7 @@ tags: ["Reflections", "The Tarot", "The Source", "Inspiration"]
 
 "The Source."
 
-It happened [again](./Reflections_at_interfaces.md). Another [recurrence](./A_Remarkable_Coincidence_of_Inspiration.md). I blinked around, awake now that I had actually spoken my half-lucid thought aloud.
+It happened [again](./Queries_into_the_4th_state_of_matter.md). Another [recurrence](./A_Remarkable_Coincidence_of_Inspiration.md). I blinked around, awake now that I had actually spoken my half-lucid thought aloud.
 
 "Hey Google, what time is it?"
 
