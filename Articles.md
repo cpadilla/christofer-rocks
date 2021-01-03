@@ -10,8 +10,7 @@
 * Hunting in the digital jungle
     - https://twitter.com/rockzombie2/status/747936547857666048
 * Why have AI models become so power hungry?
-* Are the big science fiction franchises collapsing in the Era of 'Wokeness'
-    - Dune
+
 * Standardizing measurements of time and space
     - Universal Time
     - Solar Time
@@ -22,11 +21,24 @@
 * Interstellar space travel
     - Embryo space colonization
     - cryogenics
+    
+# 
+
 
 * What happenes when you work backwards from an idea?
     - what happens when current is returned on itsefl?
 
-# Improvments
+# Improvements
+
+# Case Studies
+
+ * The King
+ * Dune
+    - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
+ * Chanel
+ * Interstellar
+ * 1917
+ 
 
 * Google Search vue widget
 
