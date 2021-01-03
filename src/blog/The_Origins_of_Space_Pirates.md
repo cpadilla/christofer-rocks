@@ -1,6 +1,6 @@
 ---
 title: The Origins of Space Pirates
-date: Day, Month date, year
+date: Sunday, January 3, 2021
 description: Some context to the development of Space Pirates.
 author: Christofer Padilla
 type: article
@@ -87,7 +87,7 @@ Overall, Chosen Space seemed to improve upon one key aspect that Space Pirates n
 
 Because the game naturally fosters strong community relationships through gameplay, the forums were active and there were many great contributions to the wiki. Players were encouraged to create [biographies](https://web.archive.org/web/20071221044011/http://v2wiki.chosenspace.com/index.php/Captains) for their characters, and there was even a forum dedicated to [roleplaying](https://web.archive.org/web/20080111192831/http://forum.chosenspace.com/viewforum.php?f=20&sid=5396b9c87c7165491f1e5f7957c9d4df) your character!
 
-It reminded me of when [I](https://comnet.imperialnetwork.com/member/7562/) used to participate in a Star Wars roleplaying forum called [The Vast Empire](https://www.vastempire.com/main/). (To my surprise, the forum seems to have been revitalized lately!)
+It reminded me of when [I](https://comnet.imperialnetwork.com/member/7562/) used to participate in a Star Wars roleplaying forum called [The Vast Empire](https://www.vastempire.com/main/).
 
 Like myself, I found others who went on nostalgic spirit quests to find their long lost game. Some of these pilgrims even formed small [communities](https://www.reddit.com/r/chosenspace). Still [others](https://adamjsmithauthor.blogspot.com/2012/02/) who stumbled on Chosen Space stayed *because* of the community.
 
