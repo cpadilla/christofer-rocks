@@ -11,7 +11,7 @@ tags: ["Memories", "Space Pirates", "Inspiration"]
 
 ![How it all started](/images/248743_10150184647159856_7618239_n_10150184647159856.jpg)
 
-I grew up in the 90s. This meant most of my fond childhood memories where created patiently staring into old computers. You know the kind; those old beige tower PCs. It seems like my dad always had at least two or three lying around, with only one of them ever working.
+I grew up in the 90s. This meant most of my fond childhood memories were created patiently staring into old computers. You know the kind; those old beige tower PCs. It seems like my dad always had at least two or three lying around, with only one of them ever working.
 
 The internet was a different place back then. Back then, there were more search engines being used than just Google, like Ask Jeeves and Dogpile. Dial-up speeds were slow and so this limited my computer use to learning how to code HTML in notepad and playing any games I could find online that would run on the family PC. Mostly [addictinggames.com](https://www.addictinggames.com/), [Flash](https://www.newgrounds.com/portal/view/541333) and Shockwave games. [Blades of Exile](https://www.spiderwebsoftware.com/blades/winBOE.html) was one game I could actually run so I spent a lot of time playing it, developing fond memories.
 
