@@ -1,7 +1,7 @@
 ---
 title: The Origins of Space Pirates
 date: Day, Month date, year
-description: Description.
+description: Some context to the development of Space Pirates.
 author: Christofer Padilla
 type: article
 tags: ["Memories", "Space Pirates", "Inspiration"]
