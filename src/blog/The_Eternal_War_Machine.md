@@ -32,7 +32,7 @@ War crimes.
 In December 1944, during World War II, Nazi soldiers battled for control of the Belgian town of Chenogne during the Battle of the Bulge. Afterwards, dozens of unarmed German prisoners of war were executed. The American soldiers had orders to [take no prisoners](https://revealnews.org/episodes/take-no-prisoners/), in direct violation of [the Geneva Conventions](https://en.wikipedia.org/wiki/Geneva_Conventions).
 
 
-I've been watching more movies lately, playing them in the background for ambience as I work from home. Two of them are movies about war. The first, being my new favorite, *The King*, on Netflix about The Battle of Agincourt in 1415 (also immortalized by Shakespeare in *Henry V*). The second being 1917, based on fragments of stories from World War 1.
+I've been watching more movies lately, playing them in the background for ambience as I work from home. Two of them are movies about war. The first, being my new favorite, *The King*, on Netflix about The Battle of Agincourt in 1415 (also immortalized by Shakespeare in *Henry V*). The second being *1917*, based on fragments of stories from World War 1.
 
 The irony in how war, massive events of death by battle, immortalizes those who fought and died in them is not lost on me.
 
