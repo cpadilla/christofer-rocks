@@ -13,7 +13,7 @@ tags: ["Reflections", "Memories", "Space Pirates", "Blockchain"]
 
 I left the house during my lunch break today to pick up a rug I had bought from a fellow employee across town. I'd stop to pick up some bread on my way home, as well.
 
-I waved to my neighbor pulling in to the aprtment complex as I walked to my car. He thanked me for returning his mail to him. He used to live in at my apartment before moving next door and I still get his mail sometimes.
+I waved to my neighbor pulling in to the apartment complex as I walked to my car. He thanked me for returning his mail to him. He used to live in at my apartment before moving next door and I still get his mail sometimes.
 
 I hopped in the car and started the engine. NPR starts playing and I tune in to the story unfolding.
 
