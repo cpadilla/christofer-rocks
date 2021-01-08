@@ -15,6 +15,7 @@
 * Hunting in the digital jungle
     - https://twitter.com/rockzombie2/status/747936547857666048
 * Why have AI models become so power hungry?
+* Why I use FreeBSD
 
 * Standardizing measurements of time and space
     - Universal Time
