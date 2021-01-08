@@ -62,6 +62,6 @@ Opening up the guidebook that accompanied it, this is what I read.
 >
 > Now, it is able to execute on a well-informed and planned strategy. With this card comes the optimism and excitement of success.
 
-How fitting, considering having just started my new blog and my [New Year's Resolution](./2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#Space%20Pirates).
+How fitting, considering I just started my new blog and my [New Year's Resolution](./2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#Space%20Pirates).
 
 <TagLinks />
