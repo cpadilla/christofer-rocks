@@ -35,19 +35,28 @@
 
 # Improvements
 
+* Google Search vue widget
+
 # Case Studies
 
- * The King
- * Dune
-    - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
- * Chanel
- * Interstellar
- * 1917
- * [The Witch](https://www.imdb.com/title/tt4263482/)
- * Mr. Robot
-    - [fsociety](https://www.google.com/search?q=fsociety)
+    * The King
+    * Dune
+        - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
+    * Chanel
+    * Interstellar
+    * 1917
+    * [The Witch](https://www.imdb.com/title/tt4263482/)
+    * Mr. Robot
+        - [fsociety](https://www.google.com/search?q=fsociety)
+    * Times New Roman
+    * 2001: A Space Odessy
+    * Annihilation
+    * Alien Covenant
+    * Mad Max
+    * Blade Runner
+    * Death Stranding
+    * No Country For Old Men
 
-* Google Search vue widget
 
 
 # Resources
