@@ -27,8 +27,6 @@
 * Interstellar space travel
     - Embryo space colonization
     - cryogenics
-    
-# 
 
 
 * What happenes when you work backwards from an idea?
@@ -37,6 +35,12 @@
 # Improvements
 
 * Google Search vue widget
+* Comment using the latest commit?
+  - enable leaving comments
+* Archive by date
+* Import old blog posts
+  - https://christoferpadilla.tumblr.com/
+  - http://nakedlogic.blogspot.com/
 
 # Case Studies
 
@@ -57,6 +61,9 @@
     * Blade Runner
     * Death Stranding
     * No Country For Old Men
+    * The Hunt
+    * Knives Out
+    * District 9
 
 
 
