@@ -68,3 +68,5 @@ Like lightning, sometimes I can't control them and they eventually return "back 
 > is this what happens when it rains now
 
 <TagLinks />
+
+<Comments />

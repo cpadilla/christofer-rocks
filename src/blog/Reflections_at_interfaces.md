@@ -35,3 +35,4 @@ Interesting. I like to think we are more like computer systems than you would su
 
 <TagLinks />
 
+<Comments />

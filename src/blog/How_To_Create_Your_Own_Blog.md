@@ -77,3 +77,4 @@ Hopefully, this guide will help you create your own blog and stake your claim in
 
 <TagLinks />
 
+<Comments />

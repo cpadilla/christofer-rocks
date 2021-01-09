@@ -48,3 +48,4 @@ Interesting.
 
 <TagLinks />
 
+<Comments />
