@@ -65,3 +65,5 @@ Opening up the guidebook that accompanied it, this is what I read.
 How fitting, considering I just started my new blog and my [New Year's Resolution](./2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#Space%20Pirates).
 
 <TagLinks />
+
+<Comments />

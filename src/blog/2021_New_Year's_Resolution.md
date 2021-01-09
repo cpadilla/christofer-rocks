@@ -41,3 +41,5 @@ I think those are the 3 goals I want to focus on. It incorporates budgeting my f
 I'm very optimistic about this next year.
 
 <TagLinks />
+
+<Comments />

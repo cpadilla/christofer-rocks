@@ -135,3 +135,5 @@ If you're interested in following development of Space Pirates, you can follow m
 As development begins, I'm hoping to corner the [#spacepirates](https://twitter.com/search?q=%23spacepirates) hashtag to foster a community for all my fellow nostalgia pilgrims.
 
 <TagLinks />
+
+<Comments />

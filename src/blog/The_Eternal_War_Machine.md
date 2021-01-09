@@ -695,3 +695,5 @@ Now, we can start to see how this diagram resembles a state machine. The relatio
 I'm pretty proud of this diagram so far. The next step is to determine which blockchain I should use to build my dApp on. So far I'm leaning towards EOSIO, but I haven't ruled out [making my own blockchain](https://www.youtube.com/watch?v=malwhCwEosk) yet either.
 
 <TagLinks />
+
+<Comments />
