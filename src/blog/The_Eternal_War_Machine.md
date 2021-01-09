@@ -11,9 +11,9 @@ tags: ["Reflections", "Memories", "Space Pirates", "Blockchain"]
 
 ![War Machine](/images/warmachine.png)
 
-I left the house during my lunch break today to pick up a rug I had bought from a fellow employee across town. I'd stop to pick up some bread on my way home, as well.
+I left the house during my lunch break today to pick up a rug I had bought from a fellow employee across town. I would stop to pick up some bread on my way home, as well.
 
-I waved to my neighbor pulling in to the aprtment complex as I walked to my car. He thanked me for returning his mail to him. He used to live in at my apartment before moving next door and I still get his mail sometimes.
+I waved to my neighbor pulling in to the apartment complex as I walked to my car. He thanked me for returning his mail to him. He used to live at my apartment before moving next door and I still get his mail sometimes.
 
 I hopped in the car and started the engine. NPR starts playing and I tune in to the story unfolding.
 
@@ -23,9 +23,9 @@ I set my destination in my GPS and pull out of the complex to begin my drive.
 
 > After the war, Frank went to Drexel and MIT. He worked his entire civilian life as a structural engineer, making sure buildings were safe. He's sharp, still talks with the precision of a engineer.
 
-I like the idea of being a structural engineer. Very similar to being an architect, which is what my sister, Melissa, is going to school for. There's something about the way *the precision of an engineer* rings true to me that makes me appreciate the story being told.
+I like the idea of being a structural engineer. Very similar to being an architect, which is what my sister, Melissa, is going to school for. There's something about the way "the precision of an engineer" rings true to me that makes me appreciate the story being told.
 
-As I continue to listen, it becomes apparent that this story is about war. Not just war.
+As I continue to listen, it becomes apparent that this story is about war. But not just war.
 
 War crimes.
 
@@ -54,19 +54,19 @@ In the context of [Space Pirates](/tags.md#Space%20Pirates), the game I've been 
 
 Something else I've been interested in very much has been cryptocurrencies and the underlying [blockchain](/tags.md#Blockchain) technology. I really wanted to combine my two interests into this game.
 
-That's when I realized how I could: the blockchain is essentially a decentralized ledger. In finance, it's used to keep track of the state of wallets by tracking transactions that modify the wallet balances. This is basically a simple finite-state machine.
+That's when I realized how I could: the blockchain is essentially an incorruptible, decentralized ledger of the truth. In finance, it's used to keep track of the state of wallets by tracking transactions that modify the wallet balances. This is basically a simple finite-state machine.
 
 We then see how some of the other cryptocurrencies like [EOS](https://eos.io/), [NEO](https://neo.org/) and [Ethereum](https://ethereum.org/en/) build on this concept to facilitate the creation of more complex state machines in the form of [dApps](https://dappradar.com/) (decentralized applications) , even so far as to resemble [virtual computers](https://developers.eos.io/welcome/latest/overview/core_concepts/#system-resources). Indeed, Ethereum can execute [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) scripts and the term [Virtual Machine](https://ethereum.org/en/developers/docs/evm/) is thrown around alot in the crypto space.
 
 Since [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) invented the blockchain datastructure, it's now possible to create a record that can not only exist safely in a decentralized form, but can theoretically exist [forever](https://medium.com/@samuel.brooks/blockchain-the-infinite-state-machine-ffc39f32e182)
 
-These are very seductive features a game built as a dApp can have. As a gamer, I don't have to fear my game and progress in the game will be erased when the game shuts down and as a game developer, my game will live on forever!
+These are very seductive features a game built as a dApp can have. As a gamer, I don't have to fear my game or my progress in the game will be erased when the game shuts down and as a game developer, my game will live on forever!
 
 One such game (not built on the blockchain but existing as a simple state machine of rules) is [John Conway's Game of Life](https://www.google.com/search?q=john+conway%27s+game+of+life&oq=John+Conway%27s+Game+of+Life)
 
 > The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
 
-You can see here the [fun](https://www.youtube.com/watch?v=ZhnU-M21z4s) I had when I first discovered this game. Basically, it was discovered that there are many different [stable configurations](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns) within the confines of Conway's simulated biology. Interestingly, configurations which travel across the grid are called [spaceships](https://en.wikipedia.org/wiki/Spaceship_(cellular_automaton)).
+You can see here the [fun](https://www.youtube.com/watch?v=ZhnU-M21z4s) I had when I first discovered this game. Basically, I discovered that there are many different [stable configurations](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns) within the confines of Conway's simulated biology, which I had fun playing with. Interestingly, configurations which travel across the grid are called [spaceships](https://en.wikipedia.org/wiki/Spaceship_(cellular_automaton)).
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jdA_iGOkqxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
