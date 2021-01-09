@@ -34,6 +34,7 @@
 
 # Improvements
 
+* use vue-router to navigate to headers with #'s
 * Archive by date
 * Import old blog posts
   - https://christoferpadilla.tumblr.com/
