@@ -30,13 +30,10 @@
 
 
 * What happenes when you work backwards from an idea?
-    - what happens when current is returned on itsefl?
+    - what happens when current is returned on itself?
 
 # Improvements
 
-* Google Search vue widget
-* Comment using the latest commit?
-  - enable leaving comments
 * Archive by date
 * Import old blog posts
   - https://christoferpadilla.tumblr.com/
