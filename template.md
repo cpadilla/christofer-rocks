@@ -9,6 +9,10 @@ tags: ["Reflections"]
 
 # Title
 
+* Link to other blog articles
+
+It happened [again](./Queries_into_the_4th_state_of_matter.md)
+
 * Image with captions
 <figure>
   <img
