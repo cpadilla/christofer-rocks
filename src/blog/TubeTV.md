@@ -26,7 +26,7 @@ I found it lying in front of someone's yard. Coincidentally, I was actually on m
 
 I copped that for $20 bucks! What a bargain!
 
-The TV was free, not only as it was just sitting there, but because it had a black garbage bag duck tapped over it and a piece of paper taped to the front of it that declared *FREE TV! IT WORKS!*
+The TV was free, not only as it was just sitting there, but because it had a black garbage bag duck-tapped over it and a piece of paper taped to the front of it that declared *FREE TV! IT WORKS!*
 
 I was feelin' mighty appreciative at this point in my life so I was eternally grateful to be blessed with another TV in my house, as I figured I could use it upstairs or do something fun with it.
 

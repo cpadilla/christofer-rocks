@@ -75,7 +75,7 @@ Except...
 
 > Every syllable you ever said
 
-*I *did* remember* he whispers softly, even before her verse in the chorus. Which came [first](https://en.wikipedia.org/wiki/Chicken_or_the_egg#:~:text=%22Chicken-and-egg,on%20others%20being%20done%20first.)? Who's weight of their words weighs more?
+*I *did* remember* he whispers softly, even before her verse in the chorus. Which came [first](https://en.wikipedia.org/wiki/Chicken_or_the_egg#:~:text=%22Chicken-and-egg,on%20others%20being%20done%20first.)? Who's words weighs more?
 
 > Say it like you mean it till you take it back
 
