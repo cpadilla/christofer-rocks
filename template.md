@@ -31,6 +31,10 @@ tags: ["Reflections"]
   details
 </details>
 
+* [Scroll to Text Fragment](https://stackoverflow.com/questions/62161819/what-exactly-is-the-text-location-hash-in-an-url)
+
+Which came [first](https://en.wikipedia.org/wiki/Chicken_or_the_egg#:~:text=%22Chicken-and-egg,on%20others%20being%20done%20first.), the chicken or the egg?
+
 <TagLinks />
 
 <Comments />

@@ -4,7 +4,7 @@ date: Tuesday, December 29, 2020
 description: An interesting observation made in defining inspiration.
 author: Christofer Padilla
 type: article
-tags: ["Reflections", "Definitions", "Inspiration"]
+tags: ["Reflections", "Definitions", "Inspiration", "Recursion"]
 ---
 
 # A Remarkable Coincidence of Inspiration
@@ -49,7 +49,7 @@ Interesting. "No".
 
 "OK. Finally, coincidence can be used as a noun to mean: the presence of ionizing particles or other objects in two or more detectors simultaneously, or of two or more signals simultaneously in a circuit."
 
-I found this fascinating. There seems to be some kind of recurrence here. A correspondence?
+I found this fascinating. There seems to be some kind of [recurrence](https://www.google.com/search?q=recursion) here. A correspondence?
 
 Something that's always stuck with me is a [Joe Rogan clip](https://www.youtube.com/watch?v=m9jvdaxdRjo) where he wonders if maybe ideas are living things as well. I find language to be highly conductive of ideas.
 

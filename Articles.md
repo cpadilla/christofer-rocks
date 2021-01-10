@@ -34,6 +34,8 @@
 
 # Improvements
 
+* Google search widget
+* Google definition widget
 * use vue-router to navigate to headers with #'s
 * Archive by date
 * Import old blog posts
