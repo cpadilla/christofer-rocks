@@ -34,6 +34,7 @@
 
 # Improvements
 
+* Fix width of videos on mobile
 * use vue-router to navigate to headers with #'s
 * Archive by date
 * Import old blog posts
@@ -56,12 +57,15 @@
     * Annihilation
     * Alien Covenant
     * Mad Max
-    * Blade Runner
+    * Blade Runner: 2049
     * Death Stranding
     * No Country For Old Men
     * The Hunt
     * Knives Out
     * District 9
+    * Timothy Chalamet
+    * Dennis Villnevue
+    * Arrival
 
 
 
