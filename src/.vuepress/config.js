@@ -34,9 +34,9 @@ module.exports = {
         }
       }],
       [
-          '@vuepress/google-analytics',
+          '@vuepress/plugin-google-analytics',
           {
-              'ga': 'G-NDZCVLQ9F4'
+              ga: 'G-NDZCVLQ9F4'
           }
       ]
     ]
