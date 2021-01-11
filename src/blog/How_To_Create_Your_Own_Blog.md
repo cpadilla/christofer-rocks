@@ -23,7 +23,7 @@ Otherwise, I'm going to cover the general instructions to set up your own blog, 
 
 ## Creating your first Vuepress site
 
-To start, I basically just followed the excellent guide I found [here](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/). It does a great job introducing you to Vuepress enough for you to begin customizing your blog yourself. It says you should have a blog up and running in aroudn 10 minutes, but I think that's a little generous.
+To start, I basically just followed the excellent guide I found [here](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/). It does a great job introducing you to Vuepress enough for you to begin customizing your blog yourself. It says you should have a blog up and running in around 10 minutes, but I think that's a little generous.
 
 Still, it goes over everything you really need to know and it shouldn't take you too long to get set up. It then barely goes over how to deploy your blog as a website, so that is the step I will cover in more detail next.
 
