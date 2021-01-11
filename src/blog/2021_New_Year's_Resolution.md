@@ -36,7 +36,7 @@ Here are my goals for 2021.
 * Lose 30lbs.
 * Take up kiteboaring.
 
-I think those are the 3 goals I want to focus on. It incorporates budgeting my fincances, dieting, and dedicating myself to a productive hobby of mine as well as learning a new one.
+I think those are the 4 goals I want to focus on. It incorporates budgeting my fincances, dieting, and dedicating myself to a productive hobby of mine as well as learning a new one.
 
 I'm very optimistic about this next year.
 
