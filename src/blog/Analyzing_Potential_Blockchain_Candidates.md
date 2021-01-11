@@ -9,8 +9,6 @@ tags: ["Space Pirates", "Blockchain", "Analysis"]
 
 # Analyzing Potential Blockchain Candidates
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1610298305654!6m8!1m7!1sCAoSLEFGMVFpcE1jN29zeWRfMFVoUDU5elFON2JoLU1famhza3lmbk1HX2NTRGlC!2m2!1d29.9765034!2d31.1321354!3f64.69174668452902!4f3.993006592810815!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
 So far, I've already created a [database diagram](./The_Eternal_War_Machine.md) of the [Space Pirates](/tags.md#Space%20Pirates) game. The next step in the development of the game is to decide on a blockchain to use to launch Space Pirates as a dApp on.
 
 This is my analysis of the following blockchains I'm considering:
@@ -18,10 +16,10 @@ This is my analysis of the following blockchains I'm considering:
 * EOSIO
 * Ethereum
 * NEO
+* Tron
+* WAX
 * Stellar
 * Tezos
-* NXT?
-* Tron
 * Custom Blockchain
 
 Before we begin, here are some questions we want to keep in mind when evaluating a specific blockchain:
@@ -126,6 +124,11 @@ To his credit, Vitalik points out the three main advantages of Proof-of-Stake as
 Ethereum is unable to access real time data from outside the blockchain. Developers need to rely on trusted third party data providers, called oracles, to provide smart contracts with outside information like weather, random numbers, or currency values.
 
 You are also tied to paying for your transactions by the operation with gas that translates into Ethereum’s ether. As a result, using the current version of Solidity, you could very feasibly find yourself hitting a transaction limit if the computation you intend to perform is too expensive (like verifying checkmate in a game of chess). As a result, on-chain computations because become costly in terms of money and network bandwidth.
+
+#### Sidechain
+
+* [Matic Network Sidechain](https://matic.network/)
+  - https://medium.com/matic-network/what-is-matic-network-466a2c493ae1
 
 ### NEO
 
