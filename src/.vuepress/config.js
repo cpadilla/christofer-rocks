@@ -1,6 +1,19 @@
 module.exports = {
     title: 'Reflections',
     description: 'A glimpse into my personal reflections.',
+    head: [
+      ['script', {
+        async: true,
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-Q6CMDV4BG0'
+      }],
+      ['script', {}, `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-Q6CMDV4BG0');
+      `]
+    ],
     themeConfig: {
         logo: '/images/logo.png',
         nav: [
@@ -32,12 +45,6 @@ module.exports = {
             field: ["title", "content", "headers"],
           }
         }
-      }],
-      [
-          '@vuepress/plugin-google-analytics',
-          {
-              ga: 'G-NDZCVLQ9F4'
-          }
-      ]
+      }]
     ]
 }
