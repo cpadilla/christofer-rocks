@@ -40,7 +40,7 @@ Heavy hit. It's [ambiguous](https://www.google.com/search?q=define+ambiguous). O
 
 Don't cry over spilk [milk](https://www.dictionary.com/browse/don-t-cry-over-spilt-milk).
 
-The classic image of an innocent childhook mistake is contrasted by the reality of the danger of broken glass in the mix.
+The classic image of an innocent childhood mistake is contrasted by the reality of the danger of broken glass in the mix.
 
 At this point, I'm vibing pretty hard. The song seems to permeate the air around me perfectly as I play it over spearkers; a perfectly repeating pattern.
 

@@ -27,7 +27,7 @@ Things have been going pretty good since then and I finally feel now as if I'm b
 
 ![Okeechobee 2020](/images/IMG_20200307_125647_2.jpg)
 
-It blows my mind that the last time I made New Years Resolutions was back in 2017. At least according to my last blog post.
+It blows my mind that the last time I made New Year's Resolutions was back in 2017. At least according to my last blog post.
 
 Here are my goals for 2021.
 
@@ -36,7 +36,7 @@ Here are my goals for 2021.
 * Lose 30lbs.
 * Take up kiteboaring.
 
-I think those are the 3 goals I want to focus on. It incorporates budgeting my fincances, dieting, and dedicating myself to a productive hobby of mine as well as learning a new one.
+I think those are the 4 goals I want to focus on. It incorporates budgeting my fincances, dieting, and dedicating myself to a productive hobby of mine as well as learning a new one.
 
 I'm very optimistic about this next year.
 
