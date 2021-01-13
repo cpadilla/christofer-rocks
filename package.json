@@ -21,6 +21,8 @@
     "vuepress": "^1.7.1"
   },
   "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1",
     "vuepress-plugin-flexsearch": "^0.1.0"
   }
 }

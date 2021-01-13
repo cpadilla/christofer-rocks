@@ -29,7 +29,7 @@ Comparing my blog to journaling, we can see the simliarities. In this case, I co
 
 Therefore, I have two backup systems beyond my own thoughts that facilitate self-reflection. Coincidentally, I notice the same recurrence of backup systems in nature. For example, two lungs, two hemispheres of the brain, two nostrils, two eyes, etc. Even [Tesla's self driving computer](https://cleantechnica.com/2019/06/15/teslas-new-hw3-self-driving-computer-its-a-beast-cleantechnica-deep-dive/) has redundancy.
 
-![A non-organic brain](./images/Flash-and-RAM.jpg)
+![A non-organic brain](/images/Flash-and-RAM.jpg)
 
 Interesting. I like to think we are more like computer systems than you would suspect. If so, the ability to code and self reflect are powerful skills, indeed.
 
