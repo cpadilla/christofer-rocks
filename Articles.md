@@ -66,6 +66,8 @@
     * Knives Out
     * District 9
     * CBTM (TikTok)
+    * Manchester Orchestra
+    * Kevin Devine
 
 
 # Resources
