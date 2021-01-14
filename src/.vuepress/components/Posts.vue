@@ -21,14 +21,8 @@ export default {
     }
   },
   mounted() {
-    console.log('mounted')
     this.$site.pages.forEach(page => {
-      console.log('Adding a new page...')
-      console.log(page)
       if (page.frontmatter.type == 'article') {
-        console.log('success')
-        console.log('page type: ' + page.frontmatter.type)
-        console.log(page)
         this.pages.push(page)
       }
     })

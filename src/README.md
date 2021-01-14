@@ -1,10 +1,12 @@
 ---
+layout: ReflectionsHome
 home: true
 heroImage: /images/cube.gif
-pageClass: homepage
+heroText: /images/title.png
+pageClass: reflectionshomepage
 actionText: Enter
 actionLink: /blog/
-tagline: A glimpse into my personal reflections.
+tagline: by Christofer Padilla
 ---
 
 

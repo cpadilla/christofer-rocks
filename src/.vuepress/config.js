@@ -12,7 +12,8 @@ module.exports = {
           gtag('js', new Date());
 
           gtag('config', 'G-Q6CMDV4BG0');
-      `]
+      `],
+      ['link', { rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css' }]
     ],
     themeConfig: {
         logo: '/images/logo.png',
