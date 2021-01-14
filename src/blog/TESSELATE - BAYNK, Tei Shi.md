@@ -38,7 +38,7 @@ Heavy hit. It's [ambiguous](https://www.google.com/search?q=define+ambiguous). O
 
 > Spilled milk, broken glass
 
-Don't cry over spilk [milk](https://www.dictionary.com/browse/don-t-cry-over-spilt-milk).
+Don't cry over spilt [milk](https://www.dictionary.com/browse/don-t-cry-over-spilt-milk).
 
 The classic image of an innocent childhood mistake is contrasted by the reality of the danger of broken glass in the mix.
 
