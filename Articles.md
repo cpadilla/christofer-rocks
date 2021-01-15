@@ -45,7 +45,9 @@
 # Case Studies
 
     * The King
-    * TESSELATE - BAYNK, Tei Shi
+    * Aires
+    * @maalavidaa
+    * Richard Serra
     * Dune
         - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
     * Chanel
