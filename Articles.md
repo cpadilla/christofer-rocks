@@ -1,3 +1,11 @@
+# Priority list
+
+* Archive by date
+  - Import old blog posts
+* use vue-router to navigate to headers with #'s
+* The King
+* Creating Bitcoin private keys with Dice
+  - Explaining Bitcoin to my mom
 
 # Articles
 
@@ -5,6 +13,7 @@
 
 # Topics
 
+* Why I use FreeBSD
 * How Digital Signatures Work
     - See tweet from March 4
 * A Map of Computer Science
@@ -15,7 +24,6 @@
 * Hunting in the digital jungle
     - https://twitter.com/rockzombie2/status/747936547857666048
 * Why have AI models become so power hungry?
-* Why I use FreeBSD
 
 * Standardizing measurements of time and space
     - Universal Time
@@ -27,10 +35,6 @@
 * Interstellar space travel
     - Embryo space colonization
     - cryogenics
-
-
-* What happenes when you work backwards from an idea?
-    - what happens when current is returned on itself?
 
 # Improvements
 
@@ -45,7 +49,6 @@
 # Case Studies
 
     * The King
-    * TESSELATE - BAYNK, Tei Shi
     * Dune
         - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
     * Chanel
@@ -71,5 +74,5 @@
 
 
 # Resources
-    * https://twitter.com/i/status/1046643787034955777
-    * https://twitter.com/i/status/1046251429709713408
+    * [https://twitter.com/i/status/1046643787034955777](https://twitter.com/i/status/1046643787034955777)
+    * [https://twitter.com/i/status/1046251429709713408](https://twitter.com/i/status/1046251429709713408)
