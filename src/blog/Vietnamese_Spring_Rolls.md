@@ -43,9 +43,9 @@ So after watching one of her vidoes and realizing you could make them, I was ins
     2       lettuce leaves
     60  mL  water
     10  mL  fresh lime juice
-    1       sliced cucumber
-    1       sliced carrot
-    1       sliced red pepper
+    1/4     sliced cucumber
+    1/4     sliced carrot
+    1/2     sliced red pepper
     1/2     sliced avocado
     15  mL  chopped cilantro
 
