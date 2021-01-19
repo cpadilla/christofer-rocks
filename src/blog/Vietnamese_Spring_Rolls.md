@@ -17,7 +17,7 @@ tags: ["Recipe"]
 
 I've been low-key obsessed and high-key in love with this girl on TikTok.
 
-Her name is [Abigal Martin](https://www.tiktok.com/@abigailmartiin) and she's been documenting her van-life journey on TikTok. I've been pretty interested in van-life as a future lifestyle, but for now I'm comfortably settled into my apartment.
+Her name is [Abigal Martin](https://www.tiktok.com/@abigailmartiin) and she's been documenting her van-life journey on TikTok. I've been pretty interested in [van-life](https://www.reddit.com/r/vandwellers/) as a future lifestyle, but for now I'm comfortably settled into my apartment.
 
 <video width="360" height="640" controls>
   <source src="/videos/abigailmartiin.mp4" type="video/mp4">
