@@ -49,6 +49,11 @@
 # Case Studies
 
     * The King
+    * Aires
+    * @maalavidaa
+    * Richard Serra
+    * Pan Daijing
+    * Somebody that I used to know - Gotye
     * Dune
         - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
     * Chanel

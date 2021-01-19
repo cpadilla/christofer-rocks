@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cpadilla/christofer-rocks#readme",
   "dependencies": {
+    "sass": "^1.32.4",
     "vuepress": "^1.7.1"
   },
   "devDependencies": {
