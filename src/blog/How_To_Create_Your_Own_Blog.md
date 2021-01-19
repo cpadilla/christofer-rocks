@@ -11,7 +11,7 @@ tags: ["Guides"]
 
 I was tired of the Facebook echo chamber and the Instagram vanity mirror and missed the glory days of Myspace and the blogosphere. So I decided to quit Facebook and make my own blog. In my last post to Facebook, I declared you can create a blog 100% for free and I promised myself that one of my first blog posts would be how to do so.
 
-So here we are. There are a few requirements that I needed for my blog, which is why I settled on using [Vuepress](https://vuepress.vuejs.org/). I came up with these requirements by working backwords from what I would want in an ideal blogging solution.
+So here we are. There are a few requirements that I needed for my blog, which is why I settled on using [Vuepress](https://vuepress.vuejs.org/). I came up with these requirements by working backwards from what I would want in an ideal blogging solution.
 
 1. Everything must be free.
 2. Blog posts should be created as easily as committing a markdown file.
