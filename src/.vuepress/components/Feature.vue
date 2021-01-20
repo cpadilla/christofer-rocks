@@ -20,12 +20,8 @@ export default {
     }
   },
   mounted() {
-    //console.log('Feature: ' + this.article);
-    //console.log(self.props['article']);
-    //console.log(this.$site);
-    //console.log(this.$site.pages);
     this.page = this.$site.pages.find(page => page.relativePath == this.article);
-    console.log(this.page);
+    //console.log(this.page);
   }
 }
 </script>
