@@ -10,6 +10,8 @@
 # Articles
 
 * [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+* Granolah, The Survivor
+* The Inauguration of Joe Biden
 
 # Topics
 
