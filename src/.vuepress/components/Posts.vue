@@ -44,8 +44,7 @@ export default {
   margin: 10px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  padding: 10px;
-  padding-left: 30px;
+  padding: 10px 30px;
   display: flex;
   align-items: center;
 }
