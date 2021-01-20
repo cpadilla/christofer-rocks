@@ -50,7 +50,7 @@ And yet the truth lives on in the soldiers who carried out his orders, in the fo
 
 I've been thinking a lot about war and how it's almost always a territory struggle, really. This is made especially clear in the movie, *The King*.
 
-In the context of [Space Pirates](/tags.md#Space%20Pirates), the game I've been working on, it's really a war simulation if territories were squares in space.
+In the context of [Space Pirates](/tags.md#SpacePirates), the game I've been working on, it's really a war simulation if territories were squares in space.
 
 Something else I've been interested in very much has been cryptocurrencies and the underlying [blockchain](/tags.md#Blockchain) technology. I really wanted to combine my two interests into this game.
 

@@ -13,7 +13,7 @@ tags: ["Case Study", "Music"]
 
 I often find myself completely enamored with a song, sometimes for days or even weeks on end. I'll have it stuck in my head and I'll play it over and over on repeat.
 
-I call these [case studies](/tags.md#Case%20Study).
+I call these [case studies](/tags.md#CaseStudy).
 
 Usually it starts with me falling in love with the song itself. The melody, the beat drop or some part of it catches my attention enough for me to play it on repeat.Then I'll look into the lyrics and I fall in love with it all over again, which is exactly what happened with Zachary Knowles *slow down my thoughts*.
 
@@ -33,7 +33,7 @@ One line in particluar stuck out to me.
 
 When I noticed how much I liked this song, I realized the song title was "Slow down my thoughts". I've been thinking about doing this a lot lately, especially since I just created my blog and I've had time to offload a lot of my thoughts from my headspace. Additionally, I've been reading [*The Power of Now*](https://smile.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808) by Eckhart Tolle and have been practicing observing my thoughts without identifying myself as them.
 
-The act of slowing down my thoughts is particularly significant to me as well due to my past struggles with [mental health](/tags.md#Mental%20Health).
+The act of slowing down my thoughts is particularly significant to me as well due to my past struggles with [mental health](/tags.md#MentalHealth).
 
 ## Lyrics
 

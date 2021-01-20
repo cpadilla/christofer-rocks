@@ -32,7 +32,7 @@ It blows my mind that the last time I made New Year's Resolutions was back in 20
 Here are my goals for 2021.
 
 * Accumulate 1 full bitcoin.
-* Develop a working prototype of my [Space Pirates](/tags.md#Space%20Pirates) game.
+* Develop a working prototype of my [Space Pirates](/tags.md#SpacePirates) game.
 * Lose 30lbs.
 * Take up kiteboaring.
 

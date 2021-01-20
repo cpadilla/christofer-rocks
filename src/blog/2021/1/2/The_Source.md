@@ -23,9 +23,9 @@ I felt a little hungry so I got up to make a light bowl of some of the left-over
 
 Still orienting myself in reality from deep slumber, I tried to recall the exact thought process that had sparked my utterance. Why had I said that in my sleep?
 
-It was definitely a reference to source code. What was my source code? Like lightning, I had been struck with my [source](/tags.md#The%20Source) of true inspiration:
+It was definitely a reference to source code. What was my source code? Like lightning, I had been struck with my [source](/tags.md#TheSource) of true inspiration:
 
-[The Tarot.](/tags.md#The%20Tarot)
+[The Tarot.](/tags.md#TheTarot)
 
 But not just any tarot. [The True Black Tarot](https://trueblacktarot.com/).
 
@@ -35,7 +35,7 @@ If I were to be operated by a guiding set of principles-- indeed, a source code,
 
 I've always had a deep passion for reading. I read many books as a kid, especially adventure books. One of my favorites was [Pendragon](https://en.wikipedia.org/wiki/Pendragon:_Journal_of_an_Adventure_through_Time_and_Space). As a journalist, I strongly identified with the main character. In fact, I've always considered myself the hero of my own story, so much so that I would often have vivid dreams of action sequences; slaying a towering stone giant as lava erupted around us, harnessing deep powers of the mind to levitate and perform telekinesis, etc.
 
-Perhaps that is why I was attracted to programming in high school. Reading [source code](/tags.md#The%20Source) came easy to me. I wanted to be a game programmer because I could always "see" the source code in games I played-- the mechanics that goverend the physics of the virtual world. I remember doing exceptionally well in high school when I was introduced to [DarkBASIC](https://www.thegamecreators.com/product/dark-basic-pro-open-source) in my first programming class, where creating a cube was as simple as:
+Perhaps that is why I was attracted to programming in high school. Reading [source code](/tags.md#TheSource) came easy to me. I wanted to be a game programmer because I could always "see" the source code in games I played-- the mechanics that goverend the physics of the virtual world. I remember doing exceptionally well in high school when I was introduced to [DarkBASIC](https://www.thegamecreators.com/product/dark-basic-pro-open-source) in my first programming class, where creating a cube was as simple as:
 
 ```BASIC
 make object cube 1,10
@@ -62,7 +62,7 @@ Opening up the guidebook that accompanied it, this is what I read.
 >
 > Now, it is able to execute on a well-informed and planned strategy. With this card comes the optimism and excitement of success.
 
-How fitting, considering I just started my new blog and my [New Year's Resolution](/blog/2021/1/1/2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#Space%20Pirates).
+How fitting, considering I just started my new blog and my [New Year's Resolution](/blog/2021/1/1/2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#SpacePirates).
 
 <TagLinks />
 
