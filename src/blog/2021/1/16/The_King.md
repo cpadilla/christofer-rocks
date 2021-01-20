@@ -21,7 +21,7 @@ I am talking, of course, about *Dune*.
 
 [*Dune*](https://en.wikipedia.org/wiki/Dune_(novel)) was the first book in a series mostly written by Frank Herbert in 1965 (with some further expansion to the series written by his son Brian Herbert after his father's death). As such an early icon in science fiction literature, it has [inspired](https://screenrant.com/ways-dune-influenced-future-sci-fi-movies/) many works of science fiction which are today consider staples of the genre. Works such as *Alien*, *Star Wars*, *Blade Runner*, and *2001: A Space Odessy*.
 
-There's a lot of history to *Dune* that I could go over, but I'll save it for when I inevitably do a [case study](/tags.md#CaseStudy) on the film releasing later this year.
+There's a lot of history to *Dune* that I could go over, but I'll save it for when I inevitably do a [case study](/tags/#Case-Study) on the film releasing later this year.
 
 Suffice it to say, after reading the book I had become very interested in rumblings in Hollywood of director [Denis Villeneuve](https://www.imdb.com/name/nm0898288/) in talks to direct a movie adaptation. I had previously been impressed with his movie *Arrival* and *Blade Runner: 2049* and couldn't think of a director with a better track record for sci-fi movies.
 

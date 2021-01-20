@@ -25,7 +25,7 @@ It happened [again](./Queries_into_the_4th_state_of_matter.md)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jdA_iGOkqxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Tags
-[Space Pirates](/tags.md#Space%20Pirates)
+[Space Pirates](/tags/#Space-Pirates)
 
 * Summary/Details
 <details>

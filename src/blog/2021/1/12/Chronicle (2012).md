@@ -53,7 +53,7 @@ In Matt, we see a fulfilled social life. It's implied he's always been popular, 
 
 Finally, we have the most interesting character development in Andrew. It is interesting mostly because he harbours the greatest character flaws.
 
-Immediately, we see that Andrew has a mental affinity to these new powers. Where all else in his life is mediocre or below-average, in this new power he is successful. As his confidence in his abilities grow, he no longer films hiding behind the camera, but rather uses his telekinesis to orbit the camera around himself. Finally, the one area of his life he can control, and we see it's effect in the finesse of his camera control. This could also be symbolic of him coming out of his shell as he begins to like what he sees through his tool of self [reflection](/tags.md#Reflections).
+Immediately, we see that Andrew has a mental affinity to these new powers. Where all else in his life is mediocre or below-average, in this new power he is successful. As his confidence in his abilities grow, he no longer films hiding behind the camera, but rather uses his telekinesis to orbit the camera around himself. Finally, the one area of his life he can control, and we see it's effect in the finesse of his camera control. This could also be symbolic of him coming out of his shell as he begins to like what he sees through his tool of self [reflection](/tags/#Reflections).
 
 As the story continues, we begin to notice his [psychopathic](https://www.webmd.com/mental-health/features/sociopath-psychopath-difference#1) tendencies: he continues to fixate on his camera as his mother cries out in pain in the other room; he casually flicks aside an annoying vehicle, critically injuring the passenger; he methodically dismembers a spider.
 

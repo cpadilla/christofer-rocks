@@ -2,7 +2,7 @@
 
 <Feature article="blog/2021/1/3/The_Origins_of_Space_Pirates.md" />
 
-## Latest [#SpacePirates](/tags.md#Space%20Pirates) development
+## Latest [#SpacePirates](/tags/#Space-Pirates) development
 
 <Feature article="blog/2021/1/8/The_Eternal_War_Machine.md" />
 

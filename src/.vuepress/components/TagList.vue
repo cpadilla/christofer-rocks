@@ -41,7 +41,7 @@ export default {
     safeLink(tag) {
       const whitespace = /\s/g
       const apostrophe = /["']/g
-      return tag.replace(whitespace,'').replace(apostrophe,'')
+      return tag.replace(whitespace,'-').replace(apostrophe,'-')
     }
   }
 }

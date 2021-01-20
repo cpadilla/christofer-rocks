@@ -110,7 +110,7 @@ Additionally, I found some ancient gameplay footage:
 
 ## Space Pirates
 
-At long last, it is finally time to create [Space Pirates](/tags.md#SpacePirates), the spiritual successor to Space Pirate.
+At long last, it is finally time to create [Space Pirates](/tags/#Space-Pirates), the spiritual successor to Space Pirate.
 
 You can see [here](https://github.com/the-hacker-club/space-pirates/tree/0.1), [here](https://github.com/Axolen/space-pirates) and [here](https://rockzombie2.visualstudio.com/SpacePirates%20(OpenTK)) my many past attempts to recreate my dream game.
 
@@ -128,7 +128,7 @@ Most likely, tho, Space Pirates will be a browser based game; similar to Space P
 
 Now that I feel I've collected sufficient information to begin outlining the game design, I hope to make significant progress on this project in 2021. I've graduated college, started a new job and have finally settled in after moving. Especially now that I'm working from home during quarantine, I should have plenty of time to dedicate to hard development.
 
-Moving forward, I'm going to consolidate all the work I've done so far into the [Hacker Club's](https://github.com/the-hacker-club) [repo](https://github.com/the-hacker-club/space-pirates). I'll continue to post development blogs under the [Space Pirates](/tags.md#SpacePirates) tag and soon I'll make another post outlining my plans for the game in more technical detail.
+Moving forward, I'm going to consolidate all the work I've done so far into the [Hacker Club's](https://github.com/the-hacker-club) [repo](https://github.com/the-hacker-club/space-pirates). I'll continue to post development blogs under the [Space Pirates](/tags/#Space-Pirates) tag and soon I'll make another post outlining my plans for the game in more technical detail.
 
 If you're interested in following development of Space Pirates, you can follow me on [Twitter](https://twitter.com/rockzombie2) or check my blog for updates. I also created [The Hacker Club](https://discord.gg/fmzSFXJ) as a Discord community to follow my development streams on [Twitch](https://www.twitch.tv/rockzombie2).
 

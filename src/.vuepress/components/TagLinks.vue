@@ -5,7 +5,7 @@
     <router-link
       v-for="tag in $page.frontmatter.tags"
       :key="tag"
-      :to="{ path: '/tags.html#'+safeLink(tag) }">
+      :to="{ path: '/tags/#'+safeLink(tag) }">
       {{tag}}
     </router-link>
   </div>
@@ -16,7 +16,7 @@ export default {
     safeLink(tag) {
       const whitespace = /\s/g
       const apostrophe = /["']/g
-      return tag.replace(whitespace,'').replace(apostrophe,'')
+      return tag.replace(whitespace,'-').replace(apostrophe,'-')
     }
   }
 }
