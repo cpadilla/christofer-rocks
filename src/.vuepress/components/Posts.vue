@@ -52,6 +52,10 @@ export default {
 .page-title {
   font-size: 20px;
 }
+.page-date {
+  font-size: 0.9rem;
+  color: grey;
+}
 .article-image {
   height: 100%;
 }
