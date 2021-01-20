@@ -19,6 +19,7 @@ module.exports = {
         logo: '/images/logo.png',
         nav: [
             { text: 'Articles', link: '/blog/' },
+            { text: 'Archive', link: '/archive/' },
             { text: 'Tags', link: '/tags/' }
         ],
         nextLinks: true,

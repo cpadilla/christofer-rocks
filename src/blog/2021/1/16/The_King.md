@@ -47,8 +47,9 @@ I finally decided to go out of my way to watch a movie and see him in a leading 
 
 ## *The King*
 
-I've already spent a lot of time setting up pretext to the movie, so I'm only going to breifly review some of the themes I've found interesting about the movie. The themes I've chosen to focus on are The Church and it's power and influence over the crown, honor, and the burden of responsibility.
+I've already spent a lot of time setting up pretext to the movie, so I'm only going to breifly review some of the themes I've found interesting about the movie. I'm mostly going to focus on certain scenes within the movie that touch on the following themes: The Church and it's power and influence over the crown, censorship, responsibility, and the horrors of war.
 
+*Work in progress*
 
 <TagLinks />
 
