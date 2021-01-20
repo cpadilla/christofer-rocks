@@ -16,15 +16,16 @@ module.exports = {
       ['link', { rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css' }]
     ],
     themeConfig: {
-        logo: '/images/logo.png',
-        nav: [
-            { text: 'Articles', link: '/blog/' },
-            { text: 'Archive', link: '/archive/' },
-            { text: 'Tags', link: '/tags/' }
-        ],
-        nextLinks: true,
-        prevLinks: true,
-        lastUpdated: 'Last Updated'
+      logo: '/images/logo.png',
+      nav: [
+          { text: 'Articles', link: '/blog/' },
+          { text: 'Archive', link: '/archive/' },
+          { text: 'Tags', link: '/tags/' }
+      ],
+      nextLinks: true,
+      prevLinks: true,
+      lastUpdated: 'Last Updated',
+      activeHeaderLinks: true
     },
     plugins: [
         ['flexsearch', {
