@@ -38,7 +38,7 @@ The Hidden Power of Neurons.
 
 One quote in particular stands out to me.
 
-> So while it may be tempting to think about the human brain as a [computer](./Reflections_at_interfaces.md), it's maybe more accurate to think about it as a hundred billion tiny supercomputers.
+> So while it may be tempting to think about the human brain as a [computer](/blog/2020/12/30/Reflections_at_interfaces.md), it's maybe more accurate to think about it as a hundred billion tiny supercomputers.
 
 <TagLinks />
 

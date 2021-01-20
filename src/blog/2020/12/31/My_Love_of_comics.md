@@ -30,7 +30,7 @@ While I was there, I picked up a copy of one of my all-time favorite comic: WATC
 
 But the original WATCHMEN comic is a graphic novel I wanted to have in my collection, just like I have certain comic-inspired records in my collection, such as MF DOOM's *MM..FOOD*, Czarface's *Every Hero Needs a Villain*, and Wu-Tang Clan's [*Protect Ya Neck*](https://en.wikipedia.org/wiki/Protect_Ya_Neck).
 
-Upon reading the forward, I discovered that it had been [inspired](./A_Remarkable_Coincidence_of_Inspiration.md) by Bob Dylan and his song Desolation Row.
+Upon reading the forward, I discovered that it had been [inspired](/blog/2020/12/29/A_Remarkable_Coincidence_of_Inspiration.md) by Bob Dylan and his song Desolation Row.
 
 > At Midnight all the agents
 >

@@ -20,7 +20,7 @@ I recently found myself in posession of an old tube TV. You know what kind I'm t
 
 I couldn't figure out what model it was, since if there was a sticker on the back revealing that information, it had long since peeled off and/or faded away into obscurity. It's a Mitsubishi similar to the one shown above.
 
-I found it lying in front of someone's yard. Coincidentally, I was actually on my way to pick up an entertainment center. I've been picking up a lot of used furniture to furnish my apartment lately. I also recently acquired a [rug](./The_Eternal_War_Machine.md).
+I found it lying in front of someone's yard. Coincidentally, I was actually on my way to pick up an entertainment center. I've been picking up a lot of used furniture to furnish my apartment lately. I also recently acquired a [rug](/blog/2021/1/8/The_Eternal_War_Machine.md).
 
 ![$20 bucks!](/images/entertainmentcenter.jpg)
 

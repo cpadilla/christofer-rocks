@@ -14,7 +14,7 @@ tags: ["Case Study", "Music"]
 
 ## Release
 
-*TESSELATE* was written by Tei Shi & BAYNK for the album *A STUDY IN MOVEMENT*, which was release on July 3, 2020. I found this interesting as I, myself, am doing a case study on this song and this song was a part of a study in movement. An interesting [coincidence](./A_Remarkable_Coincidence_of_Inspiration.md).
+*TESSELATE* was written by Tei Shi & BAYNK for the album *A STUDY IN MOVEMENT*, which was release on July 3, 2020. I found this interesting as I, myself, am doing a case study on this song and this song was a part of a study in movement. An interesting [coincidence](/blog/2020/12/29/A_Remarkable_Coincidence_of_Inspiration.md).
 
 ## Discovery
 

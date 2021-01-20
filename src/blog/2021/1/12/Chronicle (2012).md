@@ -81,7 +81,7 @@ The story escalates to a climax when Andrew's mother dies. Untethered to any mor
 
 The full weight of the burden of responsibility falls on Matt's shoulders as he realizes the only way he can stop Andrew is to quickly strike him down.
 
-The story ends with Matt bearing his final confessions on the mountains of Tibet. Earlier in the movie, Andrew mentioned wanting to go to Tibet, where the monks are said to have reached such a high level of [enlightenment](./The_Source.md) that they could levitate.
+The story ends with Matt bearing his final confessions on the mountains of Tibet. Earlier in the movie, Andrew mentioned wanting to go to Tibet, where the monks are said to have reached such a high level of [enlightenment](/blog/2021/1/2/The_Source.md) that they could levitate.
 
 After relieving the burden on his soul, he wishes Andrew goodbye, leaving only the camera and the memory of his cousin behind in the snow.
 

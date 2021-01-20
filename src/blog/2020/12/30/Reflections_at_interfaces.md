@@ -11,7 +11,7 @@ tags: ["Reflections", "Inspiration", "Astronomy", "Light"]
 
 I was reading a book my sister in law let me borrow called [To Measure the Sky](https://smile.amazon.com/Measure-Sky-Introduction-Observational-Astronomy/dp/1107572568/). It's an introduction to observational astronomy, and I find learning about light interesting and useful.
 
-I've been thinking about [my last blog post](./A_Remarkable_Coincidence_of_Inspiration.md), especially how it helps me organize my thoughts and make reflections on and of myself. It's like rather than looking into a mirror, I can see my reflection in the words I type. My computer is the mirror I use for self reflection beyond just my physical appearance; my reflection in my minds eye.
+I've been thinking about [my last blog post](/blog/2020/12/29/A_Remarkable_Coincidence_of_Inspiration.md), especially how it helps me organize my thoughts and make reflections on and of myself. It's like rather than looking into a mirror, I can see my reflection in the words I type. My computer is the mirror I use for self reflection beyond just my physical appearance; my reflection in my minds eye.
 
 The first few pages of the book I'm reading explain the modes of behavior of light. The summarization of the wave theory of light mentioned "Light exhibits all the properties of classical, well-behaved waves, namely: reflection at interfaces..."
 

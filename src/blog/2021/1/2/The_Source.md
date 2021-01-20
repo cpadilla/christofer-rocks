@@ -13,7 +13,7 @@ tags: ["Reflections", "The Tarot", "The Source", "Inspiration"]
 
 "The Source."
 
-It happened [again](./Queries_into_the_4th_state_of_matter.md). Another [recurrence](./A_Remarkable_Coincidence_of_Inspiration.md). I blinked around, awake now that I had actually spoken my half-lucid thought aloud.
+It happened [again](/blog/2021/1/1/Queries_into_the_4th_state_of_matter.md). Another [recurrence](/blog/2020/12/29/A_Remarkable_Coincidence_of_Inspiration.md). I blinked around, awake now that I had actually spoken my half-lucid thought aloud.
 
 "Hey Google, what time is it?"
 
@@ -62,7 +62,7 @@ Opening up the guidebook that accompanied it, this is what I read.
 >
 > Now, it is able to execute on a well-informed and planned strategy. With this card comes the optimism and excitement of success.
 
-How fitting, considering I just started my new blog and my [New Year's Resolution](./2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#Space%20Pirates).
+How fitting, considering I just started my new blog and my [New Year's Resolution](/blog/2021/1/1/2021_New_Year's_Resolution.md) to develop a working prototype of my game, [Space Pirates](/tags.md#Space%20Pirates).
 
 <TagLinks />
 
