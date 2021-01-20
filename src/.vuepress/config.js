@@ -2,6 +2,7 @@ module.exports = {
     title: 'Reflections',
     description: 'A glimpse into my personal reflections.',
     head: [
+      ['link', { rel: 'icon', href: '/images/logo.png' }],
       ['script', {
         async: true,
         src: 'https://www.googletagmanager.com/gtag/js?id=G-Q6CMDV4BG0'
