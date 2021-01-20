@@ -13,7 +13,7 @@ tags: ["Reflections", "Politics"]
 
 I've always been interested in [politics](/tags/#Politics).
 
-In high school, I was nominated as a candidate to participate in [Boys State](https://en.wikipedia.org/wiki/Boys/Girls_State). Boy's State is basically a summer program where participants act as citizens in a mock state legislature. Citizens are divided into groups, elect leaders, and draft bills.
+In high school, I was nominated as a candidate to participate in [Boys State](https://en.wikipedia.org/wiki/Boys/Girls_State). Boy's State is basically a summer program where participants act as citizens in a mock state legislature. Citizens divide into groups, elect leaders, and draft bills.
 
 I remember having a good relationship with the teacher of my Government class and I really enjoyed learning about the government and politics. One day, I was called out of class to the front office, where I had an interview with some guy who asked me questions such as who our state governor was, who the house majority leader was, etc. At the time, I had no idea what this was for so I wasn't prepared at all for these questions and failed the interview.
 
