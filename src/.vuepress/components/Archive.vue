@@ -42,10 +42,9 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
+  border: 1px solid #ccc;
+  border-radius: 3px;
   padding: 10px;
-  padding-left: 30px;
   display: flex;
   align-items: center;
 }
