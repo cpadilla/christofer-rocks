@@ -57,6 +57,8 @@ Overall, this new chapter lays out the groundwork for a potentially very interes
 
 ![Foreshadowing...](/images/foreshadowing.jpg)
 
+You can read Dragon Ball Super Chapter 68 for free [here](https://mangaplus.shueisha.co.jp/viewer/1008330).
+
 <TagLinks />
 
 <Comments />
