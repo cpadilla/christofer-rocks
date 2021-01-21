@@ -124,7 +124,7 @@ I had previously used a Debian system with one of the first linux operating syst
 
 Good times.
 
-I'll keep the Raspberry Pi OS for now out of convenience, at least try until I switch the [window manager](https://en.wikipedia.org/wiki/Window_manager) to [my version](https://github.com/cpadilla/dwm) of [dwm](https://dwm.suckless.org/).
+I'll keep the Raspberry Pi OS for now out of convenience, at least until I switch the [window manager](https://en.wikipedia.org/wiki/Window_manager) to [my version](https://github.com/cpadilla/dwm) of [dwm](https://dwm.suckless.org/).
 
 I'm very happy with my new setup and I think I'll keep the screensaver on during the day for aesthetics.
 
