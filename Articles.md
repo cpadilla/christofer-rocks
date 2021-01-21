@@ -10,8 +10,6 @@
 # Articles
 
 * [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-* Granolah, The Survivor
-* The Inauguration of Joe Biden
 
 # Topics
 
@@ -42,11 +40,14 @@
 
 * Google search widget
 * Google definition widget
-* use vue-router to navigate to headers with #'s
 * Archive by date
 * Import old blog posts
   - https://christoferpadilla.tumblr.com/
   - http://nakedlogic.blogspot.com/
+
+# Recipes
+
+* Ramen 🍜
 
 # Case Studies
 
