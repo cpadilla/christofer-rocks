@@ -2,7 +2,6 @@
 
 * Archive by date
   - Import old blog posts
-* use vue-router to navigate to headers with #'s
 * The King
 * Creating Bitcoin private keys with Dice
   - Explaining Bitcoin to my mom
@@ -10,6 +9,8 @@
 # Articles
 
 * [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+* CSW/Bitcoin core whitepaper controversy
+  - Excuse to host bitcoin whitepaper
 
 # Topics
 
@@ -51,34 +52,50 @@
 
 # Case Studies
 
-    * The King
-    * Aires
-    * @maalavidaa
-    * Richard Serra
-    * Pan Daijing
-    * Somebody that I used to know - Gotye
-    * Dune
-        - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
-    * Chanel
-    * Interstellar
-    * 1917
-    * [The Witch](https://www.imdb.com/title/tt4263482/)
-    * Mr. Robot
-        - [fsociety](https://www.google.com/search?q=fsociety)
-    * Times New Roman
-    * 2001: A Space Odessy
-    * Annihilation
-    * Alien Covenant
-    * Mad Max
-    * Blade Runner
-    * Death Stranding
-    * No Country For Old Men
-    * The Hunt
-    * Knives Out
-    * District 9
-    * CBTM (TikTok)
-    * Manchester Orchestra
-    * Kevin Devine
+## Movies
+* The King
+* Dune
+    - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
+* Interstellar
+* 1917
+* [The Witch](https://www.imdb.com/title/tt4263482/)
+* 2001: A Space Odessy
+* Annihilation
+* Alien Covenant
+* Mad Max
+* Blade Runner
+* No Country For Old Men
+* The Hunt
+* Knives Out
+* District 9
+
+## TV Shows
+* Mr. Robot
+    - [fsociety](https://www.google.com/search?q=fsociety)
+
+## Music
+* Somebody that I used to know - Gotye
+* affection - BETWEEN FRIENDS
+* I Said - Litany
+* Chanel
+* See Myself - Oscar Oscar
+* Adapted Air - Arbitraire
+* The Stuffing 2019
+  - Manchester Orchestra
+  - Kevin Devine
+
+## Artists
+* @maalavidaa
+* Richard Serra
+* Pan Daijing
+
+## Games
+* Death Stranding
+
+## Other
+* Aires
+* Times New Roman
+* CBTM (TikTok)
 
 
 # Resources
