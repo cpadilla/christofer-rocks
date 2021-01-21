@@ -1,3 +1,11 @@
+const autometa_options = {
+  site: {
+    name   : 'Christofer',
+    twitter: 'rockzombie2',
+  },
+  canonical_base: 'https://christofer.rocks',
+};
+
 module.exports = {
     title: 'Reflections',
     description: 'A glimpse into my personal reflections.',
@@ -49,7 +57,8 @@ module.exports = {
             field: ["title", "content", "headers"],
           }
         }
-      }]
+      }],
+      [ 'autometa', autometa_options ]
     ],
   module: {
     rules: [
