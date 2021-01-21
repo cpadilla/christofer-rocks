@@ -24,6 +24,12 @@ It happened [again](./Queries_into_the_4th_state_of_matter.md)
 * YouTube video
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jdA_iGOkqxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* Video
+<video width="360" height="640" controls>
+  <source src="/videos/thedarkestknight.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 * Tags
 [Space Pirates](/tags/#Space-Pirates)
 
