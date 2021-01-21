@@ -7,7 +7,7 @@ type: article
 tags: ["Reflections"]
 ---
 
-# Title
+# {{ $page.title }}
 
 * Link to other blog articles
 
@@ -34,6 +34,9 @@ It happened [again](./Queries_into_the_4th_state_of_matter.md)
   </summary>
   details
 </details>
+
+* Center Tweet
+  - copy embedded code and add "tw-align-center" to class
 
 * [Scroll to Text Fragment](https://stackoverflow.com/questions/62161819/what-exactly-is-the-text-location-hash-in-an-url)
 
