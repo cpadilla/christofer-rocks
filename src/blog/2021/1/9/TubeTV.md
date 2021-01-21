@@ -4,12 +4,12 @@ date: Saturday, January 9, 2021
 description: How I turned an old tube TV into another workspace.
 author: Christofer Padilla
 type: article
-tags: ["Computer Science", "Raspberry Pi"]
+tags: ["Computer Science", "Raspberry Pi", "Memories"]
 ---
 
 # TubeTV
 
-I recently found myself in posession of an old tube TV. You know what kind I'm talking about.
+I recently found myself in posession of an old tube TV. [You know what kind I'm talking about.](https://en.wikipedia.org/wiki/Cathode-ray_tube)
 
 <figure>
   <img
@@ -90,6 +90,45 @@ So for about $130, I can have a cheap PC and a new work environment. Sold.
 Between my art project and fun money, it falls within my [budget](https://www.youneedabudget.com/) for this month, too.
 
 That's that! I'll post an update picture when it all arrives and I have it set up.
+
+## 1/20/2021 UPDATE
+
+![It has arrived!](/images/raspberrypi-snap.jpg)
+
+Once it arrived, I realized very quickly that I had neither a micro HDMI cable nor the patience for my RCA cable to arrive to connect my device to a display.
+
+A quick google search and I found an [HDMI to RCA converter](https://www.walmart.com/ip/onn-HDMI-to-Composite-AV-Adapter/438464292) at my local walmart.
+
+A quick trip over there and I ended up finding everything I needed. I walked out with the converter, a [micro HDMI to HDMI](https://www.walmart.com/ip/onn-Mini-and-Micro-HDMI-to-HDMI-Adapter-Black/881189922) cable, and an extra HDMI and RCA cable.
+
+I was stoked.
+
+I rushed home to finish baking my Pi. Once I had it assembled, I realized I overlooked one important detail: I didn't have enough outlets. I already had my TV and record player hooked up to the only outlet on the wall.
+
+I went upstairs and played tetris with my PC cables to try and salvage the only other power strip in the house I could spare. I realized one of the outlets I had previously assumed was broken was in fact powered by a light switch. Great! I plugged in my lamp to it and it freed up an outlet. Rearranging my modem and router on the floor, I was able to plug them into a separate outlet.
+
+Awesome. I now had a free power strip. I ran downstairs and plugged in all the pieces: HDMI to RCA converter plugged into my Pi as a power source, micro HDMI to HDMI adapter cable connected to my Pi, the extra HDMI cable I bought connecting the adapter cable to the converter and finally, the RCA cable to the TV.
+
+BOOM. It worked instantly.
+
+<video width="360" height="640" controls>
+  <source src="/videos/vibes.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+I was very pleased with my new set up. I spent the next few hours messing around with the display settings.
+
+The SD card I bought that came with the Raspberry Pi contained the [NOOBS](https://www.raspberrypi.org/downloads/noobs/) software preloaded on it. This booted up the [Raspberry Pi OS](https://www.raspberrypi.org/software/), which seemed to be a flavor of [Debian](https://en.wikipedia.org/wiki/Debian).
+
+I had previously used a Debian system with one of the first linux operating systems I used on my HP Pavilion dv9000: [CrunchBang](https://web.archive.org/web/20140131092254/http://crunchbang.org/). Support for it was eventually dropped by the developer in favor of using vanilla Debian, but it was a personal favorite of mine for a long time.
+
+Good times.
+
+I'll keep the Raspberry Pi OS for now out of convenience, at least try until I switch the [window manager](https://en.wikipedia.org/wiki/Window_manager) to [my version](https://github.com/cpadilla/dwm) of [dwm](https://dwm.suckless.org/).
+
+I'm very happy with my new setup and I think I'll keep the screensaver on during the day for aesthetics.
+
+![Pacman xscreensaver](/images/screensaver.jpg)
 
 <TagLinks />
 
