@@ -1,16 +1,16 @@
 # Priority list
 
-* Archive by date
-  - Import old blog posts
 * The King
-* Creating Bitcoin private keys with Dice
-  - Explaining Bitcoin to my mom
+* Henry
+* Bitcoin
 
 # Articles
 
 * [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 * CSW/Bitcoin core whitepaper controversy
   - Excuse to host bitcoin whitepaper
+* Creating Bitcoin private keys with Dice
+  - Explaining Bitcoin to my mom
 
 # Topics
 
