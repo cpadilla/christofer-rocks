@@ -18,4 +18,4 @@
 
 ## Featured Recipe
 
-<Feature article="blog/2021/1/19/Vietnamese_Spring_Rolls.md" />
+<Feature article="blog/2021/1/24/Ramen.md" />
