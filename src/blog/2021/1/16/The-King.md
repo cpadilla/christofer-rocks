@@ -9,13 +9,19 @@ tags: ["Case Study", "Movie"]
 
 # The King (2019)
 
+<div class="info"><b>Note:</b> This article is a work in progress.</div>
+
 ![The King](/images/theking.jpg)
 
-It's interesting, the sequence of events that led to me watching *The King*. It more so had to do with my interest in Timothy Chalamet than just browsing and stumbling on the Netflix film, so I'll first provide some backstory as to how I became mildly obsessed with him.
+It's interesting, the sequence of events that led to me watching *The King*. It more so had to do with my interest in Timothée Chalamet than just browsing and stumbling on the Netflix film, so I'll first provide some backstory as to how I became mildly obsessed with him.
+
+## Background
 
 It was Fall of 2016 and I was a Junior attending the University of Central Florida. I was at a mini camping festival event called Tent City put on by a progressive activist club called Campus Peace Action. It was a fun time full of great poeple and it was easy to talk to and meet strangers at this event with how friendly everyone was. It was here that by chance I overheard a conversation being had between two guys; someone was explaining in great detail a fascinating story. I was intrigued by this tale of space-faring civilzations, humans with computer-like thinking abilities and a spice resource that could grant prescience to the user.
 
 I am talking, of course, about *Dune*.
+
+### Dune
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/n9xhJrPXop4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -35,21 +41,25 @@ Among the star-studded cast are some actors whom I greatly admire: [Poe Dameron]
 
 And yet, among these great actors is one I'm not familiar with: our boy Timmy.
 
+### Timothée Chalamet
+
 Just from the *Dune* trailer alone it's obvious from the gativas with which Chalamet portrays the character of Paul Atreides the depth talent he posesses as an actor.
 
-As I was swept up in the hype of the new Dune movie trailer, I started doing my own research into the movie to tide me over until it's release. I joined a [book club](https://www.reddit.com/r/dune/comments/ipjge8/dune_book_club_being_held_on_discord/), read some articles and looked into what information I could find on the production process of the movie. As I did this, I found myself watching more and more interviews of Chalamet and learning about his career. I found one interesting [interview between Timothy Chalamet and Emma Stone](https://www.youtube.com/watch?v=8Lj1Cx4pNUw) and I was really impressed with how genuine he seemed.
+As I was swept up in the hype of the new Dune movie trailer, I started doing my own research into the movie to tide me over until it's release. I joined a [book club](https://www.reddit.com/r/dune/comments/ipjge8/dune_book_club_being_held_on_discord/), read some articles and looked into what information I could find on the production process of the movie. As I did this, I found myself watching more and more interviews of Chalamet and learning about his career. I found one interesting [interview between Timothée Chalamet and Emma Stone](https://www.youtube.com/watch?v=8Lj1Cx4pNUw) and I was really impressed with how genuine he seemed.
 
 At the time, I had also received the latest issue of GQ, which featured none other than our boy Timmy. I've always enjoyed reading magazine articles as they are usually a more insightful form of interview and found the cover story on him to be no different.
 
-![Timothy Chalamet on the cover of GQ, November 2020](/images/timothee-chalamet-gq-november-cover-2020.jpg)
+![Timothée Chalamet on the cover of GQ, November 2020](/images/timothee-chalamet-gq-november-cover-2020.jpg)
 
-I finally decided to go out of my way to watch a movie and see him in a leading role of a movie with surprising parallels to *Dune*.
+It turns out, Timothée Chalamet had also played a role in another film I thoroughly enjoyed: *Interstellar*. He played the son at the beginning of the movie.
+
+I still wanted to watch something he had played a leading role in, however. I decided to go out of my way to watch a movie with surprising parallels to *Dune*.
 
 ## *The King*
 
-I've already spent a lot of time setting up pretext to the movie, so I'm only going to breifly review some of the themes I've found interesting about the movie. I'm mostly going to focus on certain scenes within the movie that touch on the following themes: The Church and it's power and influence over the crown, censorship, responsibility, and the horrors of war.
+I've already spent a lot of time setting up pretext to the movie, so I'm only going to briefly review some of the themes I've found interesting about the movie. I'm mostly going to focus on certain scenes within the movie that touch on the following themes: The Church and it's power and influence over the crown, censorship, responsibility, and the horrors of war.
 
-*Work in progress*
+*To be continued...*
 
 <TagLinks />
 

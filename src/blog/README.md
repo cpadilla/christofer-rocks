@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2021/1/3/The_Origins_of_Space_Pirates.md" />
+<Feature article="blog/2021/1/23/Henry.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) development
 
@@ -14,7 +14,7 @@
 
 ### Movie
 
-<Feature article="blog/2021/1/12/Chronicle (2012).md" />
+<Feature article="blog/2021/1/16/The-King.md" />
 
 ## Featured Recipe
 
