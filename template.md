@@ -41,8 +41,11 @@ It happened [again](./Queries_into_the_4th_state_of_matter.md)
   details
 </details>
 
-* Center Tweet
+* Center embedded Tweet
   - copy embedded code and add "tw-align-center" to class
+
+* Center an embedded Instagram post
+  - surround embedded code with <center> tags
 
 * [Scroll to Text Fragment](https://stackoverflow.com/questions/62161819/what-exactly-is-the-text-location-hash-in-an-url)
 

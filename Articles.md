@@ -1,9 +1,11 @@
 # Priority list
 
-* Make main README.md
-* The King
 * Henry
+* Avocado toast
 * Devil Like Me - Rainbow Kitten Surprise
+
+* The King
+* Fix redirect links
 * Bitcoin
 
 # Articles
@@ -43,6 +45,7 @@
 
 * Google search widget
 * Google definition widget
+* Subtitles
 * Archive by date
 * Import old blog posts
   - https://christoferpadilla.tumblr.com/
@@ -51,6 +54,9 @@
 # Recipes
 
 * Ramen 🍜
+* Avocado toast
+* Chilaquilles
+* Scones
 
 # Case Studies
 
@@ -99,7 +105,8 @@
 * Aires
 * Times New Roman
 * CBTM (TikTok)
-
+* VSCode
+* Vim
 
 # Resources
     * [https://twitter.com/i/status/1046643787034955777](https://twitter.com/i/status/1046643787034955777)

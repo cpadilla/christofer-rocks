@@ -62,6 +62,8 @@ Since [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) invente
 
 These are very seductive features a game built as a dApp can have. As a gamer, I don't have to fear my game or my progress in the game will be erased when the game shuts down and as a game developer, my game will live on forever!
 
+### The Game of Life
+
 One such game (not built on the blockchain but existing as a simple state machine of rules) is [John Conway's Game of Life](https://www.google.com/search?q=john+conway%27s+game+of+life&oq=John+Conway%27s+Game+of+Life)
 
 > The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
