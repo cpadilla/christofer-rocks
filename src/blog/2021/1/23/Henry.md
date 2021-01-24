@@ -4,7 +4,7 @@ date: Saturday, January 23, 2021
 description: A guide to becoming a responsible jumping spider pet owner.
 author: Christofer Padilla
 type: article
-tags: ["Pet", "Guide"]
+tags: ["Pets", "Guides"]
 ---
 
 # {{ $page.title }}
