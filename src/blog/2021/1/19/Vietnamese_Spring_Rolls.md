@@ -38,24 +38,27 @@ So after watching one of her vidoes and realizing you could make them, I was ins
 
 #### Spring Roll
 
-    2       rice paper wrapper
-    8-10    cooked Shrimp
-    2       lettuce leaves
-    60  mL  water
-    10  mL  fresh lime juice
-    1/4     sliced cucumber
-    1/4     sliced carrot
-    1/2     sliced red pepper
-    1/2     sliced avocado
-    15  mL  chopped cilantro
+    2           rice paper wrapper
+    8-10        cooked Shrimp
+    2           lettuce leaves
+    60  mL      water
+    10  mL      fresh lime juice
+    1/4         sliced cucumber
+    1/4         sliced carrot
+    1/2         sliced red pepper
+    1/2         sliced avocado
+    15  mL      chopped cilantro
+    0.021 tbsp  salt*
+
+<div class="info"><b>*</b> Precise measurements are <a href="https://www.traditionaloven.com/culinary-arts/volume/convert-pinch-volume-us-to-tablespoon-tbsp-metric.html#:~:text=The%20answer%20is%3A%20The%20change,unit%20type%20measure%20often%20used.">important</a>.</div>
 
 #### Peanut Dipping Sauce
 
-    30  mL  natural peanut butter
-    5   mL  hoisin sauce (found in the Asian section of grocery stores)
-    5   mL  Sriracha
-    5   mL  soy sauce
-    10  mL  warm water
+    30  mL      natural peanut butter
+    5   mL      hoisin sauce (found in the Asian section of grocery stores)
+    5   mL      Sriracha
+    5   mL      soy sauce
+    10  mL      warm water
 
 ### Instructions
 
@@ -63,10 +66,12 @@ So after watching one of her vidoes and realizing you could make them, I was ins
 2. **Fill a plate with water and place the rice paper wrapper on the plate.** Make sure the water covers the wrapper completely and let it soak for 20-30 seconds until the rice paper is pliable.
 3. **Place the rice paper on a dry surface.**
 4. **Place the contents of the spring roll inside the wrap.** This includes all of your vegetables and the shrimp.
-5. **Squeeze the fresh lime juice onto the wrap.**
+5. **Squeeze the fresh lime juice onto the wrap and add salt.**
 6. **Wrap the spring roll like a burrito.**
 7. **Mix the ingredients of the Peanut Dipping Sauce together.** Use the water as necessary to thin the peanut sauce to the desired consistency.
 8. **Eat it.**
+
+<div class="info"><b>Update:</b> I'm still trying to figure out the secret to wrapping them <i>tightly</i>. This is critical to making a perfect wrap. I've found varying success in placing the moist rice paper on top of the prepared contents of the wrap, and going from there. You're mileage may vary.</div>
 
 ![Fresh Spring Roll](/images/springroll-snap.jpg)
 

@@ -1,11 +1,13 @@
 # Priority list
 
-* Henry
+* Fix font
 * Avocado toast
 * Devil Like Me - Rainbow Kitten Surprise
 
-* The King
+* Fix video widths on mobile
 * Fix redirect links
+
+* The King
 * Bitcoin
 
 # Articles

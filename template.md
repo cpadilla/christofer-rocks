@@ -48,7 +48,7 @@ It happened [again](./Queries_into_the_4th_state_of_matter.md)
   - surround embedded code with <center> tags
 
 * Info tags
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="https://christoferpadilla.tumblr.com/post/75674266333/update-time">christoferpadilla.tumblr.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog.</div>
 
 
 * [Scroll to Text Fragment](https://stackoverflow.com/questions/62161819/what-exactly-is-the-text-location-hash-in-an-url)
