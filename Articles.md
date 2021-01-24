@@ -1,7 +1,9 @@
 # Priority list
 
+* Make main README.md
 * The King
 * Henry
+* Devil Like Me - Rainbow Kitten Surprise
 * Bitcoin
 
 # Articles
@@ -74,6 +76,7 @@
     - [fsociety](https://www.google.com/search?q=fsociety)
 
 ## Music
+* Devil Like Me - Rainbow Kitten Surprise
 * Somebody that I used to know - Gotye
 * affection - BETWEEN FRIENDS
 * I Said - Litany
