@@ -1,7 +1,6 @@
 # Priority list
 
-* Fix font
-* Avocado toast
+* Ramen
 * Devil Like Me - Rainbow Kitten Surprise
 
 * Fix video widths on mobile
@@ -47,6 +46,7 @@
 
 * Google search widget
 * Google definition widget
+* Upload and use [Charter](https://fontesk.com/charter-typeface/) font
 * Subtitles
 * Archive by date
 * Import old blog posts
@@ -59,6 +59,7 @@
 * Avocado toast
 * Chilaquilles
 * Scones
+* Sushi
 
 # Case Studies
 

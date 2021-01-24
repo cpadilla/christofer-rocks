@@ -4,7 +4,7 @@ date: Tuesday, January 19, 2021
 description: A recipe for Vietnamese Spring Rolls.
 author: Christofer Padilla
 type: article
-tags: ["Recipe"]
+tags: ["Recipes"]
 ---
 
 # Vietnamese Spring Rolls
@@ -32,14 +32,14 @@ So after watching one of her vidoes and realizing you could make them, I was ins
 
 ## Recipe
 
-2 servings.
+2 servings. 10-15 mins. prep time.
 
 ### Ingredients
 
 #### Spring Roll
 
     2           rice paper wrapper
-    8-10        cooked Shrimp
+    8-10        cooked shrimp
     2           lettuce leaves
     60  mL      water
     10  mL      fresh lime juice
@@ -63,7 +63,7 @@ So after watching one of her vidoes and realizing you could make them, I was ins
 ### Instructions
 
 1. **Chop and slice your vegetables** before preparing the spring roll. This is important as you'll have a short window to wrap your spring roll befor the rice paper wrapper dries out. For drying out the rice paper, I prefer to use a wooden cutting board but you can also use a paper towel. Just be careful the rice paper doesn't dry to the paper towel.
-2. **Fill a plate with water and place the rice paper wrapper on the plate.** Make sure the water covers the wrapper completely and let it soak for 20-30 seconds until the rice paper is pliable.
+2. **Fill a plate with water and place the rice paper wrapper on the plate.** Make sure the water covers the wrapper completely and let it soak for **20-30** seconds until the rice paper is pliable.
 3. **Place the rice paper on a dry surface.**
 4. **Place the contents of the spring roll inside the wrap.** This includes all of your vegetables and the shrimp.
 5. **Squeeze the fresh lime juice onto the wrap and add salt.**
