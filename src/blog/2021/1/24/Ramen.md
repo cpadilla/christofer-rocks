@@ -1,7 +1,7 @@
 ---
 title: "Ramen (ラーメン)"
 date: Sunday, January 24, 2021
-description: A recipe for a classic bowl of Ramen .
+description: A recipe for the classic bowl of Ramen.
 author: Christofer Padilla
 type: article
 tags: ["Recipes"]
@@ -19,7 +19,7 @@ tags: ["Recipes"]
 
 I've always been interested in Japanese culture and even took it as my foreign language credit requirement in college. If I ever visit Japan (and I intend to one day!), I should remember proper [chopstick dining etiquette](https://justhungry.com/your-guide-better-chopstick-etiquette-mostly-japanese).
 
-But I was eating ramen way before I even cared about Japan. Growing up in the household of a Mexican family, I lived on ramen as a staple meal. Specifically, [Maruchan®](https://en.wikipedia.org/wiki/Maruchan)'s [Instant Lunch](https://www.maruchan.com/products/instant-lunch/), which I'd often have for dinner loaded with whatever hot sauces were available; usually [Valentina](https://en.wikipedia.org/wiki/Valentina_(hot_sauce)) or [Tapatío](https://en.wikipedia.org/wiki/Tapat%C3%ADo_hot_sauce). It wasn't until later in life that I was introduced to the ultimate hot sauce, [Blair's Mega Death Hot Sauce](https://www.amazon.com/Blairs-Death-Sauce-Liquid-Skull/dp/B0000DIX2R).
+But I was eating ramen way before I even cared about Japan. Growing up in the household of a Mexican family, I lived on ramen as a staple meal. Specifically, [Maruchan®](https://en.wikipedia.org/wiki/Maruchan)'s [Instant Lunch](https://www.maruchan.com/products/instant-lunch/), which I'd often have for dinner loaded with whatever hot sauces were available; usually [Valentina](https://en.wikipedia.org/wiki/Valentina_(hot_sauce)) or [Tapatío](https://en.wikipedia.org/wiki/Tapat%C3%ADo_hot_sauce). It wasn't until later in life that I was introduced to the ultimate hot sauce, [Blair's Mega Death](https://www.amazon.com/Blairs-Death-Sauce-Liquid-Skull/dp/B0000DIX2R).
 
 ![Mega Death](/images/mega-death.jpg)
 

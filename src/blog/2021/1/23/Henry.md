@@ -102,7 +102,7 @@ First, I began my research into what kind of spider it was that I might have enc
 
 Seeing that many reflective little rainbows that night, like a sea of stars in the [dark forest](https://www.instagram.com/p/B5-ig-1BUWE/?utm_source=ig_web_copy_link), instilled fear in me because it was more like a sea of tiny *intelligent* minds gazing back at me. Nature's [automata](/blog/2021/1/8/The_Eternal_War_Machine.md#the-game-of-life).
 
-So I started going down a rabbit hole of interesting YouTube videos on the intelligence of spiders, where I invariably came to across *the jumping spider*.
+So I started going down a rabbit hole of interesting YouTube videos on the intelligence of spiders, where I invariably came across *the jumping spider*.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UDtlvZGmHYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -133,7 +133,7 @@ The next morning, I found that lil Henry had, indeed, built his sac at the very 
   Your browser does not support the video tag.
 </video>
 
-As I moved him around the apartment to get some sunshine, I found he built another sac on the wooden decoration in the enclosure. The wooden piece fit snugly inside and probably dampened some of the vibrations of the case as I moved it around.
+As I moved him around the apartment to get some sunshine, I found he built another sac on the wooden decoration in the enclosure. The wooden piece fit snugly inside and the soil packed around it probably dampened some of the vibrations of the case as I moved it.
 
 <img src="/images/henrys-downstairs.jpg" width="360" />
 
@@ -149,13 +149,10 @@ I tried to feed one to Henry the first day, but he didn't seem interested in it 
 
 The next day, I put another cricket back in his cage and left him. I went about my business and kind of forgot about him until I checked his case again later and noticed not only had he emerged from his sac he had hidden himself away in, but he also had caught the cricket!
 
-<figure>
-  <video width="360" height="640" controls>
-    <source src="/videos/henry-eatin-good.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption><i>slurp, slurp, slurp</i></figcaption>
-</figure>
+<video width="360" height="640" controls>
+  <source src="/videos/henry-eatin-good.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Man was he going to town on that bug.
 
@@ -192,9 +189,7 @@ This marks the beginning of my journey as a pet owner of a *Phidippus regius*. H
 
 Hopefully this guide will help you on your quest to becoming a jumping spider pet owner as well.
 
-And if not, thanks for joining me on my journey! One that began as a quest to conquer my fears.
-
-Jumping spiders make great pets! Because of how smart they are, they pack a lot of personality and joy in their tiny forms.
+And if not, thanks for joining me on my journey! One that began as a quest to conquer my fears. Jumping spiders make great pets because of how smart they are, they pack a lot of personality and joy in their tiny forms.
 
 It is my hope to one day play chess with Henry. (Stay tuned for developments on that front.)
 
