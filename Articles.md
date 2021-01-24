@@ -1,11 +1,11 @@
 # Priority list
 
-* Ramen
 * Devil Like Me - Rainbow Kitten Surprise
 
 * Fix video widths on mobile
 * Fix redirect links
 
+* Add link to Resume
 * The King
 * Bitcoin
 
