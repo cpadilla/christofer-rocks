@@ -1,11 +1,10 @@
 # Priority list
 
+* Fix video widths on mobile
+* Add link to Resume
+  - Fixing christofer.codes
 * Devil Like Me - Rainbow Kitten Surprise
 
-* Fix video widths on mobile
-* Fix redirect links
-
-* Add link to Resume
 * The King
 * Bitcoin
 
@@ -44,6 +43,8 @@
 
 # Improvements
 
+* Fix redirect links
+  - Root issue is hosting on Github pages: need to host myself/somewhere else
 * Google search widget
 * Google definition widget
 * Upload and use [Charter](https://fontesk.com/charter-typeface/) font

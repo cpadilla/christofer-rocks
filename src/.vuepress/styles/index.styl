@@ -7,7 +7,15 @@ pre, code {
   font-family: Hack, monospace;
 }
 
-video, iframe {
+iframe {
+  display: flex;
+  margin: auto;
+}
+
+video {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
   display: flex;
   margin: auto;
 }
@@ -17,12 +25,26 @@ video, iframe {
       padding-bottom: 1rem;
       border-bottom: none;
     }
-    img {
+    img, figure {
       display: flex;
+      flex-direction: column;
       margin: auto;
     }
     figcaption {
       text-align: center;
+    }
+    .resp-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+    }
+    .resp-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
     }
 }
 

@@ -104,7 +104,9 @@ Seeing that many reflective little rainbows that night, like a sea of stars in t
 
 So I started going down a rabbit hole of interesting YouTube videos on the intelligence of spiders, where I invariably came across *the jumping spider*.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/UDtlvZGmHYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/UDtlvZGmHYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I found many other interesting videos on the subject, such as the [largest jumping spider in the world](https://www.youtube.com/watch?v=reBnd0hpGxg), a look [inside a jumping spider's brain](https://www.youtube.com/watch?v=Dgbci0GC1vk), and [how to train a jumping spider](https://www.youtube.com/watch?v=UXWBZ9gGbhE).
 
@@ -128,7 +130,7 @@ I picked up a few other items to complete the terrarium, like some [soil](https:
 
 The next morning, I found that lil Henry had, indeed, built his sac at the very top of the enclosure! Cool!
 
-<video width="360" height="640" controls>
+<video style="max-width:360px;" controls>
   <source src="/videos/henrys-sac.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
