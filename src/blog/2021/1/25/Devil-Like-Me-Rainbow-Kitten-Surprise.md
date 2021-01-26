@@ -49,7 +49,7 @@ Unlike most religious people, I never found much comfort in the idea of an after
 
 One of my best friends gave me the book [365 Tao: Daily Meditations](https://www.barnesandnoble.com/w/365-tao-deng-ming-dao-deng-ming-dao/1115016248) as an adult and it has since had a profound effect on my life. It resonated with me because it confirmed much of the wisdom I saw myself in the patterns of nature. Death is one of those natural patterns. Life continues on, but individuals do not. Their actions may, however, have [lasting impressions](https://www.youtube.com/watch?v=KMAtkjy_YK4) which ripple throughout time, but I learned it's very hard for things to have any kind of [significant](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) lifespan with respect to [time](https://www.youtube.com/watch?v=uD4izuDMUQA).
 
-Instead, I find comfort in the fact that we are *apart* of Life. That we are a significant part of a [whole](https://www.youtube.com/watch?v=0NbBjNiw4tk). Therefore, I don't think this life is something one can truly own, since it's not something we get to "keep". Indeed, "it was never mine to own".
+Instead, I find comfort in the fact that we are a *part* of Life. That we are a *significant* part of a [whole](https://www.youtube.com/watch?v=0NbBjNiw4tk). Therefore, I don't think this life is something one can truly own, since it's not something we get to "keep". Indeed, "it was never mine to own".
 
 The best we can do is decide what we stand for, and what we'd die for.
 
