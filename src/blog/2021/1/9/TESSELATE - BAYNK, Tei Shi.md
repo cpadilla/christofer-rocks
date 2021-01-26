@@ -9,7 +9,9 @@ tags: ["Case Study", "Music"]
 
 # TESSELATE - BAYNK, Tei Shi
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/9zIaIn6D6ik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/9zIaIn6D6ik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Release

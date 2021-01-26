@@ -11,7 +11,9 @@ tags: ["Case Study", "Music", "Memories"]
 
 <div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/greatest-song-ever_19.html">nakedlogic.blogspot.com</a>.</div>
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/14304059" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" title="vimeo-player" src="https://player.vimeo.com/video/14304059" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
 
 I first heard of this band through a Facebook post from Cage The Elephant. Apparently the two bands are close and Cage The Elephant was helping promote this new band. I followed the link and found this amazing music video full of fantastic visuals, brilliant colors, and psychedelic music.
 

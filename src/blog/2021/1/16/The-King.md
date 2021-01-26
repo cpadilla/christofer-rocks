@@ -23,7 +23,9 @@ I am talking, of course, about *Dune*.
 
 ### Dune
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/n9xhJrPXop4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/n9xhJrPXop4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [*Dune*](https://en.wikipedia.org/wiki/Dune_(novel)) was the first book in a series mostly written by Frank Herbert in 1965 (with some further expansion to the series written by his son Brian Herbert after his father's death). As such an early icon in science fiction literature, it has [inspired](https://screenrant.com/ways-dune-influenced-future-sci-fi-movies/) many works of science fiction which are today consider staples of the genre. Works such as *Alien*, *Star Wars*, *Blade Runner*, and *2001: A Space Odessy*.
 

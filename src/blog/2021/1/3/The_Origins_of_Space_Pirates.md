@@ -106,7 +106,9 @@ The Chosen Space wiki pages provide a holistic picture of how the game worked an
 
 Additionally, I found some ancient gameplay footage:
 
-<iframe width="786" height="773" src="https://www.youtube.com/embed/_Q5OLeM0g3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="786" height="773" src="https://www.youtube.com/embed/_Q5OLeM0g3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Space Pirates
 

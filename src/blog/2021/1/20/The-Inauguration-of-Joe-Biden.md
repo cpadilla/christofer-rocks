@@ -29,7 +29,9 @@ The internet was wild at the time. [Meme's](https://en.wikipedia.org/wiki/Intern
 
 They were pretty hilarious, but what's funny is the difference between this imagined Joe character and his real personality.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oihV9yrZRHg?start=409" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/oihV9yrZRHg?start=409" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Okay, maybe not *that* different.
 

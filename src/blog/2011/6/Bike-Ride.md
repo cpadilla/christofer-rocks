@@ -11,7 +11,9 @@ tags: ["Memories"]
 
 <div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/06/bike-ride.html">nakedlogic.blogspot.com</a>.</div>
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/24584722" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" title="vimeo-player" src="https://player.vimeo.com/video/24584722" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+</div>
 
 This was one of the greatest moments of my life. I think it was last Sunday night I spent the night at Matt's house. We kinda planned on Saturday to go on a bike ride, but it was still speculative enough for it to be considered a last minute plan. Nevertheless, we ended up doing it and it was totally worth it.
 

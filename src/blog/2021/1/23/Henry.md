@@ -130,7 +130,7 @@ I picked up a few other items to complete the terrarium, like some [soil](https:
 
 The next morning, I found that lil Henry had, indeed, built his sac at the very top of the enclosure! Cool!
 
-<video style="max-width:360px;" controls>
+<video width="360" height="640" controls>
   <source src="/videos/henrys-sac.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

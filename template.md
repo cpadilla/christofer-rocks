@@ -22,7 +22,9 @@ It happened [again](./Queries_into_the_4th_state_of_matter.md)
 </figure>
 
 * YouTube video
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jdA_iGOkqxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/UDtlvZGmHYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 * Video
 <video width="360" height="640" controls>

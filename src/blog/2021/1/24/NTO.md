@@ -9,7 +9,9 @@ tags: ["Case Study", "EDM", "Music"]
 
 # {{ $page.title }}
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Ri9NKdvsHXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/Ri9NKdvsHXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I came across NTO when I used to stream a lot a few years ago. I was listening to a lot of EDM music and a few of his songs that I really enjoyed: The Hound and [Alter Ego](https://open.spotify.com/track/18MlLrfCkYOnKutil99GwY?si=OHfaxhPLSLOF4URfh56fdQ), both of which you can hear in the video above. I've been watching a lot of DJ sets on my TV lately.
 

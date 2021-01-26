@@ -9,7 +9,9 @@ tags: ["Case Study", "Music"]
 
 # slow down my thoughts
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jcBcJCZZEJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/jcBcJCZZEJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I often find myself completely enamored with a song, sometimes for days or even weeks on end. I'll have it stuck in my head and I'll play it over and over on repeat.
 

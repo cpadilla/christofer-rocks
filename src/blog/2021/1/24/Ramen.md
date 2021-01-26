@@ -33,7 +33,9 @@ I've enjoyed many hours watching popular [animes](/tags/#anime) like Naruto and 
 
 Perhaps this helped establish ramen as the iconic food in Japan that it is. Either way, I started looking into videos on YouTube for what real ramen looked like. This (and Naruto) is where I got the inspiration to simply add pork loin, [Nori](https://en.wikipedia.org/wiki/Nori), a soft boiled egg and some vegetables to the mix. I realized you could also replace the pork loins with sushi if you'd like.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Hf0b_-hVBS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/Hf0b_-hVBS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Recipe
 

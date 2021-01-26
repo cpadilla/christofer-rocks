@@ -70,7 +70,9 @@ One such game (not built on the blockchain but existing as a simple state machin
 
 You can see here the [fun](https://www.youtube.com/watch?v=ZhnU-M21z4s) I had when I first discovered this game. Basically, I discovered that there are many different [stable configurations](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns) within the confines of Conway's simulated biology, which I had fun playing with. Interestingly, configurations which travel across the grid are called [spaceships](https://en.wikipedia.org/wiki/Spaceship_(cellular_automaton)).
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jdA_iGOkqxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/jdA_iGOkqxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 So I decided to build a state machine that simulates the mechanics of the Space Pirates game I want to build. If you are aware, a state machine is a simple concept of a graph of nodes representing states that are linked together by transitions between those states.
 
