@@ -69,7 +69,7 @@ In this painful imagery, the idea of having been with the narrator is now so rep
 
 It reminds me of Kanye's comments about his ex (and how she felt bullied by them) when he claimed he needed to take ["30 showers"](https://hiphopdx.com/news/id.58597/title.amber-rose-demands-kanye-west-leave-her-alone-after-calling-her-a-prostitute-during-presidential-rally) after his breakup.
 
-How similar, then, must the "devil" feel? Indeed, when considering the devil or demons and the stain they must leave on the soul, how would you rid yourself of one other than by [exorcism](https://en.wikipedia.org/wiki/Exorcism).
+How similar, then, must the "devil" feel? Indeed, when considering the devil or demons and the stain they must leave on the soul, how would you rid yourself of one other than by [exorcism](https://en.wikipedia.org/wiki/Exorcism)?
 
 How do you exorcise the devil himself?
 
@@ -88,7 +88,7 @@ This is enough for me to warrant my sympathy.
 
 > And his kids learn to say, "fuck you", they don't, love you
 
-Indeed, this is enough to warrant my sympathy. I texted my dad this song because it reminded me of him. He get's a lot of flak from his kids and he's under the impression they hate him, which I don't think is entirely true. Behind all his faults and flaws, I think he's just as sensitive and misunderstood as the "devil" in this song.
+I texted my dad this song because it reminded me of him. He get's a lot of flak from his kids and he's under the impression they hate him, which I don't think is entirely true. Behind all his faults and flaws, I think he's just as sensitive and misunderstood as the "devil" in this song.
 
 > Does the devil get scared if she dies in her dreams
 >
