@@ -10,7 +10,7 @@
 
 ### Music
 
-<Feature article="blog/2021/1/24/NTO.md" />
+<Feature article="blog/2021/1/25/Devil-Like-Me-Rainbow-Kitten-Surprise.md" />
 
 ### Movie
 
