@@ -68,7 +68,7 @@ module.exports = {
     },
     markdown: {
       toc: {
-        includeLevel: [2,3,4,5,6],
+        includeLevel: [1,2,3,4,5,6],
         containerClass: 'table-of-contents',
         listType: 'ol',
         containerHeaderHtml: '<div class="toc-container-header"><b>Contents</b>  [<a id="toggle-wiki-index" onclick="return toggleTOC();" href="#">hide</a>]</div>'

@@ -11,7 +11,7 @@ tags: ["Space Pirates", "Blockchain", "Analysis"]
 
 ![Blockchain](/images/blockchain.png)
 
-So far, I've already created a [database diagram](./The_Eternal_War_Machine.md) of the [Space Pirates](/tags.md#Space%20Pirates) game. The next step in the development of the game is to decide on a blockchain to use to launch Space Pirates as a dApp on.
+So far, I've already created a [database diagram](./The_Eternal_War_Machine.md) of the [Space Pirates](/tags/#Space-Pirates) game. The next step in the development of the game is to decide on a blockchain to use to launch Space Pirates as a dApp on.
 
 This is my analysis of the following blockchains I'm considering:
 
@@ -27,6 +27,20 @@ This is my analysis of the following blockchains I'm considering:
 </ul>
 
 [[toc]]
+
+# Questions to Keep in Mind During Analysis
+
+Before we begin, here are some questions we want to keep in mind when evaluating a specific blockchain:
+
+* What is the development status of a platform?
+* What type of Blockchain do you require?
+* What Languages does the platform support?
+* How popular is the platform?
+* What Blockchain Consensus Protocol does the platform use to achieve consensus?
+* Does the platform support Smart Contracts Functionality?
+* What kind of scalability does your solution need?
+
+These are all great questions we will answer in our analysis.
 
 # Decentralized Applications
 
@@ -57,20 +71,6 @@ dApps are:
 * **Network congestion** – at least in the current model (of Ethereum), if one dapp is using too many computational resources, the entire network gets backed up. Currently, the network is only able to process about 10 transactions per second; if transactions are being sent in faster than this, the pool of unconfirmed transactions can quickly balloon.
 * **User experience** – it may be harder to engineer user-friendly experiences: The average end user might find it too difficult to set up a tool stack necessary to interact with the blockchain in a truly secure fashion.
 * **Centralization** – User-friendly and developer-friendly solutions built on top of the base layer of a blockchain might end up looking like centralized services anyways: for example, such services may store keys or other sensitive information server-side, serve a frontend using a centralized server, or run important business logic on a centralized server before writing to the blockchain. This eliminates many (if not all) of the advantages of blockchain over the traditional model.
-
-# Analysis
-
-Before we begin, here are some questions we want to keep in mind when evaluating a specific blockchain:
-
-* What is the development status of a platform?
-* What type of Blockchain do you require?
-* What Languages does the platform support?
-* How popular is the platform?
-* What Blockchain Consensus Protocol does the platform use to achieve consensus?
-* Does the platform support Smart Contracts Functionality?
-* What kind of scalability does your solution need?
-
-These are all great questions we will answer in our analysis.
 
 # Concensus Algorithms
 
