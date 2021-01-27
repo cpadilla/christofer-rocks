@@ -63,6 +63,11 @@ export default {
   width: 100px;
   margin-right: 20px;
 }
+@media only screen and (max-width: 400px) {
+  .article-image-container {
+    display: none;
+  }
+}
 .article-image {
   height: auto;
   max-height: 100px;

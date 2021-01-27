@@ -43,7 +43,6 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  flex-wrap: wrap;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   padding: 10px 30px;
@@ -60,6 +59,11 @@ export default {
 .article-image-container {
   width: 100px;
   margin-right: 20px;
+}
+@media only screen and (max-width: 400px) {
+  .article-image-container {
+    display: none;
+  }
 }
 .article-image {
   height: auto;
