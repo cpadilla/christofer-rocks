@@ -57,9 +57,33 @@ It turns out, Timothée Chalamet had also played a role in another film I thorou
 
 I still wanted to watch something he had played a leading role in, however. I decided to go out of my way to watch a movie with surprising parallels to *Dune*.
 
+## History
+
+![The King](/images/theking-altposter.jpg)
+
+While *The King* is based on real events, the film itself is actually an adaptation of Shakespeare's plays dramatizing these events. The collection of these plays are called [*The Henriad*](https://en.wikipedia.org/wiki/Henriad).
+
+These plays consist of Richard II, Henry IV, Part 1, Henry IV, Part 2 and Henry V and follows [Prince Hal](https://en.wikipedia.org/wiki/Prince_Hal), who becomes [King Henry V of England](https://en.wikipedia.org/wiki/Henry_V_of_England), the epic's hero.
+
+While some [creative liberties](<https://en.wikipedia.org/wiki/The_King_(2019_film)#Historical_accuracy>) have been taken, it mostly reflects the historic events of the [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years%27_War).
+
 ## *The King*
 
 I've already spent a lot of time setting up pretext to the movie, so I'm only going to briefly review some of the themes I've found interesting about the movie. I'm mostly going to focus on certain scenes within the movie that touch on the following themes: The Church and it's power and influence over the crown, censorship, responsibility, and the horrors of war.
+
+### [The Battle of Shrewsbury](https://en.wikipedia.org/wiki/Battle_of_Shrewsbury)
+
+The movie begins over a bloodied battlefield, following [Henry Percy](https://en.wikipedia.org/wiki/Henry_Percy_(Hotspur)), young "Hotspur", across it. He stops beside a wounded soldier, slowly crawling across the field.
+
+"Where go you, my friend? You're crawling in the wrong direction. That wind you feel is coming from England."
+
+He points with his sword.
+
+"Scotland's that way."
+
+He stands over the man and drives his sword through him, ending his misery.
+
+So begins the movie: With the death of a single soldier-- a prelude to the significance of death throughout the film.
 
 *To be continued...*
 
