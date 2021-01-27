@@ -6,3 +6,5 @@ author: Christofer Padilla
 ---
 
 [christofer.codes](https://christofer.codes)
+
+![CITY PLANNERS](/images/cityplanners.png)

@@ -1,6 +1,11 @@
 <template>
   <div class="post-container">
       <div v-if="this.page" class="post-card">
+        <div v-if="this.page" class="article-image-container">
+          <a href="https://christofer.codes">
+            <img class="article-image" v-if="this.previewImage" :src="this.previewImage" />
+          </a>
+        </div>
         <div v-if="this.page" class="page-detail">
           <a href="https://christofer.codes">
             <div v-if="this.page" class="page-title">{{ this.page.title }}</div>
@@ -21,7 +26,8 @@ export default {
   },
   mounted() {
     this.page = this.$site.pages.find(page => page.relativePath == 'resume.md');
-    //console.log(this.page);
+    this.previewImage = 'https://christofer.rocks/images/cityplanners.png';
+    console.log(this.page);
   }
 }
 </script>
@@ -51,8 +57,13 @@ export default {
   font-size: 0.9rem;
   color: grey;
 }
+.article-image-container {
+  width: 100px;
+  margin-right: 20px;
+}
 .article-image {
-  height: 100%;
+  height: auto;
+  max-height: 100px;
 }
 .description {
   width: 100%;

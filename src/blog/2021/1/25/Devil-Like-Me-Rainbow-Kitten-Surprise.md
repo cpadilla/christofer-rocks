@@ -19,7 +19,7 @@ I'm not actually a big fan of the music video, but I feel it's important to incl
 
 *Devil Like Me* was released by *Rainbow Kitten Surprise* on November 19, 2013 as part of their *Seven + Mary* album.
 
-![Seven + Mary](</images/seven%20+%20mary.jpg> "Seven + Mary")
+![Seven + Mary](/images/seven%20+%20mary.jpg)
 
 I haven't actually listened to the entire album, but I do really like the album art. Rainbows are definitely an aesthetic while tripping, which I most certainly was when I really connected with this song. The melting "Seven" in the shape of a 7 also is reminiscent of the way his vocals sway between falsetto.
 
