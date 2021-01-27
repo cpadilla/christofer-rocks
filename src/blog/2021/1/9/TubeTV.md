@@ -3,6 +3,7 @@ title: TubeTV
 date: Saturday, January 9, 2021
 description: How I turned an old tube TV into another workspace.
 author: Christofer Padilla
+image: /images/boobtube.jpg
 type: article
 tags: ["Computer Science", "Raspberry Pi", "Memories"]
 ---

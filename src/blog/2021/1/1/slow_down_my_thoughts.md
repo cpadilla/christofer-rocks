@@ -3,6 +3,7 @@ title: slow down my thoughts - Zachary Knowles
 date: Friday, January 1, 2021
 description: A case study on "slow down my thoughts" by Zachary Knowles.
 author: Christofer Padilla
+image: https://img.youtube.com/vi/jcBcJCZZEJ4/0.jpg
 type: article
 tags: ["Case Study", "Music"]
 ---
