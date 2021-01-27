@@ -9,6 +9,8 @@ tags: ["Space Pirates", "Blockchain", "Analysis"]
 
 # Analyzing Potential Blockchain Candidates
 
+<div class="info"><b>Note:</b> This article is a work in progress.</div>
+
 ![Blockchain](/images/blockchain.png)
 
 So far, I've already created a [database diagram](./The_Eternal_War_Machine.md) of the [Space Pirates](/tags/#Space-Pirates) game. The next step in the development of the game is to decide on a blockchain to use to launch Space Pirates as a dApp on.
