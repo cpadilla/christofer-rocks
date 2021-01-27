@@ -2,9 +2,9 @@
 <template lang="html">
   <div>
     <span v-for="tag in Object.keys(tags)">
-      <h2 :id="tag">
+      <h2 :id="safeLink(tag)">
         <router-link
-          :to="{ path: `/tags.html#${tag}`}"
+          :to="{ path: '#'+safeLink(tag) }"
           class="header-anchor"
           aria-hidden="true">#</router-link>
         {{tag}}
@@ -36,6 +36,22 @@ export default {
       }
       return tags
     }
+  },
+  methods: {
+    safeLink(tag) {
+      const whitespace = /\s/g
+      const apostrophe = /["']/g
+      return tag.replace(whitespace,'-').replace(apostrophe,'-')
+    }
   }
 }
 </script>
+<style>
+h2 {
+  padding-top: 60px;
+  margin-top: 0px;
+}
+ul {
+  margin-bottom: 0px;
+}
+</style>

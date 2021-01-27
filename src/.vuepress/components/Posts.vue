@@ -21,14 +21,8 @@ export default {
     }
   },
   mounted() {
-    console.log('mounted')
     this.$site.pages.forEach(page => {
-      console.log('Adding a new page...')
-      console.log(page)
       if (page.frontmatter.type == 'article') {
-        console.log('success')
-        console.log('page type: ' + page.frontmatter.type)
-        console.log(page)
         this.pages.push(page)
       }
     })
@@ -48,14 +42,18 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 10px 30px;
   display: flex;
   align-items: center;
 }
 .page-title {
   font-size: 20px;
+}
+.page-date {
+  font-size: 0.9rem;
+  color: grey;
 }
 .article-image {
   height: 100%;

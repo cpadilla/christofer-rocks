@@ -1,20 +1,79 @@
 body, html, #app {
   height: 100%;
+  font-family: 'Helvetica';
 }
 
-video, iframe {
+pre, code {
+  font-family: Hack, monospace;
+}
+
+iframe {
+  display: flex;
+  margin: auto;
+}
+
+video {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
   display: flex;
   margin: auto;
 }
 
 .theme-default-content {
-    img {
+    h1, h2, h3, h4, h5, h6 {
+      padding-bottom: 1rem;
+      border-bottom: none;
+    }
+    img, figure {
       display: flex;
+      flex-direction: column;
       margin: auto;
     }
     figcaption {
       text-align: center;
     }
+    .resp-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+    }
+    .resp-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+}
+
+.danger {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+
+.success {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
+
+.info {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+.warning {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
 }
 
 .theme-container.homepage {

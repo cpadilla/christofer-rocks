@@ -1,10 +1,24 @@
+# Priority list
+
+* Fix video widths on mobile
+* Add link to Resume
+  - Fixing christofer.codes
+* Devil Like Me - Rainbow Kitten Surprise
+
+* The King
+* Bitcoin
 
 # Articles
 
 * [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+* CSW/Bitcoin core whitepaper controversy
+  - Excuse to host bitcoin whitepaper
+* Creating Bitcoin private keys with Dice
+  - Explaining Bitcoin to my mom
 
 # Topics
 
+* Why I use FreeBSD
 * How Digital Signatures Work
     - See tweet from March 4
 * A Map of Computer Science
@@ -15,7 +29,6 @@
 * Hunting in the digital jungle
     - https://twitter.com/rockzombie2/status/747936547857666048
 * Why have AI models become so power hungry?
-* Why I use FreeBSD
 
 * Standardizing measurements of time and space
     - Universal Time
@@ -28,47 +41,80 @@
     - Embryo space colonization
     - cryogenics
 
-
-* What happenes when you work backwards from an idea?
-    - what happens when current is returned on itself?
-
 # Improvements
 
-* Fix width of videos on mobile
-* use vue-router to navigate to headers with #'s
+* Fix redirect links
+  - Root issue is hosting on Github pages: need to host myself/somewhere else
+* Google search widget
+* Google definition widget
+* Upload and use [Charter](https://fontesk.com/charter-typeface/) font
+* Subtitles
 * Archive by date
 * Import old blog posts
   - https://christoferpadilla.tumblr.com/
   - http://nakedlogic.blogspot.com/
 
+# Recipes
+
+* Avocado toast
+* Chilaquilles
+* Scones
+* Sushi
+* Breakfast crunchwrap
+
 # Case Studies
 
-    * The King
-    * Dune
-        - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
-    * Chanel
-    * Interstellar
-    * 1917
-    * [The Witch](https://www.imdb.com/title/tt4263482/)
-    * Mr. Robot
-        - [fsociety](https://www.google.com/search?q=fsociety)
-    * Times New Roman
-    * 2001: A Space Odessy
-    * Annihilation
-    * Alien Covenant
-    * Mad Max
-    * Blade Runner: 2049
-    * Death Stranding
-    * No Country For Old Men
-    * The Hunt
-    * Knives Out
-    * District 9
-    * Timothy Chalamet
-    * Dennis Villnevue
-    * Arrival
+## Movies
+* The King
+* Arrival
+* Dune
+    - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
+* Interstellar
+* 1917
+* [The Witch](https://www.imdb.com/title/tt4263482/)
+* 2001: A Space Odessy
+* Annihilation
+* Alien Covenant
+* Mad Max
+* Blade Runner: 2049
+* No Country For Old Men
+* The Hunt
+* Knives Out
+* District 9
 
+## TV Shows
+* Mr. Robot
+    - [fsociety](https://www.google.com/search?q=fsociety)
 
+## Music
+* Devil Like Me - Rainbow Kitten Surprise
+* Somebody that I used to know - Gotye
+* affection - BETWEEN FRIENDS
+* I Said - Litany
+* Chanel
+* See Myself - Oscar Oscar
+* Adapted Air - Arbitraire
+* The Stuffing 2019
+  - Manchester Orchestra
+  - Kevin Devine
+
+## Artists
+* @maalavidaa
+* Richard Serra
+* Pan Daijing
+
+## Games
+* Death Stranding
+
+## Other
+* Aires
+* Times New Roman
+* CBTM (TikTok)
+* VSCode
+* Vim
+* Timothy Chalamet
+* Dennis Villnevue
 
 # Resources
-    * https://twitter.com/i/status/1046643787034955777
-    * https://twitter.com/i/status/1046251429709713408
+    * [https://twitter.com/i/status/1046643787034955777](https://twitter.com/i/status/1046643787034955777)
+    * [https://twitter.com/i/status/1046251429709713408](https://twitter.com/i/status/1046251429709713408)

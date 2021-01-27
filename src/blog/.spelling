@@ -1,0 +1,33 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+movie
+thru
+Detmer
+favorite
+DeHaan
+Myspace
+behaviors
+Phidippus
+regius
+Meli
+Petco
+velcro
+roommate
+lil
+PetSmart
+Spotify
+ramen
+Maruchan
+Valentina
+Tapatío
+animes
+Naruto
+Ichiraku's
+Goku
+Nori
+flavor
+ - Chronicle (2012).md
+2012
