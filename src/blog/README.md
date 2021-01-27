@@ -4,7 +4,7 @@
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) development
 
-<Feature article="blog/2021/1/8/The_Eternal_War_Machine.md" />
+<Feature article="blog/2021/1/8/Analyzing_Potential_Blockchain_Candidates.md" />
 
 ## Featured Case Studies
 

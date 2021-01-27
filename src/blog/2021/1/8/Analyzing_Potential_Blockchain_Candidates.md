@@ -9,18 +9,56 @@ tags: ["Space Pirates", "Blockchain", "Analysis"]
 
 # Analyzing Potential Blockchain Candidates
 
+![Blockchain](/images/blockchain.png)
+
 So far, I've already created a [database diagram](./The_Eternal_War_Machine.md) of the [Space Pirates](/tags.md#Space%20Pirates) game. The next step in the development of the game is to decide on a blockchain to use to launch Space Pirates as a dApp on.
 
 This is my analysis of the following blockchains I'm considering:
 
-* [EOSIO](#eosio)
-* Ethereum
-* NEO
-* Tron
-* WAX
-* Stellar
-* Tezos
-* Custom Blockchain
+<ul style="columns:2">
+<li><a href="#eosio">EOSIO</a></li>
+<li><a href="#ethereum">Ethereum</a></li>
+<li>NEO</li>
+<li>Tron</li>
+<li>WAX</li>
+<li>Stellar</li>
+<li>Tezos</li>
+<li>Custom Blockchain</li>
+</ul>
+
+[[toc]]
+
+# Decentralized Applications
+
+First of all, a dApp is a decentralized application. According to [Ethereum's documentation](https://ethereum.org/en/developers/docs/dapps/), a dapp has its backend code running on a decentralized peer-to-peer network, unlike a traditional app, whose backend code runs on centralized servers.
+
+A dapp can have frontend code and user interfaces written in any language (just like an app) that can make calls to its backend. Furthermore, its frontend can be hosted on decentralized storage such as [IPFS](https://ipfs.io/).
+
+## Properties of a dApp
+
+dApps are:
+
+* **Decentralized** that makes them independent, and no one controls them.
+* **Deterministic** i.e., they perform the same function irrespective of the environment they are executed.
+* **Turing complete**, which means given the required resources, the dapp can perform any action.
+* **Isolated**, which means they are executed in a virtual environment so that if the smart contract happens to have a bug, it won’t hamper the normal functioning of the blockchain network.
+
+## Benefits of dApp Development
+
+* **Zero downtime** – once the smart contract at the core of an app is deployed and on the blockchain, the network as a whole will always be able to serve clients looking to interact with the contract. Malicious actors therefore cannot launch denial-of-service attacks targeted towards individual dapps.
+* **Privacy** – you don’t need to provide real-world identity to deploy or interact with a dapp.
+* **Resistance to censorship** – no single entity on the network can block users from submitting transactions, deploying dapps, or reading data from the blockchain.
+* **Complete data integrity** – data stored on the blockchain is immutable and indisputable, thanks to cryptographic primitives. Malicious actors cannot forge transactions or other data that has already been made public.
+* **Trustless computation/verifiable behavior** – smart contracts can be analyzed and are guaranteed to execute in predictable ways, without the need to trust a central authority. This is not true in traditional models; for example, when we use online banking systems, we have to trust that financial institutions will not misuse our financial data, tamper with records, or get hacked.
+
+## Implications of dApp Development
+* **Maintenance** – dapps can be harder to maintain because code and data published to the blockchain is harder to modify. It’s hard for developers to make updates to their dapps (or the underlying data stored by a dapp) once they are deployed - even if bugs or security risks are identified in an old version.
+* **Performance overhead** – there is a huge performance overhead, and scaling is really hard. To achieve the level of security, integrity, transparency, and reliability that Ethereum aspires to, every node runs and stores every transaction. On top of this, proof-of-work takes time as well. A back-of-the-envelope calculation puts the overhead at something like 1,000,000x that of standard computation currently.
+* **Network congestion** – at least in the current model (of Ethereum), if one dapp is using too many computational resources, the entire network gets backed up. Currently, the network is only able to process about 10 transactions per second; if transactions are being sent in faster than this, the pool of unconfirmed transactions can quickly balloon.
+* **User experience** – it may be harder to engineer user-friendly experiences: The average end user might find it too difficult to set up a tool stack necessary to interact with the blockchain in a truly secure fashion.
+* **Centralization** – User-friendly and developer-friendly solutions built on top of the base layer of a blockchain might end up looking like centralized services anyways: for example, such services may store keys or other sensitive information server-side, serve a frontend using a centralized server, or run important business logic on a centralized server before writing to the blockchain. This eliminates many (if not all) of the advantages of blockchain over the traditional model.
+
+# Analysis
 
 Before we begin, here are some questions we want to keep in mind when evaluating a specific blockchain:
 
@@ -36,11 +74,6 @@ These are all great questions we will answer in our analysis.
 
 # Concensus Algorithms
 
-<details>
-  <summary>
-    Analysis on concensus algorithms
-  </summary>
-
 It's worth looking at some of the underlying concensus algorithms which govern a blockhain first, before we look at specific blockchains. This will help classify blockchains to an extent.
 
 The two best known concensus algorithms as well as the two most commonly used in the context of cryptocurrencies is Proof-of-Work (PoW) and Proof-of-Stake (PoS). By understanding these algorithms, it may help us understand some of the nuances of blockchains that use another form of consensus.
@@ -49,9 +82,9 @@ A concensus algorithm is necessary for a cryptocurrency to prevent the common fl
 
 ![An example of double spending](/images/doublespending.jpg)
 
-## [Proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work)
+## Proof-of-work
 
-Proof-of-work (PoW) is a form of cryptographic [zero-knowledge](https://en.wikipedia.org/wiki/Zero-knowledge_proof) proof in which one party (the prover) proves to others (the verifiers) that a certain amount of computational effort has been expended for some purpose. It is the concensus algorithm popularized by Bitcoin.
+[Proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) (PoW) is a form of cryptographic [zero-knowledge](https://en.wikipedia.org/wiki/Zero-knowledge_proof) proof in which one party (the prover) proves to others (the verifiers) that a certain amount of computational effort has been expended for some purpose. It is the concensus algorithm popularized by Bitcoin.
 
 There are many great videos on YouTube that explain the Proof-of-Work algorithm well, but I found YouTuber *[nang](https://www.youtube.com/user/angrocket)* to have one of the best explanations that visualizes the concept of zero-knowledge proof.
 
@@ -72,9 +105,9 @@ However, there is no alternative design known that could replace Proof-of-Work b
 * graceful degradation and recovery even in the face of a successful attack or network failure
 * unforgeable and statically verifiable costliness
 
-## [Proof-of-Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
+## Proof-of-Stake
 
-What is Proof-of-Stake?
+What is [Proof-of-Stake](https://en.wikipedia.org/wiki/Proof_of_stake)?
 
 > With the advent of modern cryptography, the idea that information can be physically real — and valuable — has moved from the dingy halls of philosophy departments to the concrete world of business. We are all familiar with the economic activity enabled by secure communication: negotiations, contracts, transactions, sales and commands can be sent on the public Internet with no fear of forgery or interception. We are also familiar with the financial consequences when secret data is lost or stolen.
 >
@@ -102,18 +135,11 @@ To his credit, Vitalik points out the three main advantages of Proof-of-Stake as
 2. It can arguably provide a much higher level of security. In proof of work, assuming a liquid market for computing power the cost of launching a 51% attack is equal to the cost of the computing power of the network over the course of two hours - an amount that, by standard economic principles, is roughly equal to the total sum of block rewards and transaction fees provided in two hours. In proof of stake, the threshold is theoretically much higher: 51% of the entire supply of the currency.
 3. Depending on the precise algorithm in question it can potentially allow for much faster blockchains (eg. NXT has one block every few seconds, compared to one per minute for Ethereum and one per ten minutes for Bitcoin)
 
-</details>
-
 # Blockchains
 
 ## EOSIO
 
 ![EOSIO](/images/eosio.png)
-
-<details>
-  <summary>
-    Analysis of EOSIO
-  </summary>
 
 ### Info
 
@@ -238,22 +264,17 @@ These are things I haven't really found an answer to yet and will probably have 
 * [Learnings from building my first dapp on EOS blockchain](https://cmichel.io/releasing-my-first-eos-dapp/)
 * [Crypto Dynasty White Paper 2.0](https://cryptodynasty.one/download/CryptoDynastyWhitePaper2.0_EN.pdf)
 
-</details>
-
 ## Ethereum
 
 ![Ethereum](/images/Ethereum.png)
 
-<details>
-  <summary>
-    Analysis of Ethereum
-  </summary>
-
 ### Info
 
-* Concensus Algorithm: 
-* Code: 
-* White-paper: 
+* White-paper: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
+* Code: [https://github.com/ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* Concensus Algorithm: Currently, [Proof-of-Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/), eventually [Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos)
+* Smart contract language: [Solidity](https://ethereum.org/en/developers/docs/smart-contracts/languages/#solidity) and [Vyper](https://ethereum.org/en/developers/docs/smart-contracts/languages/#vyper) most common
+* Documentation: [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
 
 ### Advantages
 
@@ -263,19 +284,14 @@ Ethereum is unable to access real time data from outside the blockchain. Develop
 
 You are also tied to paying for your transactions by the operation with gas that translates into Ethereum’s ether. As a result, using the current version of Solidity, you could very feasibly find yourself hitting a transaction limit if the computation you intend to perform is too expensive (like verifying checkmate in a game of chess). As a result, on-chain computations because become costly in terms of money and network bandwidth.
 
+Ethereum also uses Solidity as it's most common smart-contract langauge. This means I would have to spend more time learning this langauge.
+
 ### Sidechain
 
 * [Matic Network Sidechain](https://matic.network/)
   - https://medium.com/matic-network/what-is-matic-network-466a2c493ae1
 
-</details>
-
 ## NEO
-
-<details>
-  <summary>
-    Analysis of NEO
-  </summary>
 
 ### Info
 
@@ -286,16 +302,9 @@ You are also tied to paying for your transactions by the operation with gas that
 ### Advantages
 
 ### Downsides
-
-</details>
 
 ## Tron
 
-<details>
-  <summary>
-    Analysis of Tron
-  </summary>
-
 ### Info
 
 * Concensus Algorithm: 
@@ -306,14 +315,7 @@ You are also tied to paying for your transactions by the operation with gas that
 
 ### Downsides
 
-</details>
-
 ## WAX
-
-<details>
-  <summary>
-    Analysis of WAX
-  </summary>
 
 ### Info
 
@@ -327,14 +329,7 @@ You are also tied to paying for your transactions by the operation with gas that
 
 ### Downsides
 
-</details>
-
 ## Stellar
-
-<details>
-  <summary>
-    Analysis of Stellar
-  </summary>
 
 ### Info
 
@@ -346,14 +341,7 @@ You are also tied to paying for your transactions by the operation with gas that
 
 ### Downsides
 
-</details>
-
 ## Tezos
-
-<details>
-  <summary>
-    Analysis of Tezos
-  </summary>
 
 ### Info
 
@@ -367,14 +355,7 @@ You are also tied to paying for your transactions by the operation with gas that
 
 ### Downsides
 
-</details>
-
 ## Custom Blockchain
-
-<details>
-  <summary>
-    Analysis of developing a custom blockchain solution
-  </summary>
 
 ### Info
 
@@ -386,8 +367,6 @@ You are also tied to paying for your transactions by the operation with gas that
 
 ### Downsides
 
-</details>
-
 # Conclusion
 
 In conclusion, I have no idea which one I want to use xD
@@ -395,3 +374,4 @@ In conclusion, I have no idea which one I want to use xD
 <TagLinks />
 
 <Comments />
+
