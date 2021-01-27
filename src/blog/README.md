@@ -19,3 +19,7 @@
 ## Featured Recipe
 
 <Feature article="blog/2021/1/24/Ramen.md" />
+
+## Resume
+
+<Resume />
