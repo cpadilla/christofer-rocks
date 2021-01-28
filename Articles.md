@@ -95,6 +95,7 @@
 * Chanel - Frank Ocean
 * See Myself - Oscar Oscar
 * Adapted Air - Arbitraire
+* Pure Heroine - LORDE
 * River - Bishop Briggs
 
 ## Artists
