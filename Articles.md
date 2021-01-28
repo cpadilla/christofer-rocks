@@ -95,6 +95,7 @@
 * Chanel - Frank Ocean
 * See Myself - Oscar Oscar
 * Adapted Air - Arbitraire
+* River - Bishop Briggs
 
 ## Artists
 * @maalavidaa
