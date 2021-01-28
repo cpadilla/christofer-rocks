@@ -1,3 +1,3 @@
 # Archive
 
-<Posts />
+<Archive />

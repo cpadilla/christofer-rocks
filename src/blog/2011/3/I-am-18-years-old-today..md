@@ -1,7 +1,7 @@
 ---
 title: I Am 18 Years Old Today.
 description: Happy Birthday to me!
-date: March 2011
+date: 2011-03-15
 author: Christofer Padilla
 type: article
 tags: ["Memories"]
@@ -9,7 +9,7 @@ tags: ["Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/i-am-18-years-old-today.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/i-am-18-years-old-today.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 ![Birthday Program](/images/birthdayprogram.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: The Ebb and Flow to Multiply
 description: My first ever case study, on Simple Math.
-date: March 2011
+date: 2011-03-02
 author: Christofer Padilla
 type: article
 tags: ["Case Study", "Music", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Case Study", "Music", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/ebb-and-flow-to-multiply.html">nakedlogic.blogspot.com</a>. The original article had the soundcloud link to the song embedded, but since it's behind a paywall now, the embedded code doesn't work anymore. I've replaced the Soundcloud link with a Spotify one instead.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/ebb-and-flow-to-multiply.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order. The original article had the soundcloud link to the song embedded, but since it's behind a paywall now, the embedded code doesn't work anymore. I've replaced the Soundcloud link with a Spotify one instead.</div>
 
 <iframe src="https://open.spotify.com/embed/track/43nIGHt7hkR2vfwIjesDon" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

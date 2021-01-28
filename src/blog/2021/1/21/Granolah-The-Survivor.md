@@ -1,6 +1,6 @@
 ---
 title: Granolah, The Survivor
-date: Thursday, January 21, 2021
+date: 2021-01-21
 description: A hype piece on the new Dragon Ball Super manga arc.
 author: Christofer Padilla
 type: article

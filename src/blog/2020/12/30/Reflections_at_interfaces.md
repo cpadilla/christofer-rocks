@@ -1,6 +1,6 @@
 ---
 title: Reflections at Interfaces
-date: Wednesday, December 30, 2020
+date: 2020-12-30
 description: A second interesting coincidence noticed in defining interface.
 author: Christofer Padilla
 type: article

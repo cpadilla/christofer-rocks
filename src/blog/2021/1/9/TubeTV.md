@@ -1,6 +1,6 @@
 ---
 title: TubeTV
-date: Saturday, January 9, 2021
+date: 2021-01-09
 description: How I turned an old tube TV into another workspace.
 author: Christofer Padilla
 image: /images/boobtube.jpg

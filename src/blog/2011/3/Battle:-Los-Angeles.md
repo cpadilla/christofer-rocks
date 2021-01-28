@@ -1,7 +1,7 @@
 ---
 title: "Battle: Los Angeles"
 description: "My first review I ever wrote, on Battle: Los Angeles."
-date: March 2011
+date: 2011-03-07
 author: Christofer Padilla
 type: article
 tags: ["Case Study", "Movie", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Case Study", "Movie", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/battle-los-angeles.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/battle-los-angeles.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 ![Battle: Los Angeles](/images/battlela.jpg)
 

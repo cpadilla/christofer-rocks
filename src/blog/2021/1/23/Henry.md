@@ -1,6 +1,6 @@
 ---
 title: Henry
-date: Saturday, January 23, 2021
+date: 2021-01-23
 description: A guide to becoming a responsible jumping spider pet owner.
 author: Christofer Padilla
 type: article

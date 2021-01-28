@@ -1,6 +1,6 @@
 ---
 title: The Inauguration of Joe Biden
-date: Wednesday, January 20, 2021
+date: 2021-01-20
 description: Reflecting on the Inauguration of the 46th President of the United States of America.
 author: Christofer Padilla
 type: article

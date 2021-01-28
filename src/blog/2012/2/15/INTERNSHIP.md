@@ -1,7 +1,7 @@
 ---
 title: INTERNSHIP!
 description: Exciting news.
-date: Wednesday Feburary 15, 2012
+date: 2012-02-15
 author: Christofer Padilla
 type: article
 tags: ["Goals", "Memories"]
