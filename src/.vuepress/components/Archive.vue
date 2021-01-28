@@ -88,13 +88,21 @@ export default {
 }
 </script>
 <style scoped>
+.archive-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
 .year-container {
   display: flex;
+  line-height: 1;
   flex-wrap: wrap;
   width: 100%;
+  max-width: 600px;
 }
 .year-container ul {
   list-style-type: none;
+  margin: 0px;
 }
 .yline {
 }
@@ -102,13 +110,12 @@ export default {
   padding-top: 5px;
 }
 .post-card {
-  width: 600px;
+  max-width: 600px;
   height: 150px;
   margin: 10px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  padding: 10px;
-  padding-left: 30px;
+  padding: 10px 30px;
   display: flex;
   align-items: center;
 }
