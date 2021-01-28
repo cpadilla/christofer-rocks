@@ -1,7 +1,7 @@
 ---
 title: News
 description: Disappointing news.
-date: Monday, Feburary 13, 2012
+date: 2012-02-13
 author: Christofer Padilla
 type: article
 tags: ["Memories"]

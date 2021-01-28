@@ -1,6 +1,6 @@
 ---
 title: The Origins of Space Pirates
-date: Sunday, January 3, 2021
+date: 2021-01-03
 description: Some context to the development of Space Pirates.
 author: Christofer Padilla
 type: article

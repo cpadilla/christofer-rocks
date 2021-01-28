@@ -1,7 +1,7 @@
 ---
 title: Untitled
 description: Revisiting my goals.
-date: Saturday, June 23, 2012
+date: 2012-06-23
 author: Christofer Padilla
 type: article
 tags: ["Goals", "Memories"]

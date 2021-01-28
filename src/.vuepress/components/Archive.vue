@@ -1,136 +1,100 @@
 <template>
-  <div v-if="pages" class="post-container">
-    <div v-for="(year, yearName) in pages" v-bind:key="year.id">
-      <div>
-        <p><a v-on:click="toggleYear">{{ yearName }}</a></p>
-        <div v-for="(month, monthName) in year" v-bind:key="month.id">
-          <p>&emsp;<a v-on:click="toggleYear">{{ months[monthName] }}</a></p>
-          <div v-for="(day, dayName) in month" v-bind:key="day.id">
-            <p>&emsp;&emsp;<a v-on:click="toggleYear">{{ dayName }}</a></p>
-              <div v-for="(article, relativePath) in day" v-bind:key="article.id">
-                <p>&emsp;&emsp;&emsp;<router-link :to="article.regularPath">{{ article.title }}</router-link></p>
+  <div class="archive-container">
+    <div v-if="true" class="year-container">
+      <ul v-for="(year, yearName) in sortedPages" v-bind:key="year.id">
+        <li>
+          <p><a v-on:click="showYear(year)"><u>{{ yearName }}</u></a></p>
+        </li>
+      </ul>
+    </div>
+    <!-- Month -->
+    <div v-if="this.year">
+      <div v-for="(month, monthName) in year" v-bind:key="month.id">
+        <h2>&emsp;{{ months[monthName] }}</h2>
+          <div class="post-container">
+            <!-- Cards -->
+              <div v-if="page.frontmatter != null && page.frontmatter.type == 'article'" v-for="page in month" v-bind:key="page.frontmatter.date" class="post-card">
+                <div v-if="page.frontmatter != null && page.frontmatter.meta[4].name == 'twitter:image'" class="article-image-container">
+                  <router-link v-if="page.regularPath" :to="page.regularPath">
+                    <img class="article-image" v-if="page.frontmatter.meta[4].name == 'twitter:image'" :src="page.frontmatter.meta[4].content" />
+                  </router-link>
+                </div>
+                <div class="page-detail">
+                  <router-link :to="page.regularPath">
+                  <div class="page-title">{{ page.title }}</div>
+                  </router-link>
+                  <div v-if="page.frontmatter != null && page.frontmatter.description != null" class="page-description">{{ page.frontmatter.description }}</div>
+                  <div v-if="page.frontmatter != null" class="page-date">{{ new Date(page.frontmatter.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</div>
+                </div>
               </div>
           </div>
-        </div>
       </div>
     </div>
   </div>
-  <!-- <router-link v-for="page in pages" :to="page.path">
-    <div class="post-container">
-      <div v-for="page in pages" class="post-card">
-        <div class="page-detail">
-          <router-link :to="page.path">
-          <div class="page-title">{{ page.title }}</div>
-          </router-link>
-          <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-date">{{ page.frontmatter.date }}</div>
-        </div>
-      </div>
-    </div>
-    -->
 </template>
 <script>
 export default {
+  name: 'Archive',
   data() {
     return {
       pages: {},
-      months: [ "Secret Hidden Month", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ]
+      months: [ "Secret Hidden Month", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ],
+      month: '',
+      year: {}
     }
   },
   mounted: function() {
-    console.log("Mounted.")
-    //console.log(this.$site)
-    this.$site.pages.forEach(page => {
-      if (page.frontmatter.type == 'article') {
-        //console.log(page);
-        // Use regex on relative path to calculate date
-        var date = page.relativePath.match(/(?!blog\/)\d+/g);
-        var year = date[0];
-        var month = date[1];
-        var day = date[2];
-        if (!this.pages[year]) {
-          //var newYear = [year];
-          this.pages[year] = { }
-        }
-        if (!this.pages[year][month]) {
-          this.pages[year][month] = { };
-        }
-        if (!this.pages[year][month][day]) {
-          this.pages[year][month][day] = { };
-        }
-        this.pages[year][month][day][page.relativePath] = page;
-      }
-    })
-
-    console.log(this.pages);
   },
-  updated() {
-    console.log("updated.")
-    //console.log(this.$site)
-    this.$site.pages.forEach(page => {
-      if (page.frontmatter.type == 'article') {
-        //console.log(page);
-        // Use regex on relative path to calculate date
-        var date = page.relativePath.match(/(?!blog\/)\d+/g);
-        var year = date[0];
-        var month = date[1];
-        var day = date[2];
-        if (!this.pages[year]) {
-          //var newYear = [year];
-          this.pages[year] = { }
-        }
-        if (!this.pages[year][month]) {
-          this.pages[year][month] = { };
-        }
-        if (!this.pages[year][month][day]) {
-          this.pages[year][month][day] = { };
-        }
-        this.pages[year][month][day][page.relativePath] = page;
+  computed: {
+    sortedPages: function(month) {
+      function compare(a, b) {
+        if (a.frontmatter.date < b.frontmatter.date)
+          return -1;
+        if (a.frontmatter.date > b.frontmatter.date)
+          return 1;
+        return 0;
       }
-    })
-
-    console.log(this.pages);
-  },
-  onUpdated() {
-    console.log("onUpdated.")
-    //console.log(this.$site)
-    this.$site.pages.forEach(page => {
-      if (page.frontmatter.type == 'article') {
-        //console.log(page);
-        // Use regex on relative path to calculate date
-        var date = page.relativePath.match(/(?!blog\/)\d+/g);
-        var year = date[0];
-        var month = date[1];
-        var day = date[2];
-        if (!this.pages[year]) {
-          //var newYear = [year];
-          this.pages[year] = { }
-        }
-        if (!this.pages[year][month]) {
-          this.pages[year][month] = { };
-        }
-        if (!this.pages[year][month][day]) {
-          this.pages[year][month][day] = { };
-        }
-        this.pages[year][month][day][page.relativePath] = page;
+      function insertSorted (array, element, comparator) {
+        for (var i = 0; i < array.length && comparator(array[i], element) < 0; i++) {}
+        array.splice(i, 0, element)
       }
-    })
 
-    console.log(this.pages);
+      this.$site.pages.forEach(page => {
+        if (page.frontmatter.type == 'article') {
+          //console.log(page);
+          // Use regex on relative path to calculate date
+          var date = page.relativePath.match(/(?!blog\/)\d+/g);
+          var year = date[0];
+          var month = date[1];
+          if (!this.pages[year]) {
+            //var newYear = [year];
+            this.pages[year] = { }
+          }
+          if (!this.pages[year][month]) {
+            this.pages[year][month] = [ ];
+          }
+          insertSorted(this.pages[year][month], page, compare);
+        }
+      })
+
+      return this.pages;
+    }
   },
   methods: {
-    toggleYear: function(year) {
-      console.log("Toggle year: " + year.toggle);
+    showYear: function(year) {
+      this.year = year;
     }
   }
 }
 </script>
 <style scoped>
-.post-container {
+.year-container {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  flex-direction: column-reverse;
+}
+.year-container ul {
+  list-style-type: none;
 }
 .yline {
 }
@@ -151,8 +115,22 @@ export default {
 .page-title {
   font-size: 20px;
 }
+.page-date {
+  font-size: 0.9rem;
+  color: grey;
+}
+.article-image-container {
+  width: 100px;
+  margin-right: 20px;
+}
+@media only screen and (max-width: 400px) {
+  .article-image-container {
+    display: none;
+  }
+}
 .article-image {
-  height: 100%;
+  height: auto;
+  max-height: 100px;
 }
 .description {
   width: 100%;

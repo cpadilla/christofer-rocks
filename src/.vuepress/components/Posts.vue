@@ -12,7 +12,7 @@
           <div class="page-title">{{ page.title }}</div>
           </router-link>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-date">{{ page.frontmatter.date }}</div>
+          <div class="page-date">{{ new Date(page.frontmatter.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</div>
         </div>
       </div>
   </div>

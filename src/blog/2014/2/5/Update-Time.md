@@ -1,7 +1,7 @@
 ---
 title: Update Time
 description: A time skip.
-date: Wednesday, February 5, 2014
+date: 2014-02-05
 author: Christofer Padilla
 type: article
 tags: ["Goals", "New Year's Resolution"]

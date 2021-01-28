@@ -1,7 +1,7 @@
 ---
 title: People I Know With Blogs
 description: My young mind's thoughts on people I knew with blogs.
-date: March 2011
+date: 2011-03-11
 author: Christofer Padilla
 type: article
 tags: ["Reflections", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Reflections", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/people-i-know-with-blogs.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/people-i-know-with-blogs.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 I found out somebody else I knew had a blog. It's weird. It seems like since I've started, I've been more hypersensitive to any news pertaining to blogs. Seeing as Mormons are commanded to keep a record of their life, I don't think that I should be surprised at all the people I've discovered with blogs.
 

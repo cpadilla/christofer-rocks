@@ -18,10 +18,12 @@
 </template>
 <script>
 export default {
+  name: 'Resume',
   props: ['article'],
   data() {
     return {
-      page: {}
+      page: {},
+      previewImage: ''
     }
   },
   mounted() {

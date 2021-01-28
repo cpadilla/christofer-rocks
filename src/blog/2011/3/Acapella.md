@@ -1,7 +1,7 @@
 ---
 title: Acapella
 description: When I thought liking acapella versions of pop songs was hip.
-date: March 2011
+date: 2011-03-04
 author: Christofer Padilla
 type: article
 tags: ["Case Study", "Music", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Case Study", "Music", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/acapella.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/acapella.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 <div class="resp-container">
   <iframe class="resp-iframe" width="640" height="360" src="https://www.youtube.com/embed/2Oh84WghV0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

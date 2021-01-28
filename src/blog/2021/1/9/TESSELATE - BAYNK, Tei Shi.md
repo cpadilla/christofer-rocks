@@ -1,6 +1,6 @@
 ---
 title: TESSELATE - BAYNK, Tei Shi
-date: Saturday, January 9, 2021
+date: 2021-01-09
 description: A case study on "TESSELATE" by BAYNK and Tei Shi.
 author: Christofer Padilla
 type: article

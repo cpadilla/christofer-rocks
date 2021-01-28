@@ -1,7 +1,7 @@
 ---
 title: Thanksgiving
 description: A solemn reflection during Thanksgiving.
-date: Monday, August 11, 2014
+date: 2016-11-24
 author: Christofer Padilla
 type: article
 tags: ["Memories"]

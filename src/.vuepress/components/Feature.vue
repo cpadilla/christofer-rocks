@@ -11,7 +11,7 @@
           <div v-if="this.page" class="page-title">{{ this.page.title }}</div>
           </router-link>
           <div v-if="this.page.frontmatter" class="page-description">{{ this.page.frontmatter.description }}</div>
-          <div v-if="this.page.frontmatter" class="page-date">{{ this.page.frontmatter.date }}</div>
+          <div v-if="this.page.frontmatter" class="page-date">{{ new Date(this.page.frontmatter.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</div>
         </div>
       </div>
   </div>

@@ -1,7 +1,7 @@
 ---
 title: Make Someone's Day
 description: Reflecting on a fond memory of high school.
-date: March 2011
+date: 2011-03-14
 author: Christofer Padilla
 type: article
 tags: ["Reflections", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Reflections", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/make-someones-day.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/make-someones-day.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 ![:)](/images/scan0002.jpg)
 

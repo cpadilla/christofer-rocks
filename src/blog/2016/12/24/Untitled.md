@@ -1,7 +1,7 @@
 ---
 title: Untitled
 description: Merry Christmas and a Happy New Year
-date: Monday, August 11, 2014
+date: 2014-12-24
 author: Christofer Padilla
 type: article
 tags: ["Memories"]
