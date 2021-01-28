@@ -122,6 +122,7 @@
 * CBTM (TikTok)
 * VSCode
 * Vim
+* Instagram
 
 # Resources
     * [https://twitter.com/i/status/1046643787034955777](https://twitter.com/i/status/1046643787034955777)
