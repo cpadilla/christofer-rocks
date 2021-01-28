@@ -1,6 +1,6 @@
 ---
 title: Into the Vertex!
-description: When I first acquired christofer.rocks.
+description: One of the first of many serious attempts to develop Space Pirates.
 date: Monday, July 14, 2014
 author: Christofer Padilla
 type: article
