@@ -1,7 +1,5 @@
 # Articles
 
-[[toc]]
-
 # Priority list
 
 * The King
