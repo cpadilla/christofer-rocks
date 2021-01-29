@@ -4,7 +4,7 @@
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
-<Feature article="blog/2021/1/8/The_Eternal_War_Machine.md" />
+<Feature article="blog/2021/1/28/SpacePirates.net-Domain-Acquisition.md" />
 
 ## Featured Recipe
 
