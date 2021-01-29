@@ -17,7 +17,10 @@ I've finally acquired the domain name for Space Pirates!
 
 I've been working towards this goal for a very long time. You can see the transaction being made below.
 
-<object data="/pdf/Gmail%20-%20spacepirates.net%20Inquiry.pdf" type="application/pdf" width="100%" height="600px">This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Gmail%20-%20spacepirates.net%20Inquiry.pdf">Download PDF</a>.
+<object data="/pdf/Gmail%20-%20spacepirates.net%20Inquiry.pdf" type="application/pdf" width="100%" height="600px">
+<div class="warning">
+<b>Warning:</b> This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Gmail%20-%20spacepirates.net%20Inquiry.pdf">Download PDF</a>.
+</div>
 </object>
 
 I made a simple placeholder page for the site for now. You can view the code [here](https://github.com/cityplanners/spacepirates-net). Eventually, I'll deploy the client side code to the site, but for now I'll continue development in [The Hacker Club's GitHub repo](https://github.com/the-hacker-club/space-pirates).
