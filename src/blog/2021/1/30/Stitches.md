@@ -15,17 +15,17 @@ tags: ["Memories"]
 
 Well, my day started off pretty good at least.
 
-It was Saturday. Carlos had come over to my place on Thursday to hangoufor for the weekend. Mom had just been baker acted and was in the hospital so between that and work, he'd been under a lot of stress lately. He'd called off work for the next few days and drove 3 hours over the state line to visit.
+It was Saturday. Carlos had come over to my place on Thursday to hangout for the weekend. Mom had just been Baker Acted and was in the hospital so between that and work, he'd been under a lot of stress lately. He called off work for the next few days and drove 2 hours over the state line to visit.
 
-Things had been going well so far. I slept in till around 10 because it's the weekend and then made a nice breakfast of bacon, chorizo, eggs and toast. I had cottage cheese with my meal as well because cottage cheese rocks.
+Things had been going well so far. I slept in till around 10 because it's the weekend and then made us a nice breakfast of bacon, chorizo, eggs and toast. I had cottage cheese with my meal as well because cottage cheese rocks.
 
 Carlos thought he heard a knock at the door but I dismissed it, joking that I never get visitors.
 
-I realized though, that I had ordered a few items recently which I had [budgeted](https://www.youneedabudget.com/) under Home Improvement. But I had just checked on the Amazon app and it looked like my stuff wasn't supposed to be delivered until Tuesday.
+I realized though, that I *had* ordered a few items recently which I had [budgeted](https://www.youneedabudget.com/) under Home Improvement. But I had just checked on the Amazon app and it looked like my stuff wasn't supposed to be delivered until Tuesday.
 
 I opened the door and BOOM! Three packages! Sitting at my doorstep.
 
-I was very excited as opened the first and largest one of them: a [hammock holder](https://www.amazon.com/gp/product/B00WFH3TIG/ref=ppx_yo_dt_b_asin_title_o00_s00)! This was awesome because rather than buy another piece of furniture for my apartment, I could simply use my <span style="color:red">beloved</span> hammock.
+I was very excited as I opened the first and largest one of them: a [hammock holder](https://www.amazon.com/gp/product/B00WFH3TIG/ref=ppx_yo_dt_b_asin_title_o00_s00)! This was awesome because rather than buy another piece of furniture for my apartment, I could simply use my <span style="color:red">beloved</span> hammock.
 
 <center>
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B4-YIigBbiR/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
@@ -87,9 +87,9 @@ I was very excited as opened the first and largest one of them: a [hammock holde
 
 The second package I got was a [little red wagon](https://www.amazon.com/gp/product/B07CGXY5K9/ref=ppx_yo_dt_b_asin_title_o01_s00)!
 
-I'd seen a lot of my neighbors around the apartment complex carting around their garbage bags in carts to the dumpster. I stopped and talked with a few of them, always inquiring as to where I could find one. Walmart didn't carry any, so I looked on Amazon for one and found something simple I liked.
+I'd seen a lot of my neighbors around the apartment complex carting around their garbage bags to the dumpster. I stopped and talked with a few of them, always inquiring as to where I could find one. Walmart didn't carry any, so I looked on Amazon for one and found something simple I liked.
 
-Finally, and to my great surprise, my packages from Google arrived! Incredible! I was so surprised since I had placed my order only a few days ago and did not expect them to arrive so soon. I'm always pleased with my purchases from Google.
+Finally, and to my great surprise, my packages from Google arrived! Incredible! I was so surprised since I had placed my order only a few days ago and did not expect them to arrive so soon; I'm always pleased with my purchases from Google.
 
 This time, I bought a [Google TV](https://tv.google/). Really it's just a chromecast device, but I bought it *for* the Google TV features. I've been using my [Nest Mini](https://store.google.com/us/product/google_nest_mini) devices around my home often to do things like play music and turn on my smart TV, but I wanted my voice commands to better [interface](/blog/2020/12/30/Reflections_at_interfaces.md) with my different streaming apps.
 
@@ -99,7 +99,7 @@ Overall, my day was going pretty swimmingly.
 
 Carlos and I realized around 12:30 PM that we were scheduled to get on a video call with some of the rest of our family to discuss our budget for Mom.
 
-This was when my started to turn south.
+This was when my day started to turn south.
 
 Suffice it to say, I was gravely offended by one of my other brothers, which put me in a foul mood for the rest of the afternoon.
 
