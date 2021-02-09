@@ -1,6 +1,6 @@
 ---
 title: Chronicle (2012)
-date: Tuesday, January 12, 2021
+date: 2021-01-12
 description: A review of Chronicle.
 author: Christofer Padilla
 type: article

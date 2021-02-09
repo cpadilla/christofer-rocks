@@ -1,7 +1,7 @@
 ---
 title: Untitled
 description: A cover of Epilogue I did in college.
-date: Thursday, April 24, 2014
+date: 2014-04-24
 author: Christofer Padilla
 type: article
 tags: ["Music", "Covers", "Memories"]

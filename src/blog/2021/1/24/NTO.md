@@ -1,6 +1,6 @@
 ---
 title: NTO
-date: Sunday, January 24, 2021
+date: 2021-01-24
 description: A case study on the DJ NTO.
 author: Christofer Padilla
 type: article

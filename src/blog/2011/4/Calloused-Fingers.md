@@ -1,7 +1,7 @@
 ---
 title: Calloused Fingers
 description: When learning the guitar finally clicked for me.
-date: April 2011
+date: 2011-04-03
 author: Christofer Padilla
 type: article
 tags: ["Memories"]
@@ -9,7 +9,7 @@ tags: ["Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/04/calloused-fingers.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/04/calloused-fingers.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 I've learned to play the guitar this past week. There have been numerous occasions when I've tried to pick it up and begin learning, each time to no avail. But for whatever reason, this time it clicked.
 

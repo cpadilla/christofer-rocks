@@ -1,4 +1,9 @@
-export default ({ router }) => {
+import pageComponents from '@internal/page-components'
+
+export default ({ Vue, router }) => {
+  for (const [name, component] of Object.entries(pageComponents)) {
+    Vue.component(name, component)
+  }
   router.addRoutes([
     { path: '/blog/2021_New_Year\'s_Resolution.md', redirect: '/blog/2021/1/1/2021_New_Year\'s_Resolution.html' },
     { path: '/blog/A_Remarkable_Coincidence_of_Inspiration.md', redirect: '/blog/2020/12/29/A_Remarkable_Coincidence_of_Inspiration.html' },

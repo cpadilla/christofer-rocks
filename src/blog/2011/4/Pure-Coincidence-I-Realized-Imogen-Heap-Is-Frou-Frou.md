@@ -1,7 +1,7 @@
 ---
 title: Pure Coincidence I Realized Imogen Heap Is Frou Frou
 description: When I realized the music industry is a very small world.
-date: April 2011
+date: 2011-04-04
 author: Christofer Padilla
 type: article
 tags: ["Case Study", "Music", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Case Study", "Music", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/04/pure-coincidence-i-realized-imogen-heap.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/04/pure-coincidence-i-realized-imogen-heap.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 <div class="warning"><b>Notice:</b> The Soundcloud link I embedded used Shockwave, which is no longer supported on browsers. Since this must have been well over a decade ago, I wasn't able to find the specific cover of such a popular song on Soundcloud, unfortunately. I've linked the original song via Spotify instead. <a href="https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3?si=WcStc-h0QKe6Lz3-IvtGJw">Frou Frou</a> is good too.</div>
 

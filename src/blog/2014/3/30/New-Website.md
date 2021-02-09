@@ -1,7 +1,7 @@
 ---
 title: New Website!
-description: When I first acquired christofer.rocks.
-date: Sunday, March 30, 2014
+description: When I first acquired christoferpadilla.com.
+date: 2014-03-30
 author: Christofer Padilla
 type: article
 tags: ["Memories"]

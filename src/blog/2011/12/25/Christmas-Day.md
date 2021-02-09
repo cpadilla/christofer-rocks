@@ -1,7 +1,7 @@
 ---
 title: Christmas Day!
 description: Yay!
-date: Sunday, December 25, 2011
+date: 2011-12-25
 author: Christofer Padilla
 type: article
 tags: ["Memories"]

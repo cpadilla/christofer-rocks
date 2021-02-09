@@ -1,7 +1,7 @@
 ---
 title: My Thoughts on Keeping Thoughts
 description: My first ever blog post.
-date: March 2011
+date: 2011-03-01
 author: Christofer Padilla
 type: article
 tags: ["Reflections", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Reflections", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/my-thoughts-on-keeping-thoughts.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/my-thoughts-on-keeping-thoughts.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 I never was one to keep a journal. growing up, I was always encouraged to do so, but I was too paranoid to try. I've always believed that my mind was the only safe sanctuary I have, so why risk the security of my thoughts, if I could simply reflect on them in my own head?
 

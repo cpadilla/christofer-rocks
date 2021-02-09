@@ -1,6 +1,6 @@
 ---
 title: My Love of Comics
-date: Thursday, December 31, 2020
+date: 2020-12-31
 description: An ode to a recent resurgence in my love of comics.
 author: Christofer Padilla
 type: article

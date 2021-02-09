@@ -1,6 +1,6 @@
 ---
 title: The King (2019)
-date: Saturday, January 16, 2021
+date: 2021-01-16
 description: A review of the film The King.
 author: Christofer Padilla
 type: article

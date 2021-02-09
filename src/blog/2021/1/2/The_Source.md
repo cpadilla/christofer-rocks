@@ -1,6 +1,6 @@
 ---
 title: The Source
-date: Saturday, January 2, 2021
+date: 2021-01-02
 description: Introduction to the True Black Tarot.
 author: Christofer Padilla
 type: article

@@ -2,13 +2,17 @@
   <div class="post-container">
     <!-- <router-link v-for="page in pages" :to="page.path"> -->
       <div v-for="page in pages" class="post-card">
-        <!-- <img class="article-image" src="../public/images/blog.png" /> -->
+        <div v-if="page.frontmatter.meta[4].name == 'twitter:image'" class="article-image-container">
+          <router-link v-if="page.regularPath" :to="page.regularPath">
+            <img class="article-image" v-if="page.frontmatter.meta[4].name == 'twitter:image'" :src="page.frontmatter.meta[4].content" />
+          </router-link>
+        </div>
         <div class="page-detail">
           <router-link :to="page.path">
           <div class="page-title">{{ page.title }}</div>
           </router-link>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-date">{{ page.frontmatter.date }}</div>
+          <div class="page-date">{{ new Date(page.frontmatter.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</div>
         </div>
       </div>
   </div>
@@ -55,8 +59,18 @@ export default {
   font-size: 0.9rem;
   color: grey;
 }
+.article-image-container {
+  width: 100px;
+  margin-right: 20px;
+}
+@media only screen and (max-width: 400px) {
+  .article-image-container {
+    display: none;
+  }
+}
 .article-image {
-  height: 100%;
+  height: auto;
+  max-height: 100px;
 }
 .description {
   width: 100%;

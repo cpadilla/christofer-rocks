@@ -1,7 +1,7 @@
 ---
 title: Into the Vertex!
-description: When I first acquired christofer.rocks.
-date: Monday, July 14, 2014
+description: One of the first of many serious attempts to develop Space Pirates.
+date: 2014-06-14
 author: Christofer Padilla
 type: article
 tags: ["Programming", "Concerts", "Space Pirates", "Memories"]

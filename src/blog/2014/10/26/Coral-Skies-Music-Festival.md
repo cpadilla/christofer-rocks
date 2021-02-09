@@ -1,7 +1,7 @@
 ---
 title: Coral Skies Music Festival
 description: The Coral Skies Music Festival with my family.
-date: Sunday, October 26, 2014
+date: 2014-10-26
 author: Christofer Padilla
 type: article
 tags: ["Music Festivals", "Memories"]

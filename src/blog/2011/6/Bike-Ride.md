@@ -1,7 +1,7 @@
 ---
 title: Bike Ride
 description: An awesome morning with friends.
-date: June 2011
+date: 2011-06-01
 author: Christofer Padilla
 type: article
 tags: ["Memories"]
@@ -9,7 +9,7 @@ tags: ["Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/06/bike-ride.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/06/bike-ride.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 <div class="resp-container">
   <iframe class="resp-iframe" title="vimeo-player" src="https://player.vimeo.com/video/24584722" width="640" height="480" frameborder="0" allowfullscreen></iframe>

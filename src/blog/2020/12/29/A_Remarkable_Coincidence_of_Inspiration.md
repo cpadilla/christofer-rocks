@@ -1,6 +1,6 @@
 ---
 title: A Remarkable Coincidence of Inspiration
-date: Tuesday, December 29, 2020
+date: 2020-12-29
 description: An interesting observation made in defining inspiration.
 author: Christofer Padilla
 type: article

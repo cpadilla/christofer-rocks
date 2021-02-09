@@ -1,7 +1,7 @@
 ---
 title: Greatest. Song. Ever.
 description: I was very obsessed with this song.
-date: March 2011
+date: 2011-03-12
 author: Christofer Padilla
 type: article
 tags: ["Case Study", "Music", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Case Study", "Music", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/greatest-song-ever.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/greatest-song-ever.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 ![Broken Bells](/images/brokenbells.jpg)
 

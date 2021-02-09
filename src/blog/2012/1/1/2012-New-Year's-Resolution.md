@@ -1,7 +1,7 @@
 ---
 title: 2012 New Year's Resolution
 description: My New Year's Resolution for 2012.
-date: Sunday, January 1, 2012
+date: 2012-01-01
 author: Christofer Padilla
 type: article
 tags: ["New Year's Resolution"]

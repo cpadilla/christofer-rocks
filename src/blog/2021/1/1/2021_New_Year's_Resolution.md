@@ -1,6 +1,6 @@
 ---
 title: 2021 New Year's Resolution
-date: Friday, January 1, 2021
+date: 2021-01-01
 description: A look back on 2020 and my new year's resolutions.
 author: Christofer Padilla
 type: article

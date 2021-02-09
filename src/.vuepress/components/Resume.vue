@@ -2,32 +2,34 @@
   <div class="post-container">
       <div v-if="this.page" class="post-card">
         <div v-if="this.page" class="article-image-container">
-          <router-link v-if="this.page.regularPath" :to="this.page.regularPath">
+          <a href="https://christofer.codes">
             <img class="article-image" v-if="this.previewImage" :src="this.previewImage" />
-          </router-link>
+          </a>
         </div>
         <div v-if="this.page" class="page-detail">
-          <router-link v-if="this.page.regularPath" :to="this.page.regularPath">
-          <div v-if="this.page" class="page-title">{{ this.page.title }}</div>
-          </router-link>
+          <a href="https://christofer.codes">
+            <div v-if="this.page" class="page-title">{{ this.page.title }}</div>
+          </a>
           <div v-if="this.page.frontmatter" class="page-description">{{ this.page.frontmatter.description }}</div>
-          <div v-if="this.page.frontmatter" class="page-date">{{ new Date(this.page.frontmatter.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}</div>
+          <div v-if="this.page.frontmatter" class="page-date">{{ this.page.frontmatter.date }}</div>
         </div>
       </div>
   </div>
 </template>
 <script>
 export default {
+  name: 'Resume',
   props: ['article'],
   data() {
     return {
-      page: {}
+      page: {},
+      previewImage: ''
     }
   },
   mounted() {
-    this.page = this.$site.pages.find(page => page.relativePath == this.article);
-    this.previewImage = this.page.frontmatter.meta[4].content;
-    //console.log(this.page);
+    this.page = this.$site.pages.find(page => page.relativePath == 'resume.md');
+    this.previewImage = 'https://christofer.rocks/images/cityplanners.png';
+    console.log(this.page);
   }
 }
 </script>
@@ -43,6 +45,7 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
+  flex-wrap: wrap;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   padding: 10px 30px;
@@ -59,11 +62,6 @@ export default {
 .article-image-container {
   width: 100px;
   margin-right: 20px;
-}
-@media only screen and (max-width: 400px) {
-  .article-image-container {
-    display: none;
-  }
 }
 .article-image {
   height: auto;

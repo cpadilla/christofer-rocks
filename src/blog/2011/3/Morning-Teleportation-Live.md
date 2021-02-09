@@ -1,7 +1,7 @@
 ---
 title: Morning Teleportation Live
-description: My first live live show.
-date: March 2011
+description: My first live show.
+date: 2011-03-16
 author: Christofer Padilla
 type: article
 tags: ["Concerts", "Music", "Memories"]
@@ -9,7 +9,7 @@ tags: ["Concerts", "Music", "Memories"]
 
 # {{ $page.title }}
 
-<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/morning-teleportation-live.html">nakedlogic.blogspot.com</a>.</div>
+<div class="info"><b>Note:</b> This article was imported from my old blog, <a href="http://nakedlogic.blogspot.com/2011/03/morning-teleportation-live.html">nakedlogic.blogspot.com</a>. The exact date is unknown, so the day is for chronological order.</div>
 
 ![Morning Teleportation](/images/Morning-T-Press-Shot.jpg)
 

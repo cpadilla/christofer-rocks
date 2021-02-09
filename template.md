@@ -1,8 +1,9 @@
 ---
 title: Title
-date: Day, Month date, year
+date: 2021-01-01
 description: Description.
 author: Christofer Padilla
+image: https://img.youtube.com/vi/<video-url>/0.jpg
 type: article
 tags: ["Reflections"]
 ---

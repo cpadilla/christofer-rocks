@@ -1,6 +1,6 @@
 ---
 title: Devil Like Me - Rainbow Kitten Surprise
-date: Monday, January 25, 2021
+date: 2021-01-25
 description: A case study on Devil Like Me by Rainbow Kitten Surprise.
 author: Christofer Padilla
 type: article
@@ -17,13 +17,13 @@ I'm not actually a big fan of the music video, but I feel it's important to incl
 
 ## Release
 
-*Devil Like Me* was released by *Rainbow Kitten Surprise* on November 19, 2013 as part of their *Seven + Mary* album.
+*Devil Like Me* was released by Rainbow Kitten Surprise on November 19, 2013 as part of their *Seven + Mary* album.
 
-![Seven + Mary](</images/seven%20+%20mary.jpg> "Seven + Mary")
+![Seven + Mary](/images/seven%20+%20mary.jpg)
 
-I haven't actually listened to the entire album, but I do really like the album art. Rainbows are definitely an aesthetic while tripping, which I most certainly was when I really connected with this song. The melting "Seven" in the shape of a 7 also is reminiscent of the way his vocals sway between falsetto.
+I haven't actually listened to the entire album, but I do like the album art. Rainbows are definitely an aesthetic while tripping, which I most certainly was when I really connected with this song. The melting "Seven" in the shape of a 7 also is reminiscent of the way his vocals sway between falsetto and head voice.
 
-I also really like the white-on-black text of the title. There's also something about it that (for me, at least) evokes the imagery of the [Virgin Mary](https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus) with seven children. Perhaps it's because the only context I have for this album is this song that I equate this Mary to "the devil's" lover.
+I also really like the white-on-black text of the title. There's something about it that (for me, at least) evokes the imagery of the [Virgin Mary](https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus) with seven children. Perhaps it's because the only context I have for this album is this song that I equate Mary to the "devil's" lover.
 
 ## Discovery
 
@@ -35,7 +35,7 @@ This playlist has been a favorite of mine and I've played it over many times, al
 
 It wasn't until years [later](/blog/2021/1/23/Henry.md) that I was listening to this song again that it really struck a chord with me. Maybe I wasn't receptive to the lyrics until then, although I've always like the syrupy vocals.
 
-I texted this song to my dad, who is very religious, because it kind of reminded me of him, in the same way that I, too, identify with the pain and sensitivity of the "devil" portrayed in this song.
+I texted this song to my dad (who is very religious) because it kind of reminded me of him, in the same way that I identify with the pain and sensitivity that the narrator portrays in this song.
 
 ## [Lyrics](https://genius.com/Rainbow-kitten-surprise-devil-like-me-lyrics)
 
@@ -59,7 +59,7 @@ This surprisingly dense line begins to provide context for the song. I believe i
 
 [*Is it better to be right, or happy?*](https://www.google.com/search?q=is+it+better+to+be+right+or+happy)
 
-This seems to be hinting at an aftermath of a breakup. One in which the narrator (the "devil") seems to believe that his former lover chose to be right, rather than happy; as if she chose to "win" the argument. Thus, she misses him when she wishes she wasn't right.
+This seems to be hinting at the aftermath of a breakup. One in which the narrator (the "devil") seems to believe that his former lover chose to be right, rather than happy; as if she chose to "win" the argument. Thus, she misses him when she wishes she wasn't right.
 
 > Shake me all out if I'm wrong, for you, for you
 >
