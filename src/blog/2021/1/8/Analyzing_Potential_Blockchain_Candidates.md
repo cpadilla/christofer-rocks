@@ -17,10 +17,10 @@ So far, I've already created a [database diagram](./The_Eternal_War_Machine.md) 
 
 This is my analysis of the following blockchains I'm considering:
 
-<ul style="columns:2">
+<ul style="columns:4">
 <li><a href="#eosio">EOSIO</a></li>
 <li><a href="#ethereum">Ethereum</a></li>
-<li>NEO</li>
+<li><a href="#neo">NEO</a></li>
 <li>Tron</li>
 <li>WAX</li>
 <li>Stellar</li>
@@ -280,26 +280,65 @@ These are things I haven't really found an answer to yet and will probably have 
 
 ### Advantages
 
+Despite the growth of alternative blockchain networks, decentralized applications (dApps) exist almost exclusively on the Ethereum blockchain. The Ethereum Virtual Machine (EVM) is the primary driver of this trend because it allows developers to launch any dApp regardless of the underlying coding language while using Solidity for coding smart contracts. This network architecture eliminates the need to develop an entirely new blockchain for every dApp. 
+
+One of the big advantages of the Ethereum blockchain is it benefits from the network effect. With a community of highly skilled developers, there are a lot of tool and crucial extension documentation to help other developers get started. The increasing number of developers utilizing these solutions has perpetuated the development of better tools, better code, better platforms, and ultimately, better dApps.
+
+On the Ethereum network, dApps can use a native token that adheres to the [ERC-20](https://github.com/ethereum/EIPs/issues/20) in order to monetize assets in the dApp. The ERC-20 standard enables the frictionless exchange of these crypto assets.
+
+To interact with smart contract instances on the blockchain, we can utilize a javascript library called [web3](https://github.com/ChainSafe/web3.js).
+
+With web3, we can submit four types of transactions:
+1. Send ethers from one *external account* to another *external account* (like a Bitcoin transaction)
+2. Send a “blank” transaction to *deploy a smart contract* (becomes a contract account)
+3. Send ethers from an *external account* to a *contract account*
+4. Send a transaction to *execute a method* within the contract account (to update or retrieve the contract state, or call other contracts)
+
+Calls that simply retrieve data from the blockchain or contract are “instant” and free. We can return any values we want from these calls.
+
+Another nice benefit is that functions can emit **events** which web3 can *watch* for using the transaction hash. We can also throw exceptions to handle errors. A thrown exception will always revert the state.
+
 ### Downsides
 
 Ethereum is unable to access real time data from outside the blockchain. Developers need to rely on trusted third party data providers, called oracles, to provide smart contracts with outside information like weather, random numbers, or currency values.
 
 You are also tied to paying for your transactions by the operation with gas that translates into Ethereum’s ether. As a result, using the current version of Solidity, you could very feasibly find yourself hitting a transaction limit if the computation you intend to perform is too expensive (like verifying checkmate in a game of chess). As a result, on-chain computations because become costly in terms of money and network bandwidth.
 
+To elaborate, transactions and calls are executed by the EVM as opcodes, which equate to gas. Transactions that *update* the blockchain or contract state require *payment* of ethers. These will take *time*.
+
+<div class="warning"><b>Tip:</b> Because nodes compete to mine the next block, function calls are executed redundantly across the network. To offset this waste of computing resources, a best practice is to perform as many calculations <i>off-chain</i> as possible.</div>
+
 Ethereum also uses Solidity as it's most common smart-contract langauge. This means I would have to spend more time learning this langauge.
 
 ### Sidechain
 
+The Matic Network Sidechain offers a "layer 2" scalability solution for Ethereum, similar to Bitcoin's [Lightning network](https://en.wikipedia.org/wiki/Lightning_Network).
+
 * [Matic Network Sidechain](https://matic.network/)
   - https://medium.com/matic-network/what-is-matic-network-466a2c493ae1
 
+### Tutorials
+
+* [Ethereum Tutorials](https://ethereum.org/en/developers/tutorials/)
+* [Remix, an online Ethereum editor](https://remix.ethereum.org/)
+
+### References
+
+* [Are most dApps built on ETH?](https://www.gemini.com/cryptopedia/dapps-ethereum-decentralized-application)
+* [ERC-20 Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+* [A Complete Mental Model for Ethereum dApp Development](https://medium.com/heartbankacademy/a-complete-mental-model-for-ethereum-dapp-development-5ce08598ed0a)
+
 ## NEO
+
+![NEO](/images/neo.svg)
 
 ### Info
 
-* Concensus Algorithm: 
-* Code: 
-* White-paper: 
+* White-paper: [https://docs.neo.org/docs/en-us/basic/whitepaper.html](https://docs.neo.org/docs/en-us/basic/whitepaper.html)
+* Code: [https://github.com/neo-project/neo](https://github.com/neo-project/neo)
+* Concensus Algorithm: [Delegated Byzantine Fault Tolerant](https://docs.neo.org/docs/en-us/basic/whitepaper.html#consensus-mechanism-dbft)
+* Smart contract langauge: [C#, any\*](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html#write-smart-contracts-in-any-language)
+* Documentation: [https://docs.neo.org/docs/en-us/index.html](https://docs.neo.org/docs/en-us/index.html)
 
 ### Advantages
 
