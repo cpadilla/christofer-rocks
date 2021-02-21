@@ -18,7 +18,7 @@
 
 ### <span style="color:#1DB954">Music</span>
 
-<Feature article="blog/2021/1/25/Devil-Like-Me-Rainbow-Kitten-Surprise.md" />
+<Feature article="blog/2021/2/1/Look-Sebastien-Tellier.md" />
 
 ### Film
 
