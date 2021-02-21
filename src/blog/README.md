@@ -18,7 +18,7 @@
 
 ### <span style="color:#1DB954">Music</span>
 
-<Feature article="blog/2021/2/1/Look-Sebastien-Tellier.md" />
+<Feature article="blog/2021/2/21/Look-Sebastien-Tellier.md" />
 
 ### Film
 
