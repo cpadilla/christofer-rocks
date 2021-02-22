@@ -5,7 +5,7 @@ description: A case study on the animated music video for Look by Sébastien Tel
 author: Christofer Padilla
 image: https://img.youtube.com/vi/8jL0vy2YaDg/0.jpg
 type: article
-tags: ["Reflections"]
+tags: ["Case Study", "Music"]
 ---
 
 # {{ $page.title }}
