@@ -2,6 +2,8 @@
 
 # Priority list
 
+* Time
+* My Mental Health
 * The King
 * Bitcoin
   - CSW/Bitcoin core whitepaper controversy
@@ -12,6 +14,7 @@
 * Archive by date
 * Fix redirect links
   - Root issue is hosting on Github pages: need to host myself/somewhere else
+* Add header links for Tags page (like Archive)
 * Google search widget
 * Google definition widget
 * Upload and use [Charter](https://fontesk.com/charter-typeface/) font
