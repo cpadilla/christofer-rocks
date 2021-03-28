@@ -4,7 +4,7 @@ date: 2021-03-24
 description: A reflection on my mental health.
 author: Christofer Padilla
 type: article
-tags: ["Reflections"]
+tags: ["Reflections", "Memories", "Mental Health"]
 ---
 
 # {{ $page.title }}

@@ -1,6 +1,6 @@
 ---
 title: Analyzing Potential Blockchain Candidates
-date: Day, Month date, year
+date: 2021-01-08
 description: Analyzing various blockchains as candidates to develop on.
 author: Christofer Padilla
 type: article

@@ -1,11 +1,11 @@
 ---
-title: Cajun Chicken Parmesian Penne
+title: Cajun Chicken Parmesan Penne
 date: 2021-03-28
 description: A recipe for Crockpot Cajun Chicken Alfredo.
 author: Christofer Padilla
 image: https://img.youtube.com/vi/Fyrpy3b9q74/0.jpg
 type: article
-tags: ["Recipe"]
+tags: ["Recipes"]
 ---
 
 # {{ $page.title }}
