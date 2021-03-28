@@ -20,7 +20,7 @@ This is my analysis of the following blockchains I'm considering:
 <ul style="columns:4">
 <li><a href="#eosio">EOSIO</a></li>
 <li><a href="#ethereum">Ethereum</a></li>
-<li><a href="#neo">NEO</a></li>
+<li>NEO</li>
 <li>Tron</li>
 <li>WAX</li>
 <li>Stellar</li>
@@ -328,89 +328,11 @@ The Matic Network Sidechain offers a "layer 2" scalability solution for Ethereum
 * [ERC-20 Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 * [A Complete Mental Model for Ethereum dApp Development](https://medium.com/heartbankacademy/a-complete-mental-model-for-ethereum-dapp-development-5ce08598ed0a)
 
-## NEO
-
-![NEO](/images/neo.svg)
-
-### Info
-
-* White-paper: [https://docs.neo.org/docs/en-us/basic/whitepaper.html](https://docs.neo.org/docs/en-us/basic/whitepaper.html)
-* Code: [https://github.com/neo-project/neo](https://github.com/neo-project/neo)
-* Concensus Algorithm: [Delegated Byzantine Fault Tolerant](https://docs.neo.org/docs/en-us/basic/whitepaper.html#consensus-mechanism-dbft)
-* Smart contract langauge: [C#, any\*](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html#write-smart-contracts-in-any-language)
-* Documentation: [https://docs.neo.org/docs/en-us/index.html](https://docs.neo.org/docs/en-us/index.html)
-
-### Advantages
-
-### Downsides
-
-## Tron
-
-### Info
-
-* Concensus Algorithm: 
-* Code: 
-* White-paper: 
-
-### Advantages
-
-### Downsides
-
-## WAX
-
-### Info
-
-* Concensus Algorithm: 
-* Code: 
-* White-paper: 
-
-### Advantages
-
-* [Why dApps are moving to WAX from EOS](https://www.globenewswire.com/news-release/2019/12/11/1959391/0/en/Here-s-Why-dApps-Are-Moving-to-WAX-and-Leaving-EOS.html).
-
-### Downsides
-
-## Stellar
-
-### Info
-
-* Concensus Algorithm: 
-* Code: 
-* White-paper: 
-
-### Advantages
-
-### Downsides
-
-## Tezos
-
-### Info
-
-* Consensus Algorithm: [Proof-of-stake](https://en.wikipedia.org/wiki/Proof_of_stake).
-
-* Code: [https://gitlab.com/tezos/tezos](https://gitlab.com/tezos/tezos)
-
-* White-paper: [https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf)
-
-### Advantages
-
-### Downsides
-
-## Custom Blockchain
-
-### Info
-
-* Concensus Algorithm: 
-* Code: 
-* White-paper: 
-
-### Advantages
-
-### Downsides
-
 # Conclusion
 
-In conclusion, I have no idea which one I want to use xD
+I originally was going to analyze a few other blockchain technologies, however, I've come to realize that progress on my project has suffered because of analysis paralysis.
+
+I've therefore decided to go with my gut originally indicated and chose EOSIO as the blockchain to build my game on. The reason for this is mostly because of it's high transactions per second and the fact that unlike Ethereum, you don't have to pay a fee for transactions.
 
 <TagLinks />
 
