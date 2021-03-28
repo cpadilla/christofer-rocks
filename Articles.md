@@ -54,7 +54,7 @@
 * Chilaquilles
 * Scones
 * Sushi
-* Breakfast Crunchwraps
+* Breakfast Crunchwrap
 
 # Memories
 * My Mental Health
@@ -65,10 +65,12 @@
 * College Years
 * Skateboarding
 * Fish Hawk Pond
+>>>>>>> master
 
 # Case Studies
 
 ## Movies
+* Arrival
 * Interstellar
 * Dune
     - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
@@ -78,7 +80,7 @@
 * Annihilation
 * Alien Covenant
 * Mad Max
-* Blade Runner
+* Blade Runner: 2049
 * No Country For Old Men
 * The Hunt
 * Knives Out
@@ -125,6 +127,8 @@
 * CBTM (TikTok)
 * VSCode
 * Vim
+* Timothy Chalamet
+* Dennis Villnevue
 * Instagram
 
 # Resources

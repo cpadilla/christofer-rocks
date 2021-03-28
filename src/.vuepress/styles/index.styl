@@ -12,6 +12,27 @@ iframe {
   margin: auto;
 }
 
+.table-of-contents {
+  border: 1px solid black;
+  padding: 7px;
+  display: inline-block;
+
+  ol {
+    counter-reset: section;
+    list-style-type: none;
+    padding-right: 7px;
+  }
+
+  li::before {
+    counter-increment: section;
+    content: counters(section, ".") " ";
+  }
+}
+
+.toc-container-header {
+  text-align: center;
+}
+
 video {
   object-fit: cover;
   width: 100%;

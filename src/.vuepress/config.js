@@ -12,6 +12,24 @@ module.exports = {
     head: [
       ['link', { rel: 'icon', href: '/images/logo.png' }],
       ['script', {
+        language: 'javascript',
+        type: 'text/javascript',
+        src: '//code.jquery.com/jquery-1.7.2.min.js'
+      }],
+      ['script', {
+        language: 'javascript',
+        type: 'text/javascript',
+      },
+      `function toggleTOC() {
+        event.preventDefault();
+        console.log("toggleTOC fired!");
+       $(".table-of-contents>ol").each(function(i){
+         $( this ).toggle();
+       });
+       $("#toggle-wiki-index").text( $(".table-of-contents ol").is(":visible") ? "hide" : "show");
+      }`
+      ],
+      ['script', {
         async: true,
         src: 'https://www.googletagmanager.com/gtag/js?id=G-Q6CMDV4BG0'
       }],
@@ -47,6 +65,14 @@ module.exports = {
       prevLinks: true,
       lastUpdated: 'Last Updated',
       activeHeaderLinks: true
+    },
+    markdown: {
+      toc: {
+        includeLevel: [1,2,3,4,5,6],
+        containerClass: 'table-of-contents',
+        listType: 'ol',
+        containerHeaderHtml: '<div class="toc-container-header"><b>Contents</b>  [<a id="toggle-wiki-index" onclick="return toggleTOC();" href="#">hide</a>]</div>'
+      }
     },
     plugins: [
         ['flexsearch', {
