@@ -96,8 +96,19 @@ module.exports = {
           }
         }
       }],
-      [ 'autometa', autometa_options ]
-    ],
+      [ 'autometa', autometa_options ],
+      [ 'vuepress-plugin-rss',
+        {
+          base_url: '/', // required
+          site_url: 'https://christofer.rocks', // required
+          copyright: '2021 Christofer Padilla', // optional
+          // filter some post
+          filter: (frontmatter) => { return [true|false] },
+          // How much articles
+          count: 20
+        }
+      ]
+ ],
   module: {
     rules: [
       {

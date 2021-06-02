@@ -26,6 +26,7 @@
     "node-sass": "^5.0.0",
     "sass-loader": "^10.1.1",
     "vuepress-plugin-autometa": "^0.1.13",
-    "vuepress-plugin-flexsearch": "^0.1.0"
+    "vuepress-plugin-flexsearch": "^0.1.0",
+    "vuepress-plugin-rss": "^2.0.0"
   }
 }
