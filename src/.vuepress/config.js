@@ -103,7 +103,7 @@ module.exports = {
           site_url: 'https://christofer.rocks', // required
           copyright: '2021 Christofer Padilla', // optional
           // filter some post
-          filter: (frontmatter) => { return [true|false] },
+          filter: (frontmatter) => { return frontmatter.type == 'article' },
           // How much articles
           count: 20
         }
