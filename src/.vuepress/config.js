@@ -99,7 +99,7 @@ module.exports = {
       [ 'autometa', autometa_options ],
       [ 'vuepress-plugin-rss',
         {
-          base_url: '/', // required
+          base_url: '/blog/', // required
           site_url: 'https://christofer.rocks', // required
           copyright: '2021 Christofer Padilla', // optional
           // filter some post
