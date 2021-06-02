@@ -3,7 +3,7 @@ title: Bike Ride
 description: An awesome morning with friends.
 date: 2011-06-01
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

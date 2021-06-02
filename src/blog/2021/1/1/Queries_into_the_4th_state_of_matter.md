@@ -3,7 +3,7 @@ title: Queries Into the 4th State of Matter
 date: 2021-01-01
 description: When I was energized midslumber to find an answer.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Definitions", "Inspiration", "Light"]
 ---
 

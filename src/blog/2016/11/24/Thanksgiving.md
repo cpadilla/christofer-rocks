@@ -3,7 +3,7 @@ title: Thanksgiving
 description: A solemn reflection during Thanksgiving.
 date: 2016-11-24
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

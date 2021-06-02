@@ -3,7 +3,7 @@ title: Devil Like Me - Rainbow Kitten Surprise
 date: 2021-01-25
 description: A case study on Devil Like Me by Rainbow Kitten Surprise.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music"]
 ---
 

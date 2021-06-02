@@ -3,7 +3,7 @@ title: The King (2019)
 date: 2021-01-16
 description: A review of the film The King.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Movie"]
 ---
 

@@ -3,7 +3,7 @@ title: Developer Night
 description: A fun night in college coding with friends.
 date: 2012-01-14
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

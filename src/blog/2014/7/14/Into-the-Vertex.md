@@ -3,7 +3,7 @@ title: Into the Vertex!
 description: One of the first of many serious attempts to develop Space Pirates.
 date: 2014-06-14
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Programming", "Concerts", "Space Pirates", "Memories"]
 ---
 

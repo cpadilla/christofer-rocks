@@ -3,7 +3,7 @@ title: "Ramen (ラーメン)"
 date: 2021-01-24
 description: A recipe for the classic bowl of Ramen.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Recipes"]
 ---
 

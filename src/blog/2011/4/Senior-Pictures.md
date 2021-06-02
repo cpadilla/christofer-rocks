@@ -3,7 +3,7 @@ title: Senior Pictures
 description: A photo from my senior year of high school.
 date: 2011-04-02
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

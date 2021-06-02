@@ -3,7 +3,7 @@ title: Vietnamese Spring Rolls
 date: 2021-01-19
 description: A recipe for Vietnamese Spring Rolls.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Recipes"]
 ---
 

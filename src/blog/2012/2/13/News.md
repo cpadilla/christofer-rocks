@@ -3,7 +3,7 @@ title: News
 description: Disappointing news.
 date: 2012-02-13
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

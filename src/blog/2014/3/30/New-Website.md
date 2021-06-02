@@ -3,7 +3,7 @@ title: New Website!
 description: When I first acquired christoferpadilla.com.
 date: 2014-03-30
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

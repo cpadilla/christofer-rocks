@@ -3,7 +3,7 @@ title: Make Someone's Day
 description: Reflecting on a fond memory of high school.
 date: 2011-03-14
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Memories"]
 ---
 

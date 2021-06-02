@@ -3,7 +3,7 @@ title: 2021 New Year's Resolution
 date: 2021-01-01
 description: A look back on 2020 and my new year's resolutions.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["New Year's Resolution"]
 ---
 

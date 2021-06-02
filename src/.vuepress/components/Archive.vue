@@ -13,7 +13,7 @@
         <h2>&emsp;{{ months[monthName] }}</h2>
           <div class="post-container">
             <!-- Cards -->
-              <div v-if="page.frontmatter != null && page.frontmatter.type == 'article'" v-for="page in month" v-bind:key="page.frontmatter.date" class="post-card">
+              <div v-if="page.frontmatter != null && page.frontmatter.type == 'post'" v-for="page in month" v-bind:key="page.frontmatter.date" class="post-card">
                 <div v-if="page.frontmatter != null && page.frontmatter.meta[4].name == 'twitter:image'" class="article-image-container">
                   <router-link v-if="page.regularPath" :to="page.regularPath">
                     <img class="article-image" v-if="page.frontmatter.meta[4].name == 'twitter:image'" :src="page.frontmatter.meta[4].content" />
@@ -60,7 +60,7 @@ export default {
       }
 
       this.$site.pages.forEach(page => {
-        if (page.frontmatter.type == 'article') {
+        if (page.frontmatter.type == 'post') {
           //console.log(page);
           // Use regex on relative path to calculate date
           var date = page.relativePath.match(/(?!blog\/)\d+/g);

@@ -3,7 +3,7 @@ title: Pure Coincidence I Realized Imogen Heap Is Frou Frou
 description: When I realized the music industry is a very small world.
 date: 2011-04-04
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

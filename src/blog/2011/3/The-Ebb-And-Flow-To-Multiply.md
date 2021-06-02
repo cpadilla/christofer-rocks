@@ -3,7 +3,7 @@ title: The Ebb and Flow to Multiply
 description: My first ever case study, on Simple Math.
 date: 2011-03-02
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

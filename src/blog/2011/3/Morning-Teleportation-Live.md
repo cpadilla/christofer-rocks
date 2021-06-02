@@ -3,7 +3,7 @@ title: Morning Teleportation Live
 description: My first live show.
 date: 2011-03-16
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Concerts", "Music", "Memories"]
 ---
 

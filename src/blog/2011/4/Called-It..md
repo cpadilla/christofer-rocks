@@ -3,7 +3,7 @@ title: Called It.
 description: Around when I started my first Tumblr blog.
 date: 2011-04-01
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

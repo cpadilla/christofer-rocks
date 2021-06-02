@@ -3,7 +3,7 @@ title: The Eternal War Machine
 date: 2021-01-08
 description: Territory struggles as eternal state machines.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Memories", "Space Pirates", "Blockchain"]
 ---
 

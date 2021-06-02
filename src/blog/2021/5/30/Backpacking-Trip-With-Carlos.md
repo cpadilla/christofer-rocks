@@ -3,7 +3,7 @@ title: Backpacking Trip With Carlos
 date: 2021-05-30
 description: My vacation I took backpacking with Carlos on the Appalachian Trail.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

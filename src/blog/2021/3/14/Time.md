@@ -4,7 +4,7 @@ date: 2021-03-14
 description: Reflections on the temporal axis.
 author: Christofer Padilla
 image: https://img.youtube.com/vi/uD4izuDMUQA/0.jpg
-type: article
+type: post
 tags: ["Reflections", "Definitions"]
 ---
 

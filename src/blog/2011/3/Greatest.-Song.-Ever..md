@@ -3,7 +3,7 @@ title: Greatest. Song. Ever.
 description: I was very obsessed with this song.
 date: 2011-03-12
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

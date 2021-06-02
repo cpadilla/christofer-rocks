@@ -3,7 +3,7 @@ title: People I Know With Blogs
 description: My young mind's thoughts on people I knew with blogs.
 date: 2011-03-11
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Memories"]
 ---
 

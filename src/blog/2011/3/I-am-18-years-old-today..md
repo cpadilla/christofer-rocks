@@ -3,7 +3,7 @@ title: I Am 18 Years Old Today.
 description: Happy Birthday to me!
 date: 2011-03-15
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

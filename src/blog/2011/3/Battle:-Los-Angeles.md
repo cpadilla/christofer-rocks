@@ -3,7 +3,7 @@ title: "Battle: Los Angeles"
 description: "My first review I ever wrote, on Battle: Los Angeles."
 date: 2011-03-07
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Movie", "Memories"]
 ---
 

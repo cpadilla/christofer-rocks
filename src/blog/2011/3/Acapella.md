@@ -3,7 +3,7 @@ title: Acapella
 description: When I thought liking acapella versions of pop songs was hip.
 date: 2011-03-04
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

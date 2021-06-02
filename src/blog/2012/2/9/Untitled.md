@@ -3,7 +3,7 @@ title: Untitled
 description: Recounting my search for internships.
 date: 2012-02-09
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

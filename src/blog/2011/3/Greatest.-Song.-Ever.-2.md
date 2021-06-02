@@ -3,7 +3,7 @@ title: Greatest. Song. Ever.
 description: Another song I absolutely cherished.
 date: 2011-03-13
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

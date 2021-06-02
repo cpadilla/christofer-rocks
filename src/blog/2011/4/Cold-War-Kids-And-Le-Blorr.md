@@ -3,7 +3,7 @@ title: Cold War Kids and Le Blorr
 description: When my friend took me to my first concert for my birthday.
 date: 2011-04-05
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Concerts", "Music", "Memories"]
 ---
 

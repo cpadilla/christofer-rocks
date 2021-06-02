@@ -3,7 +3,7 @@ title: Eagle Scout
 description: When I received the honor of Eagle Scout.
 date: 2011-05-01
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

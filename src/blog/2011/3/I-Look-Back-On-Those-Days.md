@@ -3,7 +3,7 @@ title: I Look Back On Those Days
 description: My first encounter with Communist Daughter.
 date: 2011-03-10
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

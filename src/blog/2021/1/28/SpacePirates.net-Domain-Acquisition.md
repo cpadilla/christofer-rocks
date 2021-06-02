@@ -3,7 +3,7 @@ title: SpacePirates.net Domain Acquisition
 date: 2021-01-28
 description: I finally aqcuired the domain name for Space Pirates!
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Space Pirates"]
 ---
 

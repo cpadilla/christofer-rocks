@@ -3,7 +3,7 @@ title: Untitled
 description: Merry Christmas and a Happy New Year
 date: 2014-12-24
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

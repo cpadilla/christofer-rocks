@@ -3,7 +3,7 @@ title: The Future, and More Specifically, Details Involved with My Future.
 description: Lots of eye-rolling in this one.
 date: 2011-03-06
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Goals", "Memories"]
 ---
 

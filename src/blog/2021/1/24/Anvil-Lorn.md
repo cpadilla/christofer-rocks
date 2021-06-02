@@ -3,7 +3,7 @@ title: Anvil - Lorn
 date: 2021-01-24
 description: "The year 2100. In an effort to combat overpopulation, the postmortem social network \"Anvil\" is released."
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Music"]
 ---
 

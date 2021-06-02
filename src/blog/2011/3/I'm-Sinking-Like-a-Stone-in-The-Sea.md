@@ -3,7 +3,7 @@ title: I'm Sinking Like a Stone in The Sea
 description: A nice little song I found.
 date: 2011-03-08
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

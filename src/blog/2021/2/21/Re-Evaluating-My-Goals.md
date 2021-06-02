@@ -3,7 +3,7 @@ title: Re-Evaluating My Goals
 date: 2021-02-21
 description: Re-evaluating my 2021 New Year's Resolutions and goals.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Goals"]
 ---
 

@@ -3,7 +3,7 @@ title: TESSELATE - BAYNK, Tei Shi
 date: 2021-01-09
 description: A case study on "TESSELATE" by BAYNK and Tei Shi.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music"]
 ---
 

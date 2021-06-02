@@ -3,7 +3,7 @@ title: "Richard Serra Transversal #2"
 description: The first time I encountered Richard Serra's work.
 date: 2014-08-11
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Art", "Memories"]
 ---
 

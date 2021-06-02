@@ -3,7 +3,7 @@ title: My Mental Health
 date: 2021-03-24
 description: A reflection on my mental health.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Memories", "Mental Health"]
 ---
 

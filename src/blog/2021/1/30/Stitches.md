@@ -3,7 +3,7 @@ title: Stitches
 date: 2021-01-30
 description: First time I got stiches.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

@@ -3,7 +3,7 @@ title: Reflections at Interfaces
 date: 2020-12-30
 description: A second interesting coincidence noticed in defining interface.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Inspiration", "Astronomy", "Light"]
 ---
 

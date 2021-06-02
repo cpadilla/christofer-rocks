@@ -26,7 +26,7 @@ export default {
   },
   mounted() {
     this.$site.pages.forEach(page => {
-      if (page.frontmatter.type == 'article') {
+      if (page.frontmatter.type == 'post') {
         this.pages.push(page)
       }
     })

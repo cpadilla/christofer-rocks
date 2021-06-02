@@ -3,7 +3,7 @@ title: My Thoughts on Keeping Thoughts
 description: My first ever blog post.
 date: 2011-03-01
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Reflections", "Memories"]
 ---
 

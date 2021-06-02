@@ -3,7 +3,7 @@ title: Calloused Fingers
 description: When learning the guitar finally clicked for me.
 date: 2011-04-03
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Memories"]
 ---
 

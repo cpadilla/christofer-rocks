@@ -4,7 +4,7 @@ date: 2021-01-09
 description: How I turned an old tube TV into another workspace.
 author: Christofer Padilla
 image: /images/boobtube.jpg
-type: article
+type: post
 tags: ["Computer Science", "Raspberry Pi", "Memories"]
 ---
 

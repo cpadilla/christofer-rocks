@@ -3,7 +3,7 @@ title: How to Create Your Own Blog 100% for Free
 date: 2020-12-31
 description: A guide on how I created my own blog and how you can too.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Guides"]
 ---
 

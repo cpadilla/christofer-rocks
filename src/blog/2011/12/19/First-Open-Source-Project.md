@@ -3,7 +3,7 @@ title: First Open Source Project
 description: When I discovered the beauty of source-control.
 date: 2011-12-19
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Computer Science", "Memories"]
 ---
 

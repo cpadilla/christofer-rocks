@@ -4,7 +4,7 @@ date: 2021-02-21
 description: A case study on the animated music video for Look by Sébastien Tellier.
 author: Christofer Padilla
 image: https://img.youtube.com/vi/8jL0vy2YaDg/0.jpg
-type: article
+type: post
 tags: ["Case Study", "Music"]
 ---
 

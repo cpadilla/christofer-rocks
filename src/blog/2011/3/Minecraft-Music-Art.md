@@ -3,7 +3,7 @@ title: Minecraft Music Art
 description: "Minecraft music: a vibe."
 date: 2011-03-09
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Music", "Memories"]
 ---
 

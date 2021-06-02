@@ -3,7 +3,7 @@ title: Chronicle (2012)
 date: 2021-01-12
 description: A review of Chronicle.
 author: Christofer Padilla
-type: article
+type: post
 tags: ["Case Study", "Movie", "Mental Health", "Reflections"]
 ---
 
