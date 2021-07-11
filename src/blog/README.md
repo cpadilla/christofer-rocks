@@ -12,13 +12,13 @@
 
 ## Featured Case Studies
 
-### <span style="color:red">Art</span>
-
-<Feature article="blog/2014/8/11/Richard-Serra-Transversal-2.md" />
-
 ### <span style="color:#1DB954">Music</span>
 
 <Feature article="blog/2021/7/11/For-How-Long.md" />
+
+### <span style="color:red">Art</span>
+
+<Feature article="blog/2014/8/11/Richard-Serra-Transversal-2.md" />
 
 ### Film
 
