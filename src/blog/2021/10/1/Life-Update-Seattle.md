@@ -4,7 +4,7 @@ date: 2021-10-01
 description: Big news!
 author: Christofer Padilla
 type: post
-tags: ["Reflections"]
+tags: ["Goals", "Memories"]
 ---
 
 # {{ $page.title }}
@@ -15,7 +15,7 @@ Exciting news! A lot has happened since my last update. I haven't really posted 
 
 I got a job at Amazon!
 
-_Amazing_, I know. Between preparing to interviewing, interviewing and the logistics of moving to Seattle, I feel like I've barely had any time to document my journey.
+_Amazing_, I know. Between preparing to interview, interviewing and the logistics of moving to Seattle, I feel like I've barely had any time to document my journey.
 
 Let's start at the beginning, shall we?
 
@@ -29,7 +29,7 @@ Anyway, it was around this time that a recruiter from Google contacted me. At fi
 
 <div class="info"><p><b>Fun Fact:</b> Actually, in reviewing my emails as I was preparing to write this article, I realized that this was the same recruiter who I had had a conversation with back in July of 2020. At the time, I was looking for a job after losing my job at RP Funding. I just got a job offer from nCino, however, so I decided to not proceed to the technical part of the interview but told my recruiter that I would like to stay in touch in the future.</p><p>This was before I set up my blog towards the end of 2020, so there is some missing history there.</p></div>
 
-This wasn't the first time I had tried to apply to a big tech company. In fact, when talking to my recruiter once, I asked what about my resume made me stand out to him as a potential candidate. He told me I had a good resume but that it was also based on positive feedback from my the last time I had interviewed.
+This wasn't the first time I had tried to apply to a big tech company. In fact, when talking to my recruiter once, I asked what about my resume made me stand out to him as a potential candidate. He told me I had a good resume but that it was also based on positive feedback from the last time I interviewed.
 
 I was a bit surprised by this and thought back to when the last time that was, since it surely would have been during my early college years. And indeed, it was! I don't think it was [this](/blog/2012/2/13/News.md) instance, but some time in 2013, maybe.
 
@@ -37,22 +37,22 @@ Regardless, this wasn't my first rodeo. I knew what to expect with these types o
 
 For the record, I used [this helpful article](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) as targeted practice for coding problems. I also studied (and prayed) with the Interview Bible: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850). Like any good bible, I needed to buy a new copy because I lost my other one lending it out to a friend in need. 😇
 
-Coincidentally, around this time in my emails I also received an invitation to apply to Amazon as a SDE II. Keep in mind that although I usually don't explicitly state it in my [Goals](/tags/#Goals), it has been a lifelong goal of mine to:
+Coincidentally, around this time in my emails I also received an invitation to apply to Amazon as a SDE II. Keep in mind that although I usually don't explicitly state it in my [goals](/tags/#Goals), it has been a lifelong goal of mine to:
 * Get a job at a big tech company (with Google as my top pick)
 * Move out to the west coast
 * Own a beach house in Cali
 
 All of them are pretty interconnected and really serve to accomplish my dream of owning a west coast beach house. So to me, the goal of getting a job at a big tech company was relative.
 
-I decided to proceed with an Amazon interview as well since I was going to be preparing to interview at Google anyway. _Fuck it_, I thought. _Might as well apply to all my dream jobs while we're fishing for one._
+I decided to proceed with an Amazon interview as well since I was going to be preparing to interview at Google anyway.
 
-I submitted my resume to Riot Games and CCP games as well. Microsoft had a weird recruiting event they wanted me to attend but I kept missing it and it was in Atlanta anyway, which I wasn't thrilled about so I just dropped Microsoft.
+_Fuck it_, I thought. _Might as well apply to all my dream jobs while we're at it._ I then submitted my resume to Riot Games and CCP games as well. Microsoft had a weird recruiting event they wanted me to attend but I kept missing it and the position was in Atlanta anyway, which I wasn't thrilled about so I just dropped Microsoft.
 
-I heard back from Riot games and was excited about the possibility of working at probably my literal dream job, especially when I found out they were based in LA. Unfortunately, I didn't even make it pass the behavioural interview, which I won't lie, concerned me a little.
+I heard back from Riot games and was excited about the possibility of working at probably my most literal dream job, especially when I found out they were based in LA. Unfortunately, I didn't even make it pass the behavioural interview, which I won't lie, concerned me a little.
 
 The good news, however, was that I did well with the initial technical screening interview for Google and the coding assessment with Amazon. When the time came for the full virtual onsite interview... I bombed it.
 
-At least the Google one. It was 5 1-hour interviews, all of them technical. The Amazon one felt a bit easier as it was 4 1-hour interviews, with the first half reserved for behavioural questions. If you didn't know, Amazon is really big on their [Leadership Principles](https://www.amazon.jobs/en/principles). I also got a bit better of a vibe from the Amazon interviewers; I felt pretty stress free during the interviews and enjoyed talking to them with the questions I got to ask.
+At least the Google one. It was five 1-hour interviews, all of them technical. The Amazon one felt a bit easier as it was four 1-hour interviews, with the first half reserved for behavioural questions. If you didn't know, Amazon is really big on their [Leadership Principles](https://www.amazon.jobs/en/principles). I also got a bit better of a vibe from the Amazon interviewers; I felt pretty stress free during the interviews and enjoyed talking to them with the questions I got to ask.
 
 ## The Move
 
@@ -82,13 +82,13 @@ The drive _into_ Chicago, though, was incredible in it's own right. Chicago is _
 
 <iframe src="https://open.spotify.com/embed/album/7j8lfKDdL7vE8OAM4cA3W3" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-My sister and her girlfriend were out of town attending a wedding so I stayed at their place near Uptown. I had a really great time exploring the city still. Parking was a nightmare, so I just walked everywhere. I thought of it as a primer to my new lifestyle. She lived really close to the Cubs stadium, so that probably didn't help either.
+My sister and her girlfriend were out of town attending a wedding so I stayed at their place near Uptown. I had a really great time exploring the city. Parking was a nightmare, so I just walked everywhere. I thought of it as a primer to my new lifestyle. She lived really close to the Cubs stadium, so that probably didn't help either.
 
 ![Cubs Stadium Sketch](/images/cubstadiumsketch.jpg)
 
 The time finally came to pick Tina and Anne up from the airport and I was very excited to see my long lost twin! Kidding about the long part, but I hadn't seen her in a long time and it was cool to see her and Anne as locals in Chicago. That week was also my first week of starting my job remotely. I pretty much worked in their office while Anne went into her office to work during the day.
 
-Christina gave me a grand culinary tour of Chicago, spoiling me by me with so many good food places. I realized I really have been sleeping on good ethnic food. Probably my favorite place we ate at was a literal hole-in-the wall called Chilam Balam. It was a quaint Mexican place next to an alley with a sign and some steps that led down into the indoor dining area. There were some tables in the alley for dining outside and it was BYO wine (apparently it's hard to get a liquor license in Chicago so BYOB is not uncommon), which we brought with us in a little tote.
+Christina gave me a grand culinary tour of Chicago, spoiling me with so many good food places. I realized I really have been sleeping on good ethnic food. Probably my favorite place we ate at was a literal hole-in-the wall called Chilam Balam. It was a quaint Mexican place next to an alley with a sign and some steps that led down into the indoor dining area. There were some tables in the alley for dining outside and it was BYO wine (apparently it's hard to get a liquor license in Chicago so BYOB is not uncommon), which we brought with us in a little tote.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2967.935647021775!2d-87.64625978455703!3d41.937234179217526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd3a72465f619%3A0xe3a82a122a0c3cc4!2sChilam%20Balam!5e0!3m2!1sen!2sus!4v1633154029289!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -104,13 +104,14 @@ Finally, the time had come for Christina and Anne to return the favor and drop m
 
 It's awesome.
 
-Now that I've finally got all my stuff moved into my apartment and I just got my first paycheck, I'm going to start improving my lifestyle; creating more content, working towards my goals (always!), improving my health and developing myself and my skillsets. I'm eternally grateful for the cosmic forces that have aligned my will, effort and opportunity to get me to where I am today.
+Now that I've finally got all my stuff moved into my apartment and I just got my first paycheck, I'm going to start improving my lifestyle; creating more content, working towards my goals (always!), improving my health and developing myself and my skill sets. I'm eternally grateful for the cosmic forces that have aligned my will, effort and opportunity to get me to where I am today.
 
 It's almost the end of the year and I haven't quite managed to make much progress on [my yearly goals](/blog/2021/1/1/2021_New_Year's_Resolution.md), but I'm satisfied to know I've finally achieved some of my lifelong goals.
 
 * ~~Get a job at a big tech company (with Google as my top pick)~~
 * ~~Move out to the west coast~~
 * Own a beach house in Cali
+
 
 <TagLinks />
 
