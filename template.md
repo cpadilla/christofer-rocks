@@ -12,7 +12,7 @@ tags: ["Reflections"]
 
 * Link to other blog articles
 
-It happened [again](./Queries_into_the_4th_state_of_matter.md)
+It happened [again](/blog/1/2/3/Queries_into_the_4th_state_of_matter.md)
 
 * Image with captions
 <figure>
