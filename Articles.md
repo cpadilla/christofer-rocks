@@ -92,6 +92,7 @@
 ## TV Shows
 * Mr. Robot
     - [fsociety](https://www.google.com/search?q=fsociety)
+* Westworld
 
 ## Music
 * Somebody that I used to know - Gotye
