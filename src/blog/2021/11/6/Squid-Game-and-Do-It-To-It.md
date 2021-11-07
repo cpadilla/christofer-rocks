@@ -42,7 +42,7 @@ For some reason the image of a bunch of girls at home in bed, all watching this 
 
 A few days later, I came back to this TikTok, honestly to find the cricket comment which had kept me amused the past few days. I also wanted to find the song but it was funny to me that this was almost a secondary reason.
 
-I found it easily enough on YouTube, where I could hear the full studio quality of it. I was very impressed with it. The production on it was very clean. Especially on the intro; if you recognize the original track from the show, you'll notice the slight stutter's Zedd introduces to the vocalizations that really elevate it to a proper EDM intro.
+I found it easily enough on YouTube, where I could hear the full studio quality of it. I was very impressed with it. The production on it was very clean. Especially on the intro; if you recognize the original track from the show, you'll notice the slight stutters Zedd introduces to the vocalizations that really elevate it to a proper EDM intro.
 
 That's it. It's a catchy song. 🦗🦟🦗🦟
 
