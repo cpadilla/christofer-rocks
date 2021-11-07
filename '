@@ -1,0 +1,25 @@
+---
+title: Roadmap
+date: 2021-11-03
+description: The roadmap for Space Pirates.
+author: Christofer Padilla
+type: post
+tags: ["Space Pirates"]
+---
+
+# {{ $page.title }}
+
+Below is an overview of the roadmap I have planned so far for the Space Pirates game.
+
+* Design the game
+
+
+* Create a UML diagram of the game (smart contracts)
+* Write a white paper
+
+* Create a working prototype
+
+
+<TagLinks />
+
+<Comments />
