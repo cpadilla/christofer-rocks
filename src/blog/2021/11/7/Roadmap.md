@@ -3,6 +3,7 @@ title: Space Pirates Roadmap
 date: 2021-11-07
 description: The roadmap for Space Pirates.
 author: Christofer Padilla
+image: images/techtree.png
 type: post
 tags: ["Space Pirates"]
 ---
