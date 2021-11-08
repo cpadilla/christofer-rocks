@@ -23,7 +23,7 @@
 
 # Articles
 
-* Why I use FreeBSD
+* My opinions on Operating Systems
 * Time
   - Standardizing measurements of time and space
       - Universal Time
