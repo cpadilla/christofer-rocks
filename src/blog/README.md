@@ -14,7 +14,7 @@
 
 ### <span style="color:#1DB954">Music</span>
 
-<Feature article="blog/2021/11/6/Squid-Game-and-Do-It-To-It.md" />
+<Feature article="blog/2021/11/8/Cloud-Nothings.md" />
 
 ### <span style="color:red">Art</span>
 
