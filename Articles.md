@@ -23,7 +23,7 @@
 
 # Articles
 
-* Why I use FreeBSD
+* My opinions on Operating Systems
 * Time
   - Standardizing measurements of time and space
       - Universal Time
@@ -92,6 +92,7 @@
 ## TV Shows
 * Mr. Robot
     - [fsociety](https://www.google.com/search?q=fsociety)
+* Westworld
 
 ## Music
 * Somebody that I used to know - Gotye

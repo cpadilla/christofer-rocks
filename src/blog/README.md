@@ -1,10 +1,10 @@
 # Featured Articles
 
-<Feature article="blog/2021/5/30/Backpacking-Trip-With-Carlos.md" />
+<Feature article="blog/2021/10/1/Life-Update-Seattle.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
-<Feature article="blog/2021/1/8/Analyzing_Potential_Blockchain_Candidates.md" />
+<Feature article="blog/2021/11/7/Roadmap.md" />
 
 ## Featured Recipe
 
@@ -14,7 +14,7 @@
 
 ### <span style="color:#1DB954">Music</span>
 
-<Feature article="blog/2021/7/11/For-How-Long.md" />
+<Feature article="blog/2021/11/8/Cloud-Nothings.md" />
 
 ### <span style="color:red">Art</span>
 
