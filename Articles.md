@@ -24,6 +24,7 @@
 # Articles
 
 * My opinions on Operating Systems
+* Sacred Geometry
 * Time
   - Standardizing measurements of time and space
       - Universal Time
