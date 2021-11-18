@@ -27,7 +27,7 @@ export default {
   mounted() {
     this.page = this.$site.pages.find(page => page.relativePath == this.article);
     this.previewImage = this.page.frontmatter.meta[4].content;
-    //console.log(this.page);
+    console.log(this.page);
   }
 }
 </script>
