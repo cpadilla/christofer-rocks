@@ -19,10 +19,12 @@
   "homepage": "https://github.com/cpadilla/christofer-rocks#readme",
   "dependencies": {
     "markdown-it-table-of-contents": "git+https://github.com/cpadilla/markdown-it-table-of-contents.git",
+    "sass": "^1.43.4",
     "vuepress": "^1.8.2",
     "vuepress-plugin-rss": "^2.0.0"
   },
   "devDependencies": {
+    "sass-loader": "^12.3.0",
     "vuepress-plugin-autometa": "^0.1.13",
     "vuepress-plugin-flexsearch": "^0.1.0"
   }
