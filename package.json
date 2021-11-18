@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "vuepress build src"
+    "build": "sudo vuepress build src"
   },
   "repository": {
     "type": "git",
