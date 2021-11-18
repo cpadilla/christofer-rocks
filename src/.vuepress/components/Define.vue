@@ -92,7 +92,8 @@ export default {
   }
 }
 </script>
-<style scoped lang='scss'>
+<!-- TODO: Fix styling to be css -->
+<style scoped lang='css'>
 .definition {
   min-width: 50vw;
   max-width: 600px;
