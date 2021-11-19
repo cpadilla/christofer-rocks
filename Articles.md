@@ -2,12 +2,16 @@
 
 # Priority list
 
-* Time
-* My Mental Health
+* Dune
+    - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
+* Sacred Geometry
 * The King
 * Bitcoin
   - CSW/Bitcoin core whitepaper controversy
     - Excuse to host bitcoin whitepaper
+  - Creating Bitcoin private keys with Dice
+    - Explaining Bitcoin to my mom
+* My Mental Health
 
 # Improvements
 
@@ -24,18 +28,19 @@
 # Articles
 
 * My opinions on Operating Systems
-* Sacred Geometry
-* Time
+* (Measuring) Time
   - Standardizing measurements of time and space
       - Universal Time
       - Solar Time
       - Calendar without leap years
+* Interstellar space travel
+    - Embryo space colonization
+    - cryogenics
+    - probably write this after Interstellar review
 * PGP
   - How Digital Signatures Work
       - See tweet from March 4
 * [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-* Creating Bitcoin private keys with Dice
-  - Explaining Bitcoin to my mom
 * A Map of Computer Science
     - https://www.youtube.com/watch?v=SzJ46YA_RaA&feature=youtu.be
 * Gource visualization
@@ -44,10 +49,6 @@
 * Hunting in the digital jungle
     - https://twitter.com/rockzombie2/status/747936547857666048
 * Why have AI models become so power hungry?
-* Interstellar space travel
-    - Embryo space colonization
-    - cryogenics
-    - probably write this after Interstellar review
 
 # Recipes
 
@@ -71,11 +72,8 @@
 # Case Studies
 
 ## Movies
-* Annihilation
 * Arrival
 * Interstellar
-* Dune
-    - Are the big science fiction franchises collapsing in the Era of 'Wokeness'
 * 1917
 * [The Witch](https://www.imdb.com/title/tt4263482/)
 * 2001: A Space Odessy
@@ -97,7 +95,6 @@
 
 ## Music
 * Somebody that I used to know - Gotye
-* affection - BETWEEN FRIENDS
 * I Said - Litany
 * Chanel - Frank Ocean
 * See Myself - Oscar Oscar
@@ -106,10 +103,10 @@
 * River - Bishop Briggs
 
 ## Artists
+* Ryoji Ikeda
 * @maalavidaa
 * Richard Serra
 * Pan Daijing
-* Ryoji Ikeda
 
 ## Games
 * Death Stranding
