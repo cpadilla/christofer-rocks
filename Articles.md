@@ -71,6 +71,7 @@
 # Case Studies
 
 ## Movies
+* Annihilation
 * Arrival
 * Interstellar
 * Dune
@@ -78,7 +79,6 @@
 * 1917
 * [The Witch](https://www.imdb.com/title/tt4263482/)
 * 2001: A Space Odessy
-* Annihilation
 * Alien Covenant
 * Mad Max
 * Blade Runner: 2049
