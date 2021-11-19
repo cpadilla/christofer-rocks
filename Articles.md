@@ -15,10 +15,12 @@
 
 # Improvements
 
+* Change nav link to go to /blog
+* Alphabetize tags
+* Add header links for Tags page (like Archive)
 * Archive by date
 * Fix redirect links
   - Root issue is hosting on Github pages: need to host myself/somewhere else
-* Add header links for Tags page (like Archive)
 * Google search widget
 * Google definition widget
 * Upload and use [Charter](https://fontesk.com/charter-typeface/) font
