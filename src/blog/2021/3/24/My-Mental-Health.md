@@ -153,7 +153,13 @@ I left the building and took off my shirt, no longer caring about my disguise. I
 
 Two cops approached me. I don't remember what they said, but I went with them anyway. I was ready to be taken in. If this whole system was a lie, I had nothing left for me here. I was ready to embrace my destiny and be accepted into the program as a secret agent.
 
-<div class="info"><b>To be continued.</b></div>
+## The Prison
+
+Unsurprisingly, I was not hauled off by two police officers to be escorted into a top-secret agent program.
+
+But I guess I didn't realize that at the time.
+
+
 
 <TagLinks />
 
