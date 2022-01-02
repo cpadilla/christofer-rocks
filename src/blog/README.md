@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2021/10/1/Life-Update-Seattle.md" />
+<Feature article="blog/2022/1/1/2022-No-Excuses.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
