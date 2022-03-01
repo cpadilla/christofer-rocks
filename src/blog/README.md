@@ -4,7 +4,7 @@
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
-<Feature article="blog/2021/11/17/Blockchain-Design.md" />
+<Feature article="blog/2022/2/28/UpdatedPlanForSpacePirates.md" />
 
 ## Featured Recipe
 
