@@ -3,6 +3,7 @@ title: Updated Plan for Space Pirates
 date: 2022-02-28
 description: A few points worth mentioning on the development of Space Pirates.
 author: Christofer Padilla
+image: https://christofer.rocks/images/lightningnetwork.jpeg
 type: post
 tags: ["SpacePirates", "Blockchain"]
 ---
