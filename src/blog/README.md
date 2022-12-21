@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2022/1/1/2022-No-Excuses.md" />
+<Feature article="blog/2022/12/20/2022-Summarized.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
