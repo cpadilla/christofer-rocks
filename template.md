@@ -10,6 +10,8 @@ tags: ["Reflections"]
 
 # {{ $page.title }}
 
+![Image](/images/vulkan.jpg)
+
 * Link to other blog articles
 
 It happened [again](/blog/1/2/3/Queries_into_the_4th_state_of_matter.md)
