@@ -51,8 +51,31 @@ module.exports = {
             twq('init','o5dw8');
             twq('track','PageView');
       `],
+    /*
+     * Hack to fix auto scrolling to anchors
+     */
+    ["script",
+        {
+          src: "/scripts/scroll-to-hash.js",
+        },
+      ],
       ['link', { rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css' }]
     ],
+    watch: {
+    $page(newPage, oldPage) {
+      if (newPage.key !== oldPage.key) {
+        requestAnimationFrame(() => {
+          if (this.$route.hash) {
+            const element = document.getElementById(this.$route.hash.slice(1));
+
+            if (element && element.scrollIntoView) {
+              element.scrollIntoView();
+            }
+          }
+        });
+      }
+    }
+  },
     themeConfig: {
       logo: '/images/logo.png',
       nav: [
@@ -61,6 +84,7 @@ module.exports = {
           { text: 'About', link: '/about/' },
           { text: 'Tags', link: '/tags/' }
       ],
+      smoothScroll: false, // We're handling this custom (credit to https://github.com/vuejs/vuepress/issues/1499#issuecomment-849148930)
       nextLinks: true,
       prevLinks: true,
       lastUpdated: 'Last Updated',
