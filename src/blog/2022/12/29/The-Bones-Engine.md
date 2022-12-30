@@ -3,7 +3,7 @@ title: The Bones Engine
 date: 2021-20-29
 description: I've decided to build a traditional game engine.
 author: Christofer Padilla
-image: /images/vulkan.jpg
+image: /images/solid-tears.jpeg
 type: post
 tags: ["Space Pirates"]
 ---

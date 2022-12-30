@@ -5,7 +5,7 @@ description: A few points worth mentioning on the development of Space Pirates.
 author: Christofer Padilla
 image: https://christofer.rocks/images/lightningnetwork.jpeg
 type: post
-tags: ["SpacePirates", "Blockchain"]
+tags: ["Space Pirates", "Blockchain"]
 ---
 
 # {{ $page.title }}
