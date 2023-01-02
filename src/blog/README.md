@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2022/12/20/2022-Summarized.md" />
+<Feature article="blog/2023/1/1/2023-Consistency.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
