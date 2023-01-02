@@ -39,7 +39,7 @@ I've already begun separating out the game engine from the base game. I'm hostin
 <figcaption><a href="https://www.instagram.com/skyroor/">@Skyroor</a></figcaption>
 </figure>
 
-I decded to change the name from Warp Engine to Bones Engine because I think of bones as the framework that provides locomotion to our systems. Thus, I want a bones framework animating the life behind the pixels that are rendered to the screen. It's a working title and I reserve the right to rename it again at a later date, but I like it so far.
+I decided to change the name from Warp Engine to Bones Engine because I think of bones as the framework that provides locomotion to our systems. Thus, I want a bones framework animating the life behind the pixels that are rendered to the screen. It's a working title and I reserve the right to rename it again at a later date, but I like it so far.
 
 You can follow my game development progress live on [Twitch](https://twitch.tv/rockzombie2)!
 
