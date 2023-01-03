@@ -56,6 +56,7 @@ module.exports = {
     themeConfig: {
       logo: '/images/logo.png',
       nav: [
+          { text: 'Portfolio', link: '/portfolio/' },
           { text: 'Articles', link: '/blog/' },
           { text: 'Archive', link: '/archive/' },
           { text: 'About', link: '/about/' },

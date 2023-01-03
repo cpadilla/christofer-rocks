@@ -27,3 +27,7 @@
 # Resume
 
 <Resume />
+
+# Portfolio
+
+<Portfolio />
