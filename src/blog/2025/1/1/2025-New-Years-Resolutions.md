@@ -72,7 +72,7 @@ I have a lot of goals for 2025.
 ### <ins>Go to the gym regularly</ins>
 * Two times a week on Tuesday and Thursday.
 * Walk at least 30 minutes.
-## <ins>Enroll for a Master's Degree</ins>
+### <ins>Enroll for a Master's Degree</ins>
 * I want to enroll in [Georgia Tech's online master's degree program](https://pe.gatech.edu/degrees/computer-science) since my work will pay for it.
 * The deadline to apply for the Fall is March 1st!
 
