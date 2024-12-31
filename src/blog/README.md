@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2024/1/3/2023-Reflections.md" />
+<Feature article="blog/2025/1/1/2025-New-Years-Resolutions.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
