@@ -3,6 +3,7 @@ title: Moving to Japan
 date: 2025-01-09
 description: I decided I want to move to Japan some day.
 author: Christofer Padilla
+image: /images/niceshrine.jpg
 type: post
 tags: ["Reflections", "Goals"]
 ---
