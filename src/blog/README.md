@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2025/1/1/2025-New-Years-Resolutions.md" />
+<Feature article="blog/2025/1/9/Moving-to-Japan.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
