@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2025/1/9/Moving-to-Japan.md" />
+<Feature article="/blog/2025/2/25/Anti-Consumption.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
