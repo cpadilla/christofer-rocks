@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="/blog/2025/2/25/Anti-Consumption.md" />
+<Feature article="blog/2025/3/31/Anti-Consumption-Part-2.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
