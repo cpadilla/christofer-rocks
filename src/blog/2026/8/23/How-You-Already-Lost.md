@@ -3,9 +3,8 @@ title: How You Already Lost
 date: 2026-08-23
 description: You are already in my Flawless Victory domain.
 author: Christofer Padilla
-image: https://img.youtube.com/vi/<video-url>/0.jpg
 type: post
-tags: ["Reflections"]
+tags: ["Space Pirates"]
 ---
 
 # {{ $page.title }}
