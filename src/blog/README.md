@@ -8,7 +8,7 @@
 
 ## Featured Recipe
 
-<Feature article="blog/2021/3/28/Cajun-Chicken-Parmesan-Penne.md" />
+<Feature article="blog/2026/9/4/Black-Bean-Stew.md" />
 
 ## Featured Case Studies
 
