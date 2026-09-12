@@ -1,6 +1,6 @@
 # Featured Articles
 
-<Feature article="blog/2026/8/17/Life-Update.md" />
+<Feature article="blog/2026/9/11/The-Celtic-Cross.md" />
 
 ## Latest [#SpacePirates](/tags/#Space-Pirates) Development
 
